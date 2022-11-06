@@ -211,7 +211,7 @@ dhabh “craftsman”: fabric, forge（v.艰苦干成，努力加强，伪造，
 *ker- “to grow”
 *ker- “heat, fire”
 *kerd- “heart”
-*kerp- “to gather, pluck, harvest”
+*kerp- “to gather, pluck, harvest”: carp（不停地抱怨，唠叨）, 
 *kers- “to run”: course, coarse（粗糙的，粗织的，粗的，大颗粒的，粗鲁无礼的，粗俗的）, cargo（货物）, car, carriage（客车厢，四轮马车，运输，运费，滑动托架，仪态，举止）, corral（n.畜栏，围栏v.把马或牛赶入围栏，把一群人集中起来关在一起）
 *kes- “to cut”: quash（撤销，阻止）, cask（小木桶，酒桶，一桶）
 *keu-/*skeu- “to see, observe, perceive”: caveat（警告，告诫）
@@ -698,6 +698,12 @@ lump（n.块v.把…归并在一起或合起来考虑）
 mug（n.大杯，缸子，马克杯，一缸子，脸，傻瓜，笨蛋v.行凶抢劫，打劫，扮鬼脸，扮怪相）
 slam（v.砰地关上，用力一放，使劲一推，猛劲一摔，猛烈抨击n.猛关的声音，猛关，猛摔）
 whim（心血来潮，一时的兴致，突发的奇想）
+
+## Gothic
+*karpa: carp（鲤鱼）
+
+## Dutch
+walrus: walrus（海象）
 
 ## Middle Dutch
 plugge “bung, stopper”: plug（n.插头，插座，转换插头，火花塞，塞子，栓塞，栓塞物，螺钉楔子，螺钉塞栓，推销，宣传v.堵塞，封堵，补足，补充，供给，推广，宣传，射击，射杀）
