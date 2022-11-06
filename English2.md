@@ -1,9 +1,5 @@
 # 英语 草稿
 
-plum n.李子，梅子，紫红色adj.称心的，值得拥有的
-buzzard 鵟，秃鹫
-walrus 海象
-
 keynote 书或演说的要旨，主题，基调，主音
 steadfast 坚定的，不动摇的
 goldfish 金鱼（单复同）

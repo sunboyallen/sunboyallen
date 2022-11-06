@@ -69,7 +69,10 @@ https://www.aliyundrive.com/
 
 https://www.allhistory.com/
 
+https://altema.jp/
+
 https://www.altera-price.com/
+
 
 https://www.amazon.com/
 https://www.amazon.cn/
@@ -422,6 +425,8 @@ https://freenode.net/view/Main_Page
 
 https://www.gamekee.com/
 https://touhoulostword.gamekee.com/
+
+https://gamepress.gg/
 
 https://www.gancube.com/zh/
 
@@ -1463,6 +1468,8 @@ https://zh.wikisource.org/wiki/Wikisource:%E9%A6%96%E9%A1%B5
 
 https://www.wiktionary.org/
 https://en.wiktionary.org/wiki/Wiktionary:Main_Page
+
+https://wikiwiki.jp/
 
 
 https://withpinbox.com/

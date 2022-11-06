@@ -237,7 +237,7 @@ dhabh “craftsman”: fabric, forge（v.艰苦干成，努力加强，伪造，
 *kweie-/*kwyee- “to rest, be quiet”: while, whilst, 
 *kwel-/*kwele- “revolve, move round; sojourn, dwell”: cyclo-, cyclic（循环的，周期的）
 →*kwel- “far”
-*kwent(h)- “to suffer”
+*kwent(h)- “to suffer”: pathetic（pathetic 可怜的，可悲的，令人怜惜的，无力的，不成功的）
 *kwet- “to shake”: paste（面团，肉酱，糨糊，铅制玻璃v.粘贴，粘合，拼贴，插入）
 *kwetwer- “four”
 *kwezd- “a part, piece”: piece, 
@@ -557,6 +557,7 @@ aequus “level, even, flat; as tall as, on a level with; friendly, kind, just, 
 -atus/-atum: -y, -ate, 
 auris “ear”: auscultate（听诊）, scout（n.童子军，童子军成员，侦查员，侦察机，星探，人才发掘者v侦察，搜寻，物色）
 baiulus “porter, carrier, one who bears burdens (for pay)”: bail（n.保释金，保释v.允许保释某人，迅速离开，与…搭讪）
+buteonem: buzzard（鵟，秃鹫）
 caupo “petty tradesman, huckster, peddler”: chap（家伙，伙计）
 cras “tomorrow”
 crux “cross”: crux（关键，最难点，症结）, crusade（n.斗争，运动，十字军东征v.长期坚定不移地奋斗）
