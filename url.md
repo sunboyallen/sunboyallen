@@ -67,6 +67,8 @@ https://www.ali213.net/
 
 https://www.aliyundrive.com/
 
+https://www.alldatasheetcn.com/
+
 https://www.allhistory.com/
 
 https://altema.jp/
@@ -176,6 +178,7 @@ https://www.britannica.com/
 https://bulink.xyz/
 
 https://www.bv2008.cn/
+<!-- 志愿北京 -->
 
 https://byr.pt/
 
@@ -324,6 +327,8 @@ https://www.digitalocean.com/
 
 https://discord.com/
 
+https://www.diva-portal.org/
+
 https://www.djangoproject.com/
 https://docs.djangoproject.com/zh-hans/4.1/
 
@@ -386,6 +391,10 @@ https://www.etsy.com/
 
 https://www.etymonline.com/
 
+https://ec.europa.eu/info/index_en
+https://european-union.europa.eu/index_en
+https://www.eea.europa.eu/
+
 https://evernote.com/intl/zh-cn
 
 https://en.everybodywiki.com/Everybodywiki:Welcome
@@ -429,6 +438,8 @@ https://www.gamekee.com/
 https://touhoulostword.gamekee.com/
 
 https://gamepress.gg/
+
+https://gamerch.com/
 
 https://www.gancube.com/zh/
 
@@ -474,6 +485,7 @@ https://docs.github.com/cn
 https://pages.github.com/
 
 https://hexchat.github.io/
+https://iot-book.github.io/
 https://lzexmpoane.github.io/chinese-lang/
 https://ssast-readme.github.io/
 
@@ -607,6 +619,10 @@ https://www.izyz.org/
 
 https://www.java.com/zh-CN/
 
+https://javgg.net/
+
+https://www.javlibrary.com/cn/
+
 https://javtxt.org/
 
 https://jekyllrb.com/
@@ -627,7 +643,9 @@ https://www.jiqizhixin.com/
 https://jisho.org/
 
 https://jitenon.jp/
+https://chimei.jitenon.jp/
 https://kanji.jitenon.jp/
+https://myoji.jitenon.jp/
 
 https://www.jixiaob.cn/
 https://blog.jixiaob.cn/
@@ -640,6 +658,8 @@ https://admission.join-tsinghua.edu.cn/frontend/site/login
 https://bk.join-tsinghua.edu.cn/bz.wsbm_login.jsp?err=null
 https://wxyx.join-tsinghua.edu.cn/res/SpecialWsbm/indexdept.html
 
+https://www.jpmnb.net/
+
 https://js.org/
 https://webpack.js.org/
 
@@ -651,10 +671,15 @@ https://juejin.cn/
 
 ## K
 
+https://www.kadokawa.co.jp/
+https://promo.kadokawa.co.jp/shinjigen/
+
 https://www.kancloud.cn/
 
 https://www.kangxizidian.com/
 https://forum.kangxizidian.com/
+
+https://www.kanjipedia.jp/
 
 https://katex.org/
 
@@ -669,8 +694,14 @@ https://www.kmspicoofficial.com/
 https://kopernio.com/
 <!-- endnote -->
 
+https://kotobank.jp/
+
 https://www.kpbs.org/
 https://video.kpbs.org/
+
+https://ksbookshelf.com/
+https://ksbookshelf.com/nozomu-oohara/
+
 
 https://dazi.kukuw.com/
 
@@ -683,6 +714,8 @@ https://www.lanzou.com/
 https://www.lastpass.com/
 
 https://www.latex-project.org/
+
+https://www.lead.org/
 
 https://leetcode.cn/
 https://leetcode.com/
@@ -808,6 +841,8 @@ https://tool.mingdawoo.com/
 
 https://www.mingw-w64.org/
 
+https://missav.com/cn
+
 https://web.mit.edu/
 https://scratch.mit.edu/
 
@@ -837,6 +872,7 @@ https://www.mozilla.org/zh-CN/firefox/
 https://musedash.moe/
 
 https://musescore.org/zh-hans
+<!-- 作谱软件 -->
 
 https://myacg.xyz/
 
@@ -877,6 +913,8 @@ https://www.nju.edu.cn/main.htm
 https://cssrac.nju.edu.cn/
 https://cssrac.nju.edu.cn/cpzx/zwshkxywsy/index.html
 <!-- 南京大学 中文社会科学引文索引CSSCI来源期刊目录 -->
+
+https://nmsl.website/%E9%A6%96%E9%A1%B5
 
 https://nodejs.org/zh-cn/
 https://nodejs.org/zh-cn/docs/
@@ -980,6 +1018,8 @@ https://picsart.com/
 https://www.pigeongames.cn/
 https://www.pigeongames.cn/phigros
 
+https://www.pincong.rocks/
+
 https://www.pinggu.org/
 https://bbs.pinggu.org/
 
@@ -996,6 +1036,7 @@ https://pixabay.com/zh/
 https://www.pixiv.net/
 
 https://www.pku.edu.cn/
+https://bbs.pku.edu.cn/v2/home.php
 https://www.isss.pku.edu.cn/cfps/
 https://www.lib.pku.edu.cn/portal/cn
 http://hxqk.lib.pku.edu.cn/
@@ -1125,6 +1166,8 @@ https://bbs.seafile.com/
 
 https://segmentfault.com/
 
+https://www.semanticscholar.org/
+
 https://www.shehuiwang.cn/site/index.jsp
 http://epaper.shehuiwang.cn/site/index.jsp
 
@@ -1201,6 +1244,8 @@ https://www.stroustrup.com/
 
 https://subingwen.cn/
 https://subingwen.cn/qt/
+
+https://supjav.com/
 
 https://syaro.io/
 https://liferestart.syaro.io/
@@ -1299,6 +1344,7 @@ https://lib.tsinghua.edu.cn/
 https://mails.tsinghua.edu.cn/
 https://mirrors.tuna.tsinghua.edu.cn/
 http://newstu.myhome.tsinghua.edu.cn/
+https://planet.tsinghua.edu.cn/
 http://pt.tsinghua.edu.cn/home/frontAction.do?ms=gotoIndex
 https://reserves.lib.tsinghua.edu.cn/
 https://seat.lib.tsinghua.edu.cn/home/web/
@@ -1354,6 +1400,8 @@ https://cn.ubuntu.com/
 https://uigradients.com/
 
 https://www.umeng.com/
+
+https://www.unep.org/
 
 https://www.unhcr.org/
 
@@ -1440,6 +1488,8 @@ https://www.wanweibaike.net/
 
 https://warma.moe/
 
+https://www.weblio.jp/
+
 https://weibo.com/
 
 https://www.weiyun.com/
@@ -1472,9 +1522,12 @@ https://www.wiktionary.org/
 https://en.wiktionary.org/wiki/Wiktionary:Main_Page
 
 https://wikiwiki.jp/
-
+https://wikiwiki.jp/toho_lw/
 
 https://withpinbox.com/
+
+https://www.wolfram.com/
+https://mathworld.wolfram.com/
 
 https://www.wolframalpha.com/
 
@@ -1482,13 +1535,14 @@ https://www.wombo.art/
 
 https://www.woodo.cn/
 
-https://www.worldcoinindex.com/
 
 https://wordpress.com/zh-cn/
 
 https://www.wordreference.com/
 
 https://www.worldbank.org/en/home
+
+https://www.worldcoinindex.com/
 
 https://www.wosouyun.com/
 
