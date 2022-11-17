@@ -1457,6 +1457,9 @@ https://vibaike.com/
 
 https://vimeo.com/
 
+https://vimsky.com/
+https://latex.vimsky.com/
+
 https://code.visualstudio.com/
 https://code.visualstudio.com/docs
 
