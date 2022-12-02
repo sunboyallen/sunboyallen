@@ -24,6 +24,8 @@ https://www.21wecan.com/
 
 https://www.23mofang.com/
 
+https://35photo.pro/
+
 http://www.360doc.com/index.html
 
 https://www.360totalsecurity.com/zh-cn/
@@ -121,6 +123,11 @@ https://www.baike.com/
 
 https://baoshuo.dev/
 https://oier.baoshuo.dev/
+
+https://www.bbc.com/
+
+https://www.bbc.co.uk/learningenglish/
+https://www.bbc.co.uk/learningenglish/chinese/home
 
 https://bcy.net/
 
@@ -232,6 +239,8 @@ https://www.citationmachine.net/
 
 https://clarivate.com/
 
+https://clashforwindows.org/
+
 https://closed.social/
 https://in.closed.social:9443/pastExam/
 https://t.closed.social/
@@ -258,6 +267,9 @@ https://www.codecademy.com/
 https://codeforces.com/
 
 https://www.collinsdictionary.com/
+
+https://www.colorado.edu/
+https://phet.colorado.edu/zh_CN/
 
 https://www.coodesker.com/
 
@@ -377,7 +389,11 @@ https://www.eesc.com.cn/#/index
 https://element.io/
 
 https://www.emojiall.com/zh-hans
+
 https://emojipedia.org/
+https://emojipedia.org/zh/
+
+https://emojixd.com/
 
 https://www.encyclopedia.com/
 
@@ -488,6 +504,8 @@ https://hexchat.github.io/
 https://iot-book.github.io/
 https://lzexmpoane.github.io/chinese-lang/
 https://ssast-readme.github.io/
+https://t-hole.github.io/
+https://thuhollow.github.io/
 
 https://gitlab.com/
 https://forum.gitlab.com/
@@ -741,6 +759,8 @@ https://linoxide.com/
 https://www.linux.org/
 https://linux.cn/
 
+https://www.linuxv2ray.com/
+
 https://onedrive.live.com/
 https://outlook.live.com/mail/0/
 
@@ -916,6 +936,8 @@ https://www.nju.edu.cn/main.htm
 https://cssrac.nju.edu.cn/
 https://cssrac.nju.edu.cn/cpzx/zwshkxywsy/index.html
 <!-- 南京大学 中文社会科学引文索引CSSCI来源期刊目录 -->
+
+https://www.nmbxd1.com/Forum
 
 https://nmsl.website/%E9%A6%96%E9%A1%B5
 
@@ -1211,6 +1233,7 @@ https://sou-yun.cn/
 
 https://sourceforge.net/
 
+http://www.sp2000.org.cn/
 
 https://speedpdf.com/zh-cn/
 
@@ -1382,6 +1405,9 @@ https://tuna.moe/help/ntp/
 https://www.tuxfamily.org/
 https://eigen.tuxfamily.org/index.php?title=Main_Page
 
+https://www.tv-asahi.co.jp/
+https://news.tv-asahi.co.jp/
+
 https://www.twitch.tv/
 
 https://twitter.com/home
@@ -1434,6 +1460,8 @@ https://lug.ustc.edu.cn/
 https://lug.ustc.edu.cn/wiki/
 https://101.lug.ustc.edu.cn/
 https://mirrors.ustc.edu.cn/
+https://vlab.ustc.edu.cn/
+https://vlab.ustc.edu.cn/guide/index.html
 
 https://www.utorrent.com/intl/zh_cn/
 
