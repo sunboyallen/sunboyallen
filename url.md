@@ -2,6 +2,8 @@
 
 ## $
 
+https://0.30000000000000004.com/
+
 https://10086.cn/index/bj/index_100_100.html
 https://mail.10086.cn/
 
@@ -62,6 +64,8 @@ https://aidn.jp/sound/
 
 
 https://www.aigei.com/
+
+https://www.ajeee.com/
 
 https://cn.akinator.com/
 
@@ -186,6 +190,8 @@ https://bulink.xyz/
 
 https://www.bv2008.cn/
 <!-- 志愿北京 -->
+
+https://chat.bygpt.com/
 
 https://byr.pt/
 
@@ -344,6 +350,8 @@ https://www.diva-portal.org/
 https://www.djangoproject.com/
 https://docs.djangoproject.com/zh-hans/4.1/
 
+https://www.dmm.co.jp/top/
+
 https://www.doc88.com/
 
 https://www.docin.com/
@@ -361,6 +369,8 @@ https://www.douban.com/
 
 https://doxygen.nl/
 https://www.doxygen.nl/
+
+https://www.dpm.org.cn/Home.html
 
 https://www.duba.com/
 https://desk.duba.com/
@@ -428,6 +438,7 @@ https://mahjong.fandom.com/zh/wiki/%E9%BA%BB%E5%B0%87_%E7%BB%B4%E5%9F%BA:%E4%B8%
 https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki
 https://musedash.fandom.com/wiki/Muse_Dash_Wiki
 https://pvz.fandom.com/zh/wiki/%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8%E7%99%BE%E7%A7%91
+https://pkuhistory.fandom.com/zh/wiki/%E5%8C%97%E5%A4%A7%E9%87%8E%E5%8F%B2_Wiki
 https://touhou.fandom.com/zh/wiki/%E4%B8%9C%E6%96%B9Project_Wiki
 
 https://feeder.co/
@@ -439,12 +450,16 @@ https://www.figma.com/
 
 https://www.firefox.com.cn/
 
+https://flipsimu.com/
+
 http://formatfactory.org/CN/index.html
 
 https://www.foxitsoftware.cn/
 https://vip.foxitsoftware.cn/
 
 https://www.freecheck.cn/
+
+https://freembook.com/
 
 https://freenode.net/view/Main_Page
 
@@ -534,8 +549,12 @@ https://scholar.google.com/
 
 https://www.gov.cn/
 
+https://gptapi.cn/
+
 https://www.grammarly.com/
 https://app.grammarly.com/
+
+https://www.grammy.com/
 
 https://cn.gravatar.com/
 
@@ -552,6 +571,8 @@ https://beta.hack.chat/
 https://hack.chat/?kt1j8rpc
 
 https://www.hao123.com/
+
+https://hbox.jp/
 
 https://forum.hentai.sh/
 <!-- 唧唧jijidown社区 -->
@@ -591,6 +612,7 @@ https://www.idiotbots.com/
 
 https://www.ieee.org/
 https://ieeexplore.ieee.org/Xplore/home.jsp
+https://standards.ieee.org/
 
 https://www.ieway.cn/
 https://www.ieway.cn/evcapture.html
@@ -634,6 +656,8 @@ https://iszg100.xyz/
 https://www.izyz.org/
 
 ## J
+
+https://jable.tv/
 
 https://www.java.com/zh-CN/
 
@@ -817,6 +841,8 @@ https://www.mcmod.cn/
 https://www.mebag.com/
 https://www.mebag.com/index/
 
+https://www.mediafire.com/
+
 
 https://www.mdbg.net/chinese/dictionary
 
@@ -928,6 +954,8 @@ https://www.nicovideo.jp/
 https://www.nih.gov/
 https://pubchem.ncbi.nlm.nih.gov/periodic-table/
 
+https://www.nijiyome.jp/
+
 https://www.nintendo.co.jp/
 
 https://www.nist.gov/
@@ -992,6 +1020,11 @@ https://www.onlinegdb.com/
 https://onlinejudge.org/
 
 https://www.open-std.org/
+
+https://openai.com/
+https://chat.openai.com/chat
+
+https://www.openathens.net/
 
 http://openjudge.cn/
 
@@ -1219,6 +1252,8 @@ https://www.sketch.com/
 
 https://slack.com/intl/zh-cn/
 
+https://snapseedofficial.com/
+
 https://www.sohu.com/
 https://mail.sohu.com/
 
@@ -1254,8 +1289,10 @@ https://www.st-andrews.ac.uk/
 https://mathshistory.st-andrews.ac.uk/
 
 https://stackexchange.com/
+https://chemistry.stackexchange.com/
 https://math.stackexchange.com/
 https://music.stackexchange.com/
+https://physics.stackexchange.com/
 
 https://stackoverflow.com/
 
@@ -1294,6 +1331,8 @@ https://www.tan8.com/
 https://www.taptap.cn/
 https://www.taptap.io/
 
+https://tarothall.com/
+
 https://www.tea-12.com/
 
 https://www.ted.com/
@@ -1311,6 +1350,8 @@ https://thispersondoesnotexist.com/
 https://thu.services/
 
 https://www.thesaurus.com/
+
+https://thu-history.net/wiki/%E9%A6%96%E9%A1%B5
 
 http://jiuge.thunlp.org/
 
@@ -1429,6 +1470,8 @@ https://zh-cn.ubisoft.com/
 
 https://ubuntu.com/
 https://cn.ubuntu.com/
+
+https://www.udacity.com/
 
 https://uigradients.com/
 
@@ -1692,3 +1735,5 @@ https://www.zotero.org/
 https://www.zxxk.com/
 
 https://www.zybuluo.com/mdeditor
+
+https://zzchat.eu.org/index.html
