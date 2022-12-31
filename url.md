@@ -20,6 +20,8 @@ https://www.189.cn/
 https://cloud.189.cn/
 https://webmail30.189.cn/w2/index.html
 
+https://18comic.vip/
+
 https://www.1ppt.com/
 
 https://www.21wecan.com/
@@ -35,6 +37,8 @@ https://www.360totalsecurity.com/zh-cn/360zip/
 
 http://47.96.98.153/all
 <!-- 炒饭社区 -->
+
+https://www.4fun.chat/home
 
 https://www.51nod.com/
 
@@ -65,6 +69,8 @@ https://aidn.jp/sound/
 
 https://www.aigei.com/
 
+https://www.airpano.org.cn/
+
 https://www.ajeee.com/
 
 https://cn.akinator.com/
@@ -89,6 +95,8 @@ https://www.aminer.cn/
 https://models.aminer.cn/
 https://models.aminer.cn/CogView/
 
+https://handle.antfu.me/
+
 https://www.apa.org/
 https://apastyle.apa.org/
 
@@ -98,6 +106,8 @@ https://www.apowersoft.cn/phone-mirror
 
 https://www.appen.com.cn/
 https://appen.com/
+
+https://www.aps.org/
 
 https://arcaea.cn/
 https://bbs.arcaea.cn/
@@ -208,11 +218,15 @@ https://cardgames.io/
 
 http://www.ccamc.org/
 
+https://www.changhai.org/
+
 https://www.chaoxing.com/
 
 https://www.chemicalbook.com/ProductIndex.aspx
 
 https://www.china-emu.cn/
+
+https://www.chinacdc.cn/
 
 http://www.chinese-linguipedia.org/
 
@@ -240,6 +254,8 @@ https://www.chunkbase.com/
 https://cili.st/
 
 https://portal.circle.ms/
+
+https://www.circuitlab.com/
 
 https://www.citationmachine.net/
 
@@ -272,10 +288,17 @@ https://www.codecademy.com/
 
 https://codeforces.com/
 
+https://www.codenong.com/
+
 https://www.collinsdictionary.com/
 
 https://www.colorado.edu/
 https://phet.colorado.edu/zh_CN/
+
+https://www.conholdate.app/zh
+https://products.conholdate.app/zh
+https://products.conholdate.app/zh/viewer
+https://products.conholdate.app/zh/viewer/vsdx
 
 https://www.coodesker.com/
 
@@ -329,6 +352,8 @@ https://www.dal.net/
 
 https://danmakuwiki.com/
 
+https://darwinawards.com/
+
 https://daumpotplayer.com/
 
 https://www.dayila.net/
@@ -362,6 +387,7 @@ https://webpack.docschina.org/concepts/
 
 
 https://www.doi.org/
+https://dx.doi.org/
 
 https://www.dotcpp.com/
 
@@ -383,11 +409,17 @@ https://www.dytt8.net/index2.htm
 
 https://www.ea.com/zh-cn
 
+https://easyeda.com/
+
 https://cn.edgemeplease.com/
 
+https://www.edrawmax.cn/online/zh/
 https://www.edrawsoft.cn/
+<!-- 亿图 -->
 
 https://www.edrdg.org/
+
+https://api.edwiv.com/bzsy/
 
 https://www.edx.org/
 
@@ -395,6 +427,8 @@ https://www.eeagd.edu.cn/
 https://pg.eeagd.edu.cn/ks/h5/index.html#/xgk/ggxx
 
 https://www.eesc.com.cn/#/index
+
+https://www.electronic-software-shop.com/
 
 https://element.io/
 
@@ -425,11 +459,15 @@ https://evernote.com/intl/zh-cn
 
 https://en.everybodywiki.com/Everybodywiki:Welcome
 
+https://www.ezqaq.com/
+
 https://ezstems.com/
 
 ## F
 
 https://www.facebook.com/
+
+https://fakeupdate.net/
 
 https://www.fandom.com/
 https://homeworld.fandom.com/wiki/Main_Page
@@ -437,6 +475,7 @@ https://math.fandom.com/zh/wiki/%E4%B8%AD%E6%96%87%E6%95%B0%E5%AD%A6_Wiki:%E4%B8
 https://mahjong.fandom.com/zh/wiki/%E9%BA%BB%E5%B0%87_%E7%BB%B4%E5%9F%BA:%E4%B8%BB%E9%A0%81
 https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki
 https://musedash.fandom.com/wiki/Muse_Dash_Wiki
+https://newkomica-kari.fandom.com/zh-tw/wiki/%E9%A6%96%E9%A0%81
 https://pvz.fandom.com/zh/wiki/%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8%E7%99%BE%E7%A7%91
 https://pkuhistory.fandom.com/zh/wiki/%E5%8C%97%E5%A4%A7%E9%87%8E%E5%8F%B2_Wiki
 https://touhou.fandom.com/zh/wiki/%E4%B8%9C%E6%96%B9Project_Wiki
@@ -449,6 +488,8 @@ https://ffmpeg.org/
 https://www.figma.com/
 
 https://www.firefox.com.cn/
+
+https://flagpedia.net/
 
 https://flipsimu.com/
 
@@ -494,6 +535,8 @@ https://wiki.gensoukyo.moe/wiki/%E9%A6%96%E9%A1%B5
 
 https://www.geogebra.org/
 
+https://www.geoguessr.com/
+
 https://getbootstrap.com/
 
 https://ggo.net.cn/
@@ -515,10 +558,18 @@ https://github.com/
 https://docs.github.com/cn
 https://pages.github.com/
 
+https://cheeaun.github.io/
+
 https://hexchat.github.io/
+
 https://iot-book.github.io/
+
 https://lzexmpoane.github.io/chinese-lang/
+
+https://minhaskamal.github.io/DownGit/#/home
+
 https://ssast-readme.github.io/
+
 https://t-hole.github.io/
 https://thuhollow.github.io/
 
@@ -549,6 +600,8 @@ https://scholar.google.com/
 
 https://www.gov.cn/
 
+https://cn.govopendata.com/xinwenlianbo/
+
 https://gptapi.cn/
 
 https://www.grammarly.com/
@@ -561,6 +614,11 @@ https://cn.gravatar.com/
 https://greasyfork.org/zh-CN
 
 https://grid.is/
+
+https://www.groupdocs.app/
+https://www.groupdocs.app/zh/
+https://products.groupdocs.app/
+https://products.groupdocs.app/zh/viewer/family
 
 https://www.gushiwen.cn/
 
@@ -597,6 +655,8 @@ https://cloud.huawei.com/
 
 https://www.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5
 https://santi.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5
+
+https://humanbenchmark.com/
 
 https://www.huorong.cn/
 
@@ -647,6 +707,8 @@ https://www.internationalphoneticassociation.org/content/ipa-chart
 
 https://www.investopedia.com/
 
+https://www.ioccc.org/
+
 https://iogames.space/
 
 https://isocpp.org/
@@ -694,6 +756,8 @@ https://blog.jixiaob.cn/
 https://tools.jixiaob.cn/
 https://tools.jixiaob.cn/bv2av/
 
+https://jmcomic2.onl/
+
 https://join-tsinghua.edu.cn/
 https://join-tsinghua.edu.cn/gnxs/qjjh.htm
 https://admission.join-tsinghua.edu.cn/frontend/site/login
@@ -733,6 +797,8 @@ http://www.kingdraw.cn/
 
 https://www.kmspicoofficial.com/
 
+https://www.koalastothemax.com/
+
 https://kopernio.com/
 <!-- endnote -->
 
@@ -757,6 +823,8 @@ https://www.lastpass.com/
 
 https://www.latex-project.org/
 
+https://lceda.cn/
+
 https://www.lead.org/
 
 https://leetcode.cn/
@@ -772,6 +840,8 @@ https://libera.chat/
 https://lightoj.com/home
 
 https://lihkg.com/
+
+https://www.linerider.com/
 
 https://wiki.lingshangkaihua.com/mediawiki/index.php/%E9%A6%96%E9%A1%B5
 
@@ -807,6 +877,8 @@ https://magiconch.com/
 https://lab.magiconch.com/
 https://lab.magiconch.com/homo/
 
+https://www.mahjong.com/
+
 https://maimai.cn/
 
 https://www.maj-soul.com/#/home
@@ -830,6 +902,8 @@ https://matlab.mathworks.com/
 https://www.matongxue.com/
 
 https://www.matrix.io/index_cn.html
+
+https://www.mazegenerator.net/
 
 https://www.mbalib.com/
 
@@ -936,6 +1010,7 @@ https://nerdschalk.com/
 
 https://net9.org/
 https://docs.net9.org/
+<!-- 计算机系学生科协技能引导文档 -->
 
 https://www.netlify.com/
 https://netlify.app/
@@ -1042,6 +1117,8 @@ https://www.oschina.net/
 
 https://osdn.net/
 
+https://oshwhub.com/
+
 https://cn.overleaf.com/
 
 https://www.oxfordlearnersdictionaries.com/
@@ -1055,6 +1132,8 @@ https://www.paperfree.cn/
 https://www.paperpass.com/
 https://www.paperpp.com/
 https://www.paperyy.com/
+
+https://www.partsim.com/
 
 https://www.patreon.com/
 
@@ -1088,6 +1167,8 @@ https://zoj.pintia.cn/home/news
 
 https://www.pinterest.es/
 
+https://pinyincaichengyu.com/
+
 https://www.pishu.cn/
 https://www.pishu.com.cn/skwx_ps/database?SiteID=14
 
@@ -1103,6 +1184,8 @@ http://hxqk.lib.pku.edu.cn/
 <!-- 北京大学中文核心期刊要目总览 -->
 https://opendata.pku.edu.cn/
 
+http://www.planecrashinfo.com/
+http://www.planecrashinfo.com/lastwords.htm
 
 https://www.playstation.com/zh-hans-cn/
 
@@ -1189,6 +1272,8 @@ https://reshish.com/zh/
 https://graph.reshish.com/zh/
 https://matrix.reshish.com/zh/
 
+https://www.redtube.com/
+
 https://www.riotgames.com/zh-cn
 
 https://rsshub.app/
@@ -1210,6 +1295,9 @@ https://www.samr.gov.cn/
 https://openstd.samr.gov.cn/bzgk/gb/
 
 https://sci-hub.se/
+https://www.sci-hub.st/
+https://sci-hub.st/
+https://sci-hub.ru/
 
 https://www.sciencenet.cn/
 
@@ -1343,13 +1431,17 @@ https://web.telegram.org/k/
 https://www.tencent.com/
 https://meeting.tencent.com/
 
+https://www.texpage.com/
+
 https://www.thefreedictionary.com/
+
+https://www.thesaurus.com/
+
+https://theuselessweb.com/
 
 https://thispersondoesnotexist.com/
 
 https://thu.services/
-
-https://www.thesaurus.com/
 
 https://thu-history.net/wiki/%E9%A6%96%E9%A1%B5
 
@@ -1459,12 +1551,14 @@ https://forum.typecho.org/
 https://typora.io/
 https://typoraio.cn/
 
+https://tyuans.com/
+https://news.tyuans.com/
+
 ## U
 
 https://zh.u1lib.org/
 
 https://uahh.site/reborn
-
 
 https://zh-cn.ubisoft.com/
 
@@ -1476,6 +1570,8 @@ https://www.udacity.com/
 https://uigradients.com/
 
 https://www.umeng.com/
+
+http://www.uml.com.cn/
 
 https://www.unep.org/
 
@@ -1611,6 +1707,7 @@ https://www.wolfram.com/
 https://mathworld.wolfram.com/
 
 https://www.wolframalpha.com/
+https://mathworld.wolfram.com/
 
 https://www.wombo.art/
 
@@ -1640,6 +1737,8 @@ https://gd.wsglw.net/HomePublic/PublicIndex
 https://wy-lang.org/
 https://ide.wy-lang.org/
 
+https://www.wzhecnu.cn/
+
 ## X
 
 http://xchat.org/
@@ -1663,7 +1762,6 @@ https://pan.xunlei.com/
 
 http://www.xw100.com/
 http://live.xw100.com/
-
 
 ## Y
 
