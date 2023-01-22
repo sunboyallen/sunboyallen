@@ -91,9 +91,15 @@ https://www.altera-price.com/
 https://www.amazon.com/
 https://www.amazon.cn/
 
+https://www.amiami.jp/
+
 https://www.aminer.cn/
 https://models.aminer.cn/
 https://models.aminer.cn/CogView/
+
+http://www.ankichina.net/
+
+https://ankiweb.net/
 
 https://handle.antfu.me/
 
@@ -134,6 +140,8 @@ https://wenku.baidu.com/
 https://xueshu.baidu.com/
 
 https://www.baike.com/
+
+https://www.bakaxl.com/
 
 https://baoshuo.dev/
 https://oier.baoshuo.dev/
@@ -216,6 +224,8 @@ https://www.canva.cn/
 
 https://cardgames.io/
 
+https://www.catalogueoflife.org/
+
 http://www.ccamc.org/
 
 https://www.changhai.org/
@@ -295,6 +305,8 @@ https://www.collinsdictionary.com/
 https://www.colorado.edu/
 https://phet.colorado.edu/zh_CN/
 
+https://comic-walker.com/
+
 https://www.conholdate.app/zh
 https://products.conholdate.app/zh
 https://products.conholdate.app/zh/viewer
@@ -326,6 +338,8 @@ https://www.creprice.cn/
 https://crosst.chat/
 
 https://crossword-solver.io/
+
+https://crosswordle.org/
 
 https://csdiy.wiki/
 
@@ -411,6 +425,8 @@ https://www.ea.com/zh-cn
 
 https://easyeda.com/
 
+https://www.ebay.com/
+
 https://cn.edgemeplease.com/
 
 https://www.edrawmax.cn/online/zh/
@@ -483,6 +499,9 @@ https://touhou.fandom.com/zh/wiki/%E4%B8%9C%E6%96%B9Project_Wiki
 https://feeder.co/
 https://feedly.com/
 
+https://www.fengtao.xyz/
+https://yavt.fengtao.xyz/
+
 https://ffmpeg.org/
 
 https://www.figma.com/
@@ -492,6 +511,10 @@ https://www.firefox.com.cn/
 https://flagpedia.net/
 
 https://flipsimu.com/
+
+https://www.flyordie.com/zh_cn/
+https://www.flyordie.com/zh_cn/billiard/
+https://www.flyordie.com/zh_cn/snooker/
 
 http://formatfactory.org/CN/index.html
 
@@ -542,6 +565,8 @@ https://getbootstrap.com/
 https://ggo.net.cn/
 https://yun.ggo.net/
 
+https://www.gift-gift.jp/
+
 https://www.gimp.org/
 
 https://git-scm.com/
@@ -558,11 +583,17 @@ https://github.com/
 https://docs.github.com/cn
 https://pages.github.com/
 
+https://8values.github.io/
+
 https://cheeaun.github.io/
+
+https://cnvalues.github.io/
 
 https://hexchat.github.io/
 
 https://iot-book.github.io/
+
+https://leftvalues.github.io/
 
 https://lzexmpoane.github.io/chinese-lang/
 
@@ -581,6 +612,8 @@ https://gitmind.cn/
 
 https://gitter.im/
 https://gitter.im/home
+
+https://globle.org/
 
 https://glyphwiki.org/wiki/GlyphWiki:%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8
 
@@ -619,6 +652,9 @@ https://www.groupdocs.app/
 https://www.groupdocs.app/zh/
 https://products.groupdocs.app/
 https://products.groupdocs.app/zh/viewer/family
+
+https://www.gushicimingju.com/
+https://www.gushicimingju.com/gushi/cipaiming/
 
 https://www.gushiwen.cn/
 
@@ -756,6 +792,8 @@ https://blog.jixiaob.cn/
 https://tools.jixiaob.cn/
 https://tools.jixiaob.cn/bv2av/
 
+https://jmcomic1.bet/
+
 https://jmcomic2.onl/
 
 https://join-tsinghua.edu.cn/
@@ -822,6 +860,9 @@ https://www.lanzou.com/
 https://www.lastpass.com/
 
 https://www.latex-project.org/
+https://www.latex-project.org/help/documentation/
+
+https://www.latexlive.com/
 
 https://lceda.cn/
 
@@ -854,6 +895,8 @@ https://www.linux.org/
 https://linux.cn/
 
 https://www.linuxv2ray.com/
+
+https://littleskin.cn/
 
 https://onedrive.live.com/
 https://outlook.live.com/mail/0/
@@ -966,6 +1009,8 @@ https://missav.com/cn
 https://web.mit.edu/
 https://scratch.mit.edu/
 
+https://www.miyoushe.com/ys/
+
 https://www.mnr.gov.cn/
 http://bzdt.ch.mnr.gov.cn/
 
@@ -983,6 +1028,8 @@ https://zh.moegirl.org.cn/Mainpage
 https://moji.or.jp/
 https://moji.or.jp/mojikibansearch/basic
 <!-- or.jp是日本域名格式 -->
+
+https://monkeytype.com/
 
 https://www.mouser.cn/
 
@@ -1061,6 +1108,8 @@ https://ac.nowcoder.com/acm/problem/list
 https://www.numberempire.com/
 https://zh.numberempire.com/
 
+https://numberle.org/
+
 https://numpy.org/
 https://numpy.org/doc/stable/
 
@@ -1125,9 +1174,15 @@ https://www.oxfordlearnersdictionaries.com/
 
 ## P
 
+https://www.pango.network/
+
 https://pantayun.com/
 
 https://www.paperask.com/
+
+https://paperee.guru/
+https://book.paperee.guru/
+
 https://www.paperfree.cn/
 https://www.paperpass.com/
 https://www.paperpp.com/
@@ -1168,6 +1223,8 @@ https://zoj.pintia.cn/home/news
 https://www.pinterest.es/
 
 https://pinyincaichengyu.com/
+
+https://pipiusagi.com/
 
 https://www.pishu.cn/
 https://www.pishu.com.cn/skwx_ps/database?SiteID=14
@@ -1264,6 +1321,10 @@ https://hexchat.readthedocs.io/en/latest/
 
 https://www.reddit.com/
 
+https://www.redtube.com/
+
+https://refold.la/
+
 https://regex101.com/
 
 https://www.researchgate.net/
@@ -1271,8 +1332,6 @@ https://www.researchgate.net/
 https://reshish.com/zh/
 https://graph.reshish.com/zh/
 https://matrix.reshish.com/zh/
-
-https://www.redtube.com/
 
 https://www.riotgames.com/zh-cn
 
@@ -1398,6 +1457,8 @@ https://www.stroustrup.com/
 https://subingwen.cn/
 https://subingwen.cn/qt/
 
+https://sudoku.com/zh
+
 https://supjav.com/
 
 https://syaro.io/
@@ -1450,6 +1511,9 @@ http://jiuge.thunlp.org/
 https://www.thussat.com/
 
 https://thwiki.cc/%E9%A6%96%E9%A1%B5
+
+https://www.thz.cool/
+https://chatnews.thz.cool/
 
 https://www.ti.com/
 https://www.ti.com.cn/
@@ -1667,6 +1731,8 @@ https://warma.moe/
 
 https://www.weblio.jp/
 
+https://websudoku.com/
+
 https://weibo.com/
 
 https://www.weiyun.com/
@@ -1692,6 +1758,8 @@ https://commons.wikimedia.org/wiki/Main_Page
 https://en.wikipedia.org/wiki/Main_Page
 https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
 
+https://wikis.pro/
+
 https://en.wikisource.org/wiki/Main_Page
 https://zh.wikisource.org/wiki/Wikisource:%E9%A6%96%E9%A1%B5
 
@@ -1713,6 +1781,7 @@ https://www.wombo.art/
 
 https://www.woodo.cn/
 
+https://wordlegame.org/
 
 https://wordpress.com/zh-cn/
 
@@ -1721,6 +1790,8 @@ https://www.wordreference.com/
 https://www.worldbank.org/en/home
 
 https://www.worldcoinindex.com/
+
+https://worldlegame.io/
 
 https://www.wosouyun.com/
 
@@ -1765,6 +1836,8 @@ http://live.xw100.com/
 
 ## Y
 
+https://zh.y8.com/
+
 https://ca.yahoo.com/
 
 https://yandex.com/
@@ -1774,6 +1847,8 @@ https://yes.com/
 https://www.yiibai.com/
 
 https://www.yinxiang.com/
+
+https://www.yingxiangdao.com/
 
 https://youdao.com/
 https://dict.youdao.com/
