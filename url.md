@@ -55,6 +55,9 @@ https://www.abbreviations.com/
 
 https://www.acfun.cn/
 
+https://acg.is/
+<!-- 灵梦广场 -->
+
 https://www.acm.org/
 https://dl.acm.org/
 
@@ -177,6 +180,7 @@ https://bitbucket.org/
 
 https://www.bittorrent.com/zh-cn/
 
+https://www.bitznetuk.com/
 
 https://www.bjd.com.cn/index.shtml
 
@@ -187,6 +191,7 @@ https://www.blizzardgames.cn/zh-cn/
 
 https://www.blackpast.org/
 
+https://www.blogger.com/
 
 https://www.bluesdawn.top/
 
@@ -238,13 +243,16 @@ https://www.china-emu.cn/
 
 https://www.chinacdc.cn/
 
-http://www.chinese-linguipedia.org/
-
 https://www.chinaz.com/
 https://tool.chinaz.com/
 
+http://www.chinese-linguipedia.org/
+
 https://www.chineseall.cn/bigbook/index
 https://sxqh.chineseall.cn/home/index
+
+https://www.chinosk6.cn/
+https://chieri.docs.chinosk6.cn/
 
 https://chocolatey.org/
 
@@ -361,6 +369,12 @@ https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/
 https://cuute.cc/
 
 ## D
+
+http://daijirin.dual-d.net/
+<!-- 大辞林 -->
+
+https://daijisen.jp/
+https://daijisen.jp/digital/
 
 https://www.dal.net/
 
@@ -627,6 +641,9 @@ https://godbolt.org/
 
 https://gohugo.io/
 
+https://www.goo.ne.jp/
+https://dictionary.goo.ne.jp/
+
 https://www.google.com/
 https://mail.google.com/mail/u/0/
 https://scholar.google.com/
@@ -660,9 +677,15 @@ https://www.gushiwen.cn/
 
 ## H
 
+https://www.hacg.mom/
+https://www.hacg.mom/wp/
+<!-- 琉璃神社 -->
+
 https://hack.chat/
 https://beta.hack.chat/
 https://hack.chat/?kt1j8rpc
+
+https://hangmanwordgame.com/?online#/
 
 https://www.hao123.com/
 
@@ -685,6 +708,8 @@ http://www.homeinmists.com/
 
 https://www.huangyuhui.net/
 https://hmcl.huangyuhui.net/
+
+https://www.huashi6.com/
 
 https://www.huawei.com/cn/
 https://cloud.huawei.com/
@@ -751,6 +776,9 @@ https://isocpp.org/
 
 https://iszg100.xyz/
 
+https://iyideng.vip/
+https://iyideng.vip/tools/clash-for-android.html
+
 https://www.izyz.org/
 
 ## J
@@ -785,6 +813,7 @@ https://jisho.org/
 https://jitenon.jp/
 https://chimei.jitenon.jp/
 https://kanji.jitenon.jp/
+https://kokugo.jitenon.jp/
 https://myoji.jitenon.jp/
 
 https://www.jixiaob.cn/
@@ -900,6 +929,7 @@ https://littleskin.cn/
 
 https://onedrive.live.com/
 https://outlook.live.com/mail/0/
+https://to-do.live.com/tasks/today
 
 https://llvm.org/
 https://clang.llvm.org/
@@ -909,6 +939,9 @@ https://www.loc.gov/
 https://www.lofter.com/
 
 https://loj.ac/
+
+https://lowiro.com/en-us/
+https://arcaea.lowiro.com/zh
 
 https://www.luogu.com.cn/
 
@@ -957,6 +990,8 @@ https://www.mcmod.cn/
 
 https://www.mebag.com/
 https://www.mebag.com/index/
+<!-- 引得市 -->
+
 
 https://www.mediafire.com/
 
@@ -1116,6 +1151,8 @@ https://numpy.org/doc/stable/
 https://www.nvidia.cn/
 
 https://www.nvshenzhai.com/
+
+https://bbs.nyasama.com/
 
 https://www.nyato.com/
 
@@ -1327,6 +1364,9 @@ https://refold.la/
 
 https://regex101.com/
 
+https://blog.reimu.net/
+<!-- 灵梦御所 -->
+
 https://www.researchgate.net/
 
 https://reshish.com/zh/
@@ -1352,6 +1392,9 @@ https://www.saiblo.net/
 
 https://www.samr.gov.cn/
 https://openstd.samr.gov.cn/bzgk/gb/
+
+https://sbaliyun.com/
+https://chatgpt.sbaliyun.com/
 
 https://sci-hub.se/
 https://www.sci-hub.st/
@@ -1477,6 +1520,8 @@ https://doc.taixueshu.com/
 
 https://www.tan8.com/
 
+https://tannhauser.moe/
+
 https://www.taptap.cn/
 https://www.taptap.io/
 
@@ -1541,6 +1586,8 @@ https://www.topazlabs.com/
 
 https://tophonetics.com/
 https://tophonetics.com/zh/
+
+https://www.touhou.cc/bbs/forum.php
 
 https://zh.touhouwiki.net/wiki/%E4%B8%9C%E6%96%B9%E7%BB%B4%E5%9F%BA
 
@@ -1877,6 +1924,11 @@ https://zh.z-lib.org/
 https://www.zhangqiaokeyan.com/
 
 https://www.zhaopin.com/
+
+http://www.zhgc.com/
+<!-- 国粹网 -->
+http://www.zhgc.com/mk/index.asp
+<!-- 中华灯谜库 -->
 
 https://www.zhihu.com/
 
