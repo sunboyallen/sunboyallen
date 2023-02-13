@@ -94,7 +94,9 @@ https://www.altera-price.com/
 https://www.amazon.com/
 https://www.amazon.cn/
 
+https://www.amiami.com/cn/
 https://www.amiami.jp/
+
 
 https://www.aminer.cn/
 https://models.aminer.cn/
@@ -125,6 +127,9 @@ https://wiki.arcaea.cn/index.php/%E9%A6%96%E9%A1%B5
 https://archive.org/
 
 https://archlinux.org/
+
+https://atwiki.jp/
+https://w.atwiki.jp/softalk
 
 https://www.autopiano.cn/
 
@@ -245,6 +250,9 @@ https://www.chinacdc.cn/
 
 https://www.chinaz.com/
 https://tool.chinaz.com/
+
+https://chinese.my/
+https://chinese.my/wd/
 
 http://www.chinese-linguipedia.org/
 
@@ -368,6 +376,9 @@ https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/
 
 https://cuute.cc/
 
+http://www.czyzd.com/
+<!-- 潮州音字典 -->
+
 ## D
 
 http://daijirin.dual-d.net/
@@ -469,6 +480,8 @@ https://emojipedia.org/zh/
 
 https://emojixd.com/
 
+https://enazo.cn/
+
 https://www.encyclopedia.com/
 
 https://encyclopediaofmath.org/wiki/Main_Page
@@ -521,6 +534,8 @@ https://ffmpeg.org/
 https://www.figma.com/
 
 https://www.firefox.com.cn/
+
+https://www.fiverr.com/
 
 https://flagpedia.net/
 
@@ -580,6 +595,7 @@ https://ggo.net.cn/
 https://yun.ggo.net/
 
 https://www.gift-gift.jp/
+https://www.gift-gift.jp/nui/toho.html
 
 https://www.gimp.org/
 
@@ -607,6 +623,8 @@ https://hexchat.github.io/
 
 https://iot-book.github.io/
 
+https://kahaani.github.io/gatian/
+
 https://leftvalues.github.io/
 
 https://lzexmpoane.github.io/chinese-lang/
@@ -617,6 +635,8 @@ https://ssast-readme.github.io/
 
 https://t-hole.github.io/
 https://thuhollow.github.io/
+
+https://uzkk.github.io/favorite/
 
 https://gitlab.com/
 https://forum.gitlab.com/
@@ -774,6 +794,8 @@ https://iogames.space/
 
 https://isocpp.org/
 
+https://www.ispeakmin.com/bbs/
+
 https://iszg100.xyz/
 
 https://iyideng.vip/
@@ -886,6 +908,10 @@ https://xq.kzw.ink/
 
 https://www.lanzou.com/
 
+https://laplace.live/
+https://laplace.live/grid
+<!-- V圈生涯个人喜好表 -->
+
 https://www.lastpass.com/
 
 https://www.latex-project.org/
@@ -943,14 +969,21 @@ https://loj.ac/
 https://lowiro.com/en-us/
 https://arcaea.lowiro.com/zh
 
+https://ltool.net/
+https://ltool.net/chinese-simplified-and-traditional-characters-pinyin-to-katakana-converter-in-simplified-chinese.php
+
 https://www.luogu.com.cn/
+
+https://www.lyrics.com/
 
 ## M
 
 https://www.mabiji.com/
+<!-- 码笔记 -->
 
 https://magiconch.com/
 https://lab.magiconch.com/
+https://lab.magiconch.com/anime-grid/
 https://lab.magiconch.com/homo/
 
 https://www.mahjong.com/
@@ -1060,6 +1093,9 @@ https://moefuns.co/
 
 https://zh.moegirl.org.cn/Mainpage
 
+https://www.mogher.com/
+<!-- 潮州母语 -->
+
 https://moji.or.jp/
 https://moji.or.jp/mojikibansearch/basic
 <!-- or.jp是日本域名格式 -->
@@ -1086,6 +1122,7 @@ https://www.myfitnesspal.com/zh-CN
 
 https://www.neea.edu.cn/
 https://cet-bm.neea.edu.cn/
+<!-- 全国大学英语四、六级考试报名网 -->
 https://cjcx.neea.edu.cn/
 
 https://nerdschalk.com/
@@ -1105,6 +1142,9 @@ http://www.nhc.gov.cn/
 <!-- 国家卫健委 -->
 
 https://nhentai.net/
+
+http://nicotalk.com/ktykroom.html
+http://nicotalk.com/nicotalk.html
 
 https://www.nicovideo.jp/
 
@@ -1180,6 +1220,8 @@ https://www.onlinegdb.com/
 
 https://onlinejudge.org/
 
+https://mystias-menu.onrender.com/
+
 https://www.open-std.org/
 
 https://openai.com/
@@ -1241,6 +1283,8 @@ https://phesoca.com/
 https://phesoca.com/tshet/
 
 https://www.php.cn/
+
+https://phystack.top/vocalo-grid/
 
 https://www.picacomic.com/
 
@@ -1693,6 +1737,8 @@ https://www.unicode.org/charts/unihan.html
 https://www.unicode.org/Public/
 https://unicode-table.com/cn/
 
+https://www.unicodepedia.com/
+
 https://zh.unionpedia.org/
 
 https://www.urbandictionary.com/
@@ -1716,6 +1762,10 @@ https://vlab.ustc.edu.cn/guide/index.html
 https://www.utorrent.com/intl/zh_cn/
 
 https://www.uupoop.com/#/
+
+https://www.uzkk.net/
+https://vp.uzkk.net/
+https://vp.uzkk.net/favorite/
 
 ## V
 
@@ -1747,6 +1797,8 @@ https://www.vmall.com/index.html
 
 https://www.vmware.com/cn.html
 
+https://zh.voicedic.com/
+
 https://hello.vrchat.com/
 
 https://vuejs.org/
@@ -1777,6 +1829,7 @@ https://www.wanweibaike.net/
 https://warma.moe/
 
 https://www.weblio.jp/
+https://www.weblio.jp/cat/dictionary/sgkdj
 
 https://websudoku.com/
 
