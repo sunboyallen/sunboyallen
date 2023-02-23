@@ -58,6 +58,9 @@ https://www.acfun.cn/
 https://acg.is/
 <!-- 灵梦广场 -->
 
+https://acg.la/
+<!-- 芯幻 -->
+
 https://www.acm.org/
 https://dl.acm.org/
 
@@ -95,7 +98,6 @@ https://www.amazon.com/
 https://www.amazon.cn/
 
 https://www.amiami.com/cn/
-https://www.amiami.jp/
 
 
 https://www.aminer.cn/
@@ -414,6 +416,8 @@ https://www.diva-portal.org/
 https://www.djangoproject.com/
 https://docs.djangoproject.com/zh-hans/4.1/
 
+https://www.dlsite.com/home/
+
 https://www.dmm.co.jp/top/
 
 https://www.doc88.com/
@@ -538,6 +542,9 @@ https://www.firefox.com.cn/
 https://www.fiverr.com/
 
 https://flagpedia.net/
+
+https://flcy.us/
+<!-- 风铃次元 -->
 
 https://flipsimu.com/
 
@@ -670,6 +677,7 @@ https://scholar.google.com/
 
 https://www.gov.cn/
 
+https://cn.govopendata.com/renminribao/
 https://cn.govopendata.com/xinwenlianbo/
 
 https://gptapi.cn/
@@ -854,6 +862,7 @@ https://bk.join-tsinghua.edu.cn/bz.wsbm_login.jsp?err=null
 https://wxyx.join-tsinghua.edu.cn/res/SpecialWsbm/indexdept.html
 
 https://www.jpmnb.net/
+<!-- 精品美女吧 -->
 
 https://js.org/
 https://webpack.js.org/
@@ -1082,6 +1091,8 @@ https://www.miyoushe.com/ys/
 https://www.mnr.gov.cn/
 http://bzdt.ch.mnr.gov.cn/
 
+https://modheader.com/
+
 https://www.moe.gov.cn/
 https://www.moe.gov.cn/jyb_xxgk/
 
@@ -1099,6 +1110,8 @@ https://www.mogher.com/
 https://moji.or.jp/
 https://moji.or.jp/mojikibansearch/basic
 <!-- or.jp是日本域名格式 -->
+
+https://www.monidou.org/
 
 https://monkeytype.com/
 
@@ -1434,6 +1447,8 @@ https://www.runoob.com/
 
 https://www.saiblo.net/
 
+https://sakuradrive.com/
+
 https://www.samr.gov.cn/
 https://openstd.samr.gov.cn/bzgk/gb/
 
@@ -1470,6 +1485,10 @@ https://www.shihang.org/zh/home
 https://shimo.im/
 
 https://shindanmaker.com/
+
+https://www.shogakukan.co.jp/
+
+https://www.shooterspool.net/promo/zh_cn/shooterspool-online-billiards-simulation.html
 
 https://new.shuge.org/
 
@@ -1662,6 +1681,7 @@ https://lib.tsinghua.edu.cn/
 https://mails.tsinghua.edu.cn/
 https://mirrors.tuna.tsinghua.edu.cn/
 http://newstu.myhome.tsinghua.edu.cn/
+https://overleaf.tsinghua.edu.cn/project
 https://planet.tsinghua.edu.cn/
 http://pt.tsinghua.edu.cn/home/frontAction.do?ms=gotoIndex
 https://reserves.lib.tsinghua.edu.cn/
@@ -1914,6 +1934,9 @@ https://www.wzhecnu.cn/
 
 http://xchat.org/
 http://xchat.org/docs/
+
+https://xhcy.us/
+<!-- 芯幻 -->
 
 https://www.x-mol.com/
 

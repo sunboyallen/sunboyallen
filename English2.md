@@ -9,6 +9,9 @@ pastime 消遣，休闲活动
 pinkish 浅粉色的，略带桃红色的
 decisive 决定性的，关键的，坚决的，果断的，决断的（果断的）
 throughput 某一时期内的生产量，接待人数
+lemonade 柠檬味汽水，柠檬饮料
+orangeade 橙汁饮料，橘子汁，橙汁汽水
+tomboy 假小子，野丫头
 
 time-lapse 摄影延时拍摄的
 duty-free 商品免关税的 duty-free store 免税店

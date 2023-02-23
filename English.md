@@ -906,6 +906,7 @@ rug 小地毯，垫子，厚毯子，假发
 ### *runp- "to break"
 rob
 rubble 碎石，碎砖
+rupture n.断裂，破裂，爆裂，疝气，关系的破裂，决裂，绝交v.断裂，裂开，破裂，发疝气，使友好关系破裂，使绝交，毁掉协议
 
 ### *sa- "to satisfy"
 ### *sag- "to track down, seek out"
@@ -1217,6 +1218,7 @@ ware
 
 ### *wer- "to cover"
 warrant n.执行令，授权令，凭单，许可证，正当理由，依据v.使有必要，使正当，使恰当
+
 ### *were- "to speak"
 rhetoric 花言巧语，华而不实的言语，修辞
 rhetorical 反问的，反话的，辞藻华丽的，虚夸的，花言巧语的，修辞的，修辞性的，带有修辞色彩的
@@ -1453,6 +1455,11 @@ people
 salient 最重要的，显著的，突出的
 ### salva "wood, woodland, forest, orchard, grove"
 savage 凶恶的，凶残的，损害严重的，猛烈抨击的，蒙昧的，未开化的，野蛮的
+
+### spatium "room, area, distance, stretch of time"
+space
+spacious 房间或建筑物宽敞的
+
 ### sponte "of one’s own accord, willingly"
 spontaneous 自发的，非筹划安排的，常心血来潮的，自然的，自身造成的，非勉强的，无雕饰的
 ### stella "drop"
@@ -1489,6 +1496,10 @@ vessel 大船，轮船，容器，器皿，血管，脉管，导管
 veto n.否决权，拒绝认可，禁止v.行使否决权，拒绝认可，禁止，拒不接受，反对，否定
 ### virga "shoot, rod, stick, slender green branch"
 verge n.路边的小草地，绿地 on/to the verge of sth/of doing sth 濒于，将近于，行将v. verge on sth 极接近，濒于
+
+### virgo
+virgin n.处女，童男，童贞马利亚，无…经验的人，新手adj.未开发的，原始状态的，天然的，未改变的，未触动的，处女的，贞洁的，童贞的
+
 ### vitium "defect, offense, blemish, imperfection"
 vice 罪行，恶行，不道德行为，堕落，邪恶，台钳，老虎钳
 vicious 狂暴的，残酷的，凶猛危险的，充满仇恨的，严厉的，恶劣的，严重的
