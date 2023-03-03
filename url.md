@@ -61,6 +61,9 @@ https://acg.is/
 https://acg.la/
 <!-- 芯幻 -->
 
+http://acgtd.com/
+<!-- 喵次元 -->
+
 https://www.acm.org/
 https://dl.acm.org/
 
@@ -129,6 +132,8 @@ https://wiki.arcaea.cn/index.php/%E9%A6%96%E9%A1%B5
 https://archive.org/
 
 https://archlinux.org/
+
+https://asiangirlsaddict.xyz/
 
 https://atwiki.jp/
 https://w.atwiki.jp/softalk
@@ -364,6 +369,8 @@ https://csdiy.wiki/
 https://www.csdn.net/
 
 https://css-tricks.com/
+
+https://ctan.org/
 
 https://ctext.org/
 https://ctext.org/zh
@@ -853,6 +860,8 @@ https://tools.jixiaob.cn/bv2av/
 
 https://jmcomic1.bet/
 
+https://jmcomic1.group/
+
 https://jmcomic2.onl/
 
 https://join-tsinghua.edu.cn/
@@ -908,8 +917,9 @@ https://video.kpbs.org/
 https://ksbookshelf.com/
 https://ksbookshelf.com/nozomu-oohara/
 
-
 https://dazi.kukuw.com/
+
+https://kuricos.com/
 
 https://xq.kzw.ink/
 
@@ -1133,6 +1143,9 @@ https://www.myfitnesspal.com/zh-CN
 
 ## N
 
+http://ncyacg.com/
+<!-- 喵次元 -->
+
 https://www.neea.edu.cn/
 https://cet-bm.neea.edu.cn/
 <!-- 全国大学英语四、六级考试报名网 -->
@@ -1205,6 +1218,8 @@ https://www.nvidia.cn/
 
 https://www.nvshenzhai.com/
 
+https://ny-cosplay.com/
+
 https://bbs.nyasama.com/
 
 https://www.nyato.com/
@@ -1266,6 +1281,8 @@ https://www.oxfordlearnersdictionaries.com/
 
 ## P
 
+https://pandoc.org/
+
 https://www.pango.network/
 
 https://pantayun.com/
@@ -1281,6 +1298,8 @@ https://www.paperpp.com/
 https://www.paperyy.com/
 
 https://www.partsim.com/
+
+https://pastebin.com/
 
 https://www.patreon.com/
 
@@ -1319,6 +1338,7 @@ https://www.pinterest.es/
 https://pinyincaichengyu.com/
 
 https://pipiusagi.com/
+https://forum.pipiusagi.com/
 
 https://www.pishu.cn/
 https://www.pishu.com.cn/skwx_ps/database?SiteID=14
@@ -1652,6 +1672,8 @@ https://tophonetics.com/zh/
 
 https://www.touhou.cc/bbs/forum.php
 
+https://touhou.group/
+
 https://zh.touhouwiki.net/wiki/%E4%B8%9C%E6%96%B9%E7%BB%B4%E5%9F%BA
 
 https://www.travis-ci.com/
@@ -1849,7 +1871,6 @@ https://www.wanweibaike.net/
 https://warma.moe/
 
 https://www.weblio.jp/
-https://www.weblio.jp/cat/dictionary/sgkdj
 
 https://websudoku.com/
 
