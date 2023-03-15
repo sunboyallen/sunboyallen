@@ -75,7 +75,6 @@ https://aidn.jp/
 https://aidn.jp/mikutap/
 https://aidn.jp/sound/
 
-
 https://www.aigei.com/
 
 https://www.airpano.org.cn/
@@ -298,6 +297,7 @@ https://clashforwindows.org/
 
 https://closed.social/
 https://in.closed.social:9443/pastExam/
+<!-- 华清大学课程攻略共享计划 -->
 https://t.closed.social/
 https://thu.closed.social/web/timelines/home
 https://thu2.closed.social/
@@ -337,12 +337,15 @@ https://products.conholdate.app/zh/viewer/vsdx
 
 https://www.coodesker.com/
 
-
 https://www.corel.com/en/
+
+https://cloudconvert.com/
 
 https://www.coursera.org/
 
 https://cplusplus.com/
+
+https://cpp.chat/
 
 https://cpp.sh/
 
@@ -772,6 +775,9 @@ https://standards.ieee.org/
 
 https://www.ieway.cn/
 https://www.ieway.cn/evcapture.html
+
+https://www.ijiaodui.com/
+<!-- 爱校对 -->
 
 https://ilotus.org/
 https://homeinmists.ilotus.org/
@@ -1402,6 +1408,9 @@ https://pythontutor.com/
 
 https://www.qbittorrent.org/
 
+https://www.qianp.com/
+<!-- 千篇国学 -->
+
 https://www.qianzhan.com/
 
 https://www.qq.com/
@@ -1411,6 +1420,9 @@ https://weixin.qq.com/
 https://wj.qq.com/
 <!-- 腾讯问卷 -->
 https://wx.qq.com/
+
+http://www.qsbdc.com/
+<!-- 轻松背单词 -->
 
 http://www.qstheory.cn/
 http://www.qstheory.cn/qs/mulu.htm
@@ -1582,6 +1594,7 @@ https://www.stroustrup.com/
 
 https://subingwen.cn/
 https://subingwen.cn/qt/
+<!-- 爱编程的大丙 -->
 
 https://sudoku.com/zh
 
@@ -1669,6 +1682,8 @@ https://www.topazlabs.com/
 
 https://tophonetics.com/
 https://tophonetics.com/zh/
+
+https://touhou.vote/nav/
 
 https://www.touhou.cc/bbs/forum.php
 
