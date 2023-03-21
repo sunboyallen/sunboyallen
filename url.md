@@ -254,6 +254,8 @@ https://www.china-emu.cn/
 
 https://www.chinacdc.cn/
 
+https://www.chinaesperantoligo.com.cn/
+
 https://www.chinaz.com/
 https://tool.chinaz.com/
 
@@ -453,6 +455,8 @@ https://www.dpm.org.cn/Home.html
 
 https://www.duba.com/
 https://desk.duba.com/
+
+https://www.duolingo.cn/
 
 https://www.duxiu.com/
 
@@ -951,6 +955,8 @@ https://www.lead.org/
 https://leetcode.cn/
 https://leetcode.com/
 
+https://lernu.net/
+
 https://www.letpub.com/
 https://www.letpub.com.cn/
 
@@ -1059,6 +1065,8 @@ https://www.mdbg.net/chinese/dictionary
 https://www.mediawiki.org/wiki/MediaWiki
 
 https://mega.nz/
+
+https://test.mensa.no/
 
 https://www.merriam-webster.com/
 
