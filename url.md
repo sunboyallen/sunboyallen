@@ -612,6 +612,8 @@ https://www.geoguessr.com/
 
 https://getbootstrap.com/
 
+https://www.gettyimages.com/
+
 https://ggo.net.cn/
 https://yun.ggo.net/
 
@@ -669,6 +671,8 @@ https://gitter.im/
 https://gitter.im/home
 
 https://globle.org/
+
+https://www.globalsecurity.org/index.html
 
 https://glyphwiki.org/wiki/GlyphWiki:%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8
 
@@ -729,9 +733,15 @@ https://hack.chat/?kt1j8rpc
 
 https://hangmanwordgame.com/?online#/
 
+https://www.hanyi.com.cn/home
+https://www.hanyi.com.cn/productdetail.php?id=2638
+<!-- 汉仪陈体甲骨文 -->
+
 https://www.hao123.com/
 
 https://hbox.jp/
+
+http://www.hellofont.cn/activity/jgw/
 
 https://forum.hentai.sh/
 <!-- 唧唧jijidown社区 -->
@@ -1034,6 +1044,8 @@ https://www.markdownguide.org/
 https://www.marxists.org/
 https://www.marxists.org/chinese/index.html
 https://www.marxists.org/chinese/pdf/marxism-library.htm
+
+https://matchthememory.com/
 
 https://www.mathworks.com/
 https://ww2.mathworks.cn/
@@ -1461,6 +1473,8 @@ https://refold.la/
 
 https://regex101.com/
 
+https://regexr-cn.com/
+
 https://blog.reimu.net/
 <!-- 灵梦御所 -->
 
@@ -1471,6 +1485,8 @@ https://graph.reshish.com/zh/
 https://matrix.reshish.com/zh/
 
 https://www.riotgames.com/zh-cn
+
+https://www.roblox.com/
 
 https://rsshub.app/
 https://docs.rsshub.app/
@@ -1640,6 +1656,9 @@ https://web.telegram.org/k/
 
 https://www.tencent.com/
 https://meeting.tencent.com/
+
+https://www.tensorflow.org/?hl=zh-cn
+https://playground.tensorflow.org/
 
 https://www.texpage.com/
 
