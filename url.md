@@ -132,6 +132,8 @@ https://archive.org/
 
 https://archlinux.org/
 
+https://www.artnet.com/
+
 https://asiangirlsaddict.xyz/
 
 https://atwiki.jp/
@@ -225,7 +227,6 @@ https://bulink.xyz/
 https://www.bv2008.cn/
 <!-- 志愿北京 -->
 
-https://chat.bygpt.com/
 
 https://byr.pt/
 
@@ -698,6 +699,8 @@ https://www.gov.cn/
 https://cn.govopendata.com/renminribao/
 https://cn.govopendata.com/xinwenlianbo/
 
+https://chat.gpt.bz/gpt
+
 https://gptapi.cn/
 
 https://www.grammarly.com/
@@ -815,17 +818,18 @@ https://www.instagram.com/
 https://www.internalpointers.com/
 https://www.internalpointers.com/post/writing-custom-iterators-modern-cpp
 
-https://www.internationalphoneticalphabet.org/
-https://www.internationalphoneticalphabet.org/ipa-sounds/
-
 https://www.internationalphoneticassociation.org/
+https://www.internationalphoneticassociation.org/content/full-ipa-chart
 https://www.internationalphoneticassociation.org/content/ipa-chart
+https://www.internationalphoneticassociation.org/IPAcharts/inter_chart_2018/IPA_2018.html
 
 https://www.investopedia.com/
 
 https://www.ioccc.org/
 
 https://iogames.space/
+
+http://ipa-reader.xyz/
 
 https://isocpp.org/
 
@@ -868,10 +872,8 @@ https://www.jiqizhixin.com/
 https://jisho.org/
 
 https://jitenon.jp/
-https://chimei.jitenon.jp/
 https://kanji.jitenon.jp/
 https://kokugo.jitenon.jp/
-https://myoji.jitenon.jp/
 
 https://www.jixiaob.cn/
 https://blog.jixiaob.cn/
@@ -1017,6 +1019,8 @@ https://www.luogu.com.cn/
 
 https://www.lyrics.com/
 
+https://lyricjp.com/
+
 ## M
 
 https://www.mabiji.com/
@@ -1036,6 +1040,9 @@ https://game.maj-soul.com/1/
 
 https://www.manchester.ac.uk/
 https://www.phrasebank.manchester.ac.uk/
+
+https://manwa.website/
+<!-- 漫蛙 -->
 
 https://markdown.com.cn/
 
@@ -1061,6 +1068,9 @@ https://www.mbalib.com/
 
 https://www.mcbbs.net/
 https://beta.mcbbs.net/resource/all
+
+https://www.mcdm8.com/
+<!-- 樱花动漫 -->
 
 https://www.mcmod.cn/
 
@@ -1090,6 +1100,7 @@ https://www.microsoft.com/zh-cn/
 https://azure.microsoft.com/zh-cn/
 https://learn.microsoft.com/zh-cn/
 https://learn.microsoft.com/zh-cn/cpp/cpp/lambda-expressions-in-cpp?view=msvc-170
+https://mathsolver.microsoft.com/zh
 https://visualstudio.microsoft.com/zh-hans/
 
 https://www.midishow.com/
@@ -1146,6 +1157,8 @@ https://www.mogher.com/
 https://moji.or.jp/
 https://moji.or.jp/mojikibansearch/basic
 <!-- or.jp是日本域名格式 -->
+
+https://www.mojidict.com/
 
 https://www.monidou.org/
 
@@ -1283,6 +1296,9 @@ https://chat.openai.com/chat
 
 https://www.openathens.net/
 
+https://opencv.org/
+https://docs.opencv.org/
+
 http://openjudge.cn/
 
 https://openyyy.com/
@@ -1341,6 +1357,8 @@ https://phesoca.com/
 https://phesoca.com/tshet/
 
 https://www.php.cn/
+
+https://www.phrases.org.uk/
 
 https://phystack.top/vocalo-grid/
 
@@ -1460,6 +1478,9 @@ https://wiki.qt.io/Main/zh
 https://www.quora.com/
 
 ## R
+
+https://www.random.org/
+
 
 https://readthedocs.org/
 
@@ -1672,6 +1693,8 @@ https://thispersondoesnotexist.com/
 
 https://thu.services/
 
+https://thu.wiki/
+
 https://thu-history.net/wiki/%E9%A6%96%E9%A1%B5
 
 http://jiuge.thunlp.org/
@@ -1843,6 +1866,8 @@ https://mirrors.ustc.edu.cn/
 https://vlab.ustc.edu.cn/
 https://vlab.ustc.edu.cn/guide/index.html
 
+https://www.uta-net.com/
+
 https://www.utorrent.com/intl/zh_cn/
 
 https://www.uupoop.com/#/
@@ -1892,6 +1917,8 @@ https://vuejs.org/
 https://www.w3cschool.cn/
 
 https://www.w3schools.com/
+
+https://walkccc.me/CLRS/
 
 https://wallesspku.com/
 https://wallesspku.com/walless/2020/05/28/manual.html
@@ -2029,6 +2056,9 @@ https://ca.yahoo.com/
 https://yandex.com/
 
 https://yes.com/
+
+https://yhdm6.top/
+<!-- 樱花动漫 -->
 
 https://www.yiibai.com/
 
