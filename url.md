@@ -10,8 +10,10 @@ https://mail.10086.cn/
 http://115.182.62.169:8000/
 <!-- uoj -->
 
+https://www.13042332817.top/
+<!-- AI聊天 -->
+
 https://www.163.com/
-https://mc.163.com/
 https://music.163.com/
 
 https://www.16personalities.com/
@@ -111,6 +113,8 @@ http://www.ankichina.net/
 https://ankiweb.net/
 
 https://handle.antfu.me/
+
+https://www.anthropic.com/
 
 https://www.apa.org/
 https://apastyle.apa.org/
@@ -251,6 +255,8 @@ https://www.chaoxing.com/
 
 https://www.chemicalbook.com/ProductIndex.aspx
 
+https://chigai.site/
+
 https://www.china-emu.cn/
 
 https://www.chinacdc.cn/
@@ -319,6 +325,9 @@ https://cx.cnki.net/main.html#/login
 https://gongjushu.cnki.net/RBook/
 
 https://www.cnnic.net.cn/
+
+https://www.cns11643.gov.tw/index.jsp
+<!-- 全字库 -->
 
 https://www.codecademy.com/
 
@@ -413,6 +422,8 @@ https://daumpotplayer.com/
 https://www.dayila.net/
 
 https://www.dbbqb.com/
+
+https://www.deepl.com/translator
 
 https://www.desmos.com/?lang=zh-CN
 
@@ -541,6 +552,7 @@ https://newkomica-kari.fandom.com/zh-tw/wiki/%E9%A6%96%E9%A0%81
 https://pvz.fandom.com/zh/wiki/%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8%E7%99%BE%E7%A7%91
 https://pkuhistory.fandom.com/zh/wiki/%E5%8C%97%E5%A4%A7%E9%87%8E%E5%8F%B2_Wiki
 https://touhou.fandom.com/zh/wiki/%E4%B8%9C%E6%96%B9Project_Wiki
+https://vocaloidlyrics.fandom.com/wiki/Vocaloid_Lyrics_Wiki
 
 https://feeder.co/
 https://feedly.com/
@@ -616,6 +628,9 @@ https://getbootstrap.com/
 https://www.gettyimages.com/
 
 https://ggo.net.cn/
+
+https://www.goo.ne.jp/
+https://dictionary.goo.ne.jp/
 https://yun.ggo.net/
 
 https://www.gift-gift.jp/
@@ -756,6 +771,8 @@ https://hexo.io/zh-cn/docs/
 
 https://wtf.hiigara.net/
 
+https://zh.hinative.com/
+
 https://www.history.com/
 
 http://www.homeinmists.com/shuowen/
@@ -858,6 +875,9 @@ https://jekyllrb.com/
 
 https://www.jetbrains.com/zh-cn/
 https://www.jetbrains.com/zh-cn/pycharm/
+
+https://jflap.org/
+https://jflap.org/tutorial/
 
 https://www.jianguoyun.com/
 
@@ -981,6 +1001,8 @@ https://lightoj.com/home
 https://lihkg.com/
 
 https://www.linerider.com/
+
+https://lingdong.works/
 
 https://wiki.lingshangkaihua.com/mediawiki/index.php/%E9%A6%96%E9%A1%B5
 
@@ -1520,9 +1542,15 @@ https://www.ruby-lang.org/zh_cn/
 
 https://www.runoob.com/
 
+https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html
+
+
 ## S
 
 https://www.saiblo.net/
+
+https://sakura-paris.org/dict/
+<!-- 大辞林 -->
 
 https://sakuradrive.com/
 
@@ -1625,6 +1653,10 @@ https://music.stackexchange.com/
 https://physics.stackexchange.com/
 
 https://stackoverflow.com/
+
+http://infolab.stanford.edu/~ullman/ialc.html
+http://infolab.stanford.edu/~ullman/ialcsols/sols.html
+<!-- Introduction to Automata Theory, Languages, and Computation -->
 
 https://www.statista.com/
 
@@ -1880,11 +1912,11 @@ https://vp.uzkk.net/favorite/
 
 https://www.v2ex.com/
 
+https://www.v2fly.org/
+
 https://www.v2ray.com/
 
 https://www.v2rayfree.eu.org/
-
-https://v2rayn.org/
 
 https://www.vcmiao.com/
 
@@ -1924,8 +1956,6 @@ https://wallesspku.com/
 https://wallesspku.com/walless/2020/05/28/manual.html
 
 https://wallhaven.cc/
-
-https://wallesspku.com/
 
 https://www.wallpaperengine.space/
 
@@ -2017,6 +2047,7 @@ https://gd.wsglw.net/HomePublic/PublicIndex
 
 https://wy-lang.org/
 https://ide.wy-lang.org/
+<!-- 文言 -->
 
 https://www.wzhecnu.cn/
 
