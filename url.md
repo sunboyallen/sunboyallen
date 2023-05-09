@@ -24,6 +24,8 @@ https://webmail30.189.cn/w2/index.html
 
 https://18comic.vip/
 
+https://18hmanga.click/
+
 https://www.1ppt.com/
 
 https://www.21wecan.com/
@@ -141,6 +143,7 @@ https://www.artnet.com/
 https://asiangirlsaddict.xyz/
 
 https://atwiki.jp/
+https://w.atwiki.jp/gensouma-jan/
 https://w.atwiki.jp/softalk
 
 https://www.autopiano.cn/
@@ -353,6 +356,8 @@ https://www.corel.com/en/
 
 https://cloudconvert.com/
 
+https://cosporn.online/
+
 https://www.coursera.org/
 
 https://cplusplus.com/
@@ -407,6 +412,9 @@ http://www.czyzd.com/
 
 http://daijirin.dual-d.net/
 <!-- 大辞林 -->
+http://daijirin.dual-d.net/extra/index.html
+http://daijirin.dual-d.net/extra/giseigo_gitaigo.html
+http://daijirin.dual-d.net/extra/kanjion.html
 
 https://daijisen.jp/
 https://daijisen.jp/digital/
@@ -443,6 +451,10 @@ https://docs.djangoproject.com/zh-hans/4.1/
 https://www.dlsite.com/home/
 
 https://www.dmm.co.jp/top/
+
+https://www.dna-softwares.com/
+http://thmj.dna-softwares.com/
+<!-- 东方幻想麻雀 -->
 
 https://www.doc88.com/
 
@@ -628,6 +640,8 @@ https://getbootstrap.com/
 https://www.gettyimages.com/
 
 https://ggo.net.cn/
+
+https://gogen-yurai.jp/
 
 https://www.goo.ne.jp/
 https://dictionary.goo.ne.jp/
@@ -906,6 +920,9 @@ https://jmcomic1.group/
 
 https://jmcomic2.onl/
 
+https://www.joao-roiz.jp/
+https://www.joao-roiz.jp/JPDICT/2
+
 https://join-tsinghua.edu.cn/
 https://join-tsinghua.edu.cn/gnxs/qjjh.htm
 https://admission.join-tsinghua.edu.cn/frontend/site/login
@@ -947,6 +964,11 @@ http://www.kingdraw.cn/
 https://www.kmspicoofficial.com/
 
 https://www.koalastothemax.com/
+
+https://tool.konisimple.net/
+https://tool.konisimple.net/text/hinshi_keitaiso
+<!-- 日本語品詞分解 -->
+<!-- 日本语品词分解 -->
 
 https://kopernio.com/
 <!-- endnote -->
@@ -1170,6 +1192,7 @@ https://www.moedict.tw/%E4%B8%80
 https://moec.me/
 
 https://moefuns.co/
+https://moefuns.org/
 
 https://zh.moegirl.org.cn/Mainpage
 
@@ -1178,7 +1201,6 @@ https://www.mogher.com/
 
 https://moji.or.jp/
 https://moji.or.jp/mojikibansearch/basic
-<!-- or.jp是日本域名格式 -->
 
 https://www.mojidict.com/
 
@@ -1320,6 +1342,11 @@ https://www.openathens.net/
 
 https://opencv.org/
 https://docs.opencv.org/
+
+https://opendata-web.site/
+https://opendata-web.site/tool/parse/
+<!-- 日本語形態素解析 -->
+<!-- 日本语形态素解析 -->
 
 http://openjudge.cn/
 
@@ -1468,6 +1495,9 @@ https://pythontutor.com/
 
 https://www.qbittorrent.org/
 
+https://www.qemu.org/
+https://wiki.qemu.org/Documentation
+
 https://www.qianp.com/
 <!-- 千篇国学 -->
 
@@ -1597,6 +1627,8 @@ https://www.shooterspool.net/promo/zh_cn/shooterspool-online-billiards-simulatio
 
 https://new.shuge.org/
 
+https://www.sigure.tw/
+
 https://www.similarsites.com/
 
 https://www.sina.com.cn/
@@ -1716,6 +1748,8 @@ https://playground.tensorflow.org/
 https://www.texpage.com/
 
 https://www.thefreedictionary.com/
+
+https://theporndude.com/
 
 https://www.thesaurus.com/
 
@@ -1880,6 +1914,13 @@ https://www.unicodepedia.com/
 
 https://zh.unionpedia.org/
 
+https://igm.univ-gustave-eiffel.fr/
+http://www-igm.univ-mlv.fr/~lecroq/string/
+
+https://upwrite.jp/
+https://upwrite.jp/blog/
+https://upwrite.jp/grammar
+
 https://www.urbandictionary.com/
 
 https://www.usfca.edu/
@@ -1899,6 +1940,8 @@ https://vlab.ustc.edu.cn/
 https://vlab.ustc.edu.cn/guide/index.html
 
 https://www.uta-net.com/
+
+https://utaten.com/
 
 https://www.utorrent.com/intl/zh_cn/
 
@@ -2083,6 +2126,12 @@ http://live.xw100.com/
 https://zh.y8.com/
 
 https://ca.yahoo.com/
+
+https://about.yahoo.co.jp/
+https://developer.yahoo.co.jp/webapi/jlp/
+https://developer.yahoo.co.jp/webapi/jlp/ma/v2/parse.html
+<!-- 日本語形態素解析 -->
+<!-- 日本语形态素解析 -->
 
 https://yandex.com/
 
