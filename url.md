@@ -419,6 +419,10 @@ http://daijirin.dual-d.net/extra/kanjion.html
 https://daijisen.jp/
 https://daijisen.jp/digital/
 
+https://www.daito.ac.jp/
+http://www.ic.daito.ac.jp/~oukodou/kuzukago/kundoku,1.html
+<!-- 汉文训读 -->
+
 https://www.dal.net/
 
 https://danmakuwiki.com/
@@ -861,6 +865,9 @@ https://www.ioccc.org/
 https://iogames.space/
 
 http://ipa-reader.xyz/
+
+https://www.iso.org/home.html
+<!-- 国际标准 -->
 
 https://isocpp.org/
 
@@ -1366,6 +1373,9 @@ https://osdn.net/
 
 https://oshwhub.com/
 
+https://ottor.cn/
+https://gpa.ottor.cn/
+
 https://cn.overleaf.com/
 
 https://www.oxfordlearnersdictionaries.com/
@@ -1403,7 +1413,11 @@ https://musedash.peropero.net/#/home
 https://www.pexels.com/zh-cn/
 
 https://phesoca.com/
+https://phesoca.com/kanbun-html/
+<!-- 汉文HTML -->
+<!-- 汉文训读排版 -->
 https://phesoca.com/tshet/
+
 
 https://www.php.cn/
 
@@ -1804,6 +1818,8 @@ https://touhou.vote/nav/
 https://www.touhou.cc/bbs/forum.php
 
 https://touhou.group/
+
+https://touhoulostword.com/
 
 https://zh.touhouwiki.net/wiki/%E4%B8%9C%E6%96%B9%E7%BB%B4%E5%9F%BA
 
