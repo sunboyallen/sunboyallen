@@ -57,6 +57,8 @@ https://www.91huayi.com/
 
 https://www.abbreviations.com/
 
+https://abkai.net/zh/
+
 https://www.acfun.cn/
 
 https://acg.is/
@@ -149,6 +151,10 @@ https://w.atwiki.jp/softalk
 https://www.autopiano.cn/
 
 https://axutongxue.com/
+
+https://ayu.land/
+https://medle.ayu.land/
+<!-- medle -->
 
 
 ## B
@@ -255,6 +261,8 @@ http://www.ccamc.org/
 https://www.changhai.org/
 
 https://www.chaoxing.com/
+
+https://app.chatra.io/
 
 https://www.chemicalbook.com/ProductIndex.aspx
 
@@ -445,6 +453,8 @@ https://www.dictionary.com/
 
 https://www.digitalocean.com/
 
+https://www.discogs.com/
+
 https://discord.com/
 
 https://www.diva-portal.org/
@@ -554,6 +564,9 @@ https://ezstems.com/
 
 ## F
 
+https://f-g-s.net/
+<!-- Foxtail-Grass Studio -->
+
 https://www.facebook.com/
 
 https://fakeupdate.net/
@@ -569,6 +582,17 @@ https://pvz.fandom.com/zh/wiki/%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%
 https://pkuhistory.fandom.com/zh/wiki/%E5%8C%97%E5%A4%A7%E9%87%8E%E5%8F%B2_Wiki
 https://touhou.fandom.com/zh/wiki/%E4%B8%9C%E6%96%B9Project_Wiki
 https://vocaloidlyrics.fandom.com/wiki/Vocaloid_Lyrics_Wiki
+
+https://fc2.com/
+https://fc2blog.us/
+
+http://banbanshi.blog27.fc2.com/
+http://banbanshi.web.fc2.com/
+<!-- ばんばんしー -->
+
+http://manpukujinja.blog135.fc2.com/
+<!-- 满福神社 -->
+<!-- 満福神社 -->
 
 https://feeder.co/
 https://feedly.com/
@@ -668,6 +692,7 @@ https://gitee.com/
 
 https://github.com/
 https://docs.github.com/cn
+https://gist.github.com/
 https://pages.github.com/
 
 https://8values.github.io/
@@ -687,6 +712,8 @@ https://leftvalues.github.io/
 https://lzexmpoane.github.io/chinese-lang/
 
 https://minhaskamal.github.io/DownGit/#/home
+
+https://new-t.github.io/
 
 https://ssast-readme.github.io/
 
@@ -778,6 +805,8 @@ https://www.hao123.com/
 https://hbox.jp/
 
 http://www.hellofont.cn/activity/jgw/
+
+https://www.helloylh.com/
 
 https://forum.hentai.sh/
 <!-- 唧唧jijidown社区 -->
@@ -941,6 +970,9 @@ https://www.jpmnb.net/
 
 https://js.org/
 https://webpack.js.org/
+https://theme-next.js.org/
+<!-- NexT新地址 -->
+https://theme-next.js.org/docs/
 
 https://www.json.org/json-zh.html
 
@@ -952,6 +984,9 @@ https://juejin.cn/
 
 https://www.kadokawa.co.jp/
 https://promo.kadokawa.co.jp/shinjigen/
+
+https://kaminogi.jp/
+<!-- 神乃木制作所 -->
 
 https://www.kancloud.cn/
 
@@ -1083,6 +1118,10 @@ https://lab.magiconch.com/anime-grid/
 https://lab.magiconch.com/homo/
 
 https://www.mahjong.com/
+
+https://maikaze.com/
+<!-- 舞风 -->
+<!-- 舞風 -->
 
 https://maimai.cn/
 
@@ -1233,6 +1272,12 @@ https://www.myfitnesspal.com/zh-CN
 
 ## N
 
+https://www.naver.com/
+https://dict.naver.com/
+https://mail.naver.com/
+https://ko.dict.naver.com/#/main
+https://zh.dict.naver.com/#/main
+
 http://ncyacg.com/
 <!-- 喵次元 -->
 
@@ -1358,6 +1403,9 @@ https://opendata-web.site/tool/parse/
 http://openjudge.cn/
 
 https://openyyy.com/
+
+https://orangex4.cool/
+https://blog.orangex4.cool/
 
 https://www.oray.com/
 https://pgy.oray.com/
@@ -1541,6 +1589,8 @@ https://doc.qt.io/qt-5.15/
 https://wiki.qt.io/Main
 https://wiki.qt.io/Main/zh
 
+https://quizlet.com/zh-cn
+
 https://www.quora.com/
 
 ## R
@@ -1670,6 +1720,8 @@ https://www.sonystyle.com.cn/
 
 https://sou-yun.cn/
 
+https://soundcloud.com/
+
 https://sourceforge.net/
 
 http://www.sp2000.org.cn/
@@ -1677,6 +1729,8 @@ http://www.sp2000.org.cn/
 https://speedpdf.com/zh-cn/
 
 https://www.spoj.com/
+
+https://open.spotify.com/
 
 https://spr233.eu.org/
 
@@ -1703,6 +1757,7 @@ https://stackoverflow.com/
 http://infolab.stanford.edu/~ullman/ialc.html
 http://infolab.stanford.edu/~ullman/ialcsols/sols.html
 <!-- Introduction to Automata Theory, Languages, and Computation -->
+<!-- 形式语言与自动机 -->
 
 https://www.statista.com/
 
@@ -1807,6 +1862,9 @@ https://en.tipeee.com/
 https://toho-vote.info/
 
 https://tool.lu/
+
+https://tholman.com/github-corners/
+<!-- github corners -->
 
 https://www.topazlabs.com/
 
@@ -2178,9 +2236,16 @@ https://www.yuketang.cn/web
 https://pro.yuketang.cn/v2/web/index
 https://tsinghua.yuketang.cn/pro/portal/home/
 
+https://yuki-factory.main.jp/
+<!-- 狐の工作室 -->
+
 https://yunyouni.com/
 
 https://www.yuque.com/
+
+http://www.yuuhei-satellite.jp/
+<!-- 幽闭星光 -->
+<!-- 幽閉サテライト -->
 
 ## Z
 
