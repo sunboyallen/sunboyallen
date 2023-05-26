@@ -237,6 +237,8 @@ https://www.britannica.com/
 
 https://bulink.xyz/
 
+https://www.buymeacoffee.com/
+
 https://www.bv2008.cn/
 <!-- 志愿北京 -->
 
@@ -620,6 +622,8 @@ https://www.flyordie.com/zh_cn/billiard/
 https://www.flyordie.com/zh_cn/snooker/
 
 http://formatfactory.org/CN/index.html
+
+https://fontawesome.com/
 
 https://www.foxitsoftware.cn/
 https://vip.foxitsoftware.cn/
@@ -1264,6 +1268,12 @@ https://musedash.moe/
 https://musescore.org/zh-hans
 <!-- 作谱软件 -->
 
+https://www.musicca.com/zh
+https://www.musicca.com/zh/metronome
+<!-- 节拍器 -->
+
+https://musicstax.com/zh
+
 https://myacg.xyz/
 
 https://www.myendnoteweb.com/EndNoteWeb.html
@@ -1723,6 +1733,7 @@ https://sou-yun.cn/
 https://soundcloud.com/
 
 https://sourceforge.net/
+https://gnuwin32.sourceforge.net/packages/tree.htm
 
 http://www.sp2000.org.cn/
 
@@ -1858,6 +1869,11 @@ https://www.tiobe.com/
 https://www.tiobe.com/tiobe-index/
 
 https://en.tipeee.com/
+
+https://tls.moe/
+<!-- 铜锣烧 -->
+https://biu.tls.moe/#/
+<!-- pixivbiu -->
 
 https://toho-vote.info/
 
@@ -2054,6 +2070,9 @@ https://vjudge.net/
 https://www.vmall.com/index.html
 
 https://www.vmware.com/cn.html
+
+https://vocalremover.org/zh/
+https://vocalremover.org/zh/key-bpm-finder
 
 https://zh.voicedic.com/
 
