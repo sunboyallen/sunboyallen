@@ -1019,6 +1019,10 @@ https://tool.konisimple.net/text/hinshi_keitaiso
 https://kopernio.com/
 <!-- endnote -->
 
+https://www.kotenbunpou.com/
+<!-- 古典文法 -->
+
+
 https://kotobank.jp/
 
 https://www.kpbs.org/
@@ -1788,6 +1792,8 @@ https://subingwen.cn/qt/
 https://sudoku.com/zh
 
 https://supjav.com/
+
+https://swag.live/
 
 https://syaro.io/
 https://liferestart.syaro.io/
