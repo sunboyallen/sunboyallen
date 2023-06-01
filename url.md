@@ -925,6 +925,7 @@ https://www.javlibrary.com/cn/
 
 https://javtxt.org/
 
+https://jekyllcn.com/
 https://jekyllrb.com/
 
 https://www.jetbrains.com/zh-cn/
@@ -1044,6 +1045,9 @@ https://www.lanzou.com/
 https://laplace.live/
 https://laplace.live/grid
 <!-- V圈生涯个人喜好表 -->
+
+https://www.last.fm/
+https://www.last.fm/zh/
 
 https://www.lastpass.com/
 
@@ -1310,6 +1314,8 @@ https://www.netlify.com/
 https://netlify.app/
 https://wallockman.netlify.app/
 
+https://www.neverendingchartrendering.org/
+
 https://nga.cn/
 https://bbs.nga.cn/
 
@@ -1390,6 +1396,8 @@ https://whiteboard.office.com/
 https://oi-wiki.org/
 
 https://omniglot.com/
+
+https://onlyfans.com/
 
 https://www.onsemi.cn
 
@@ -1927,6 +1935,7 @@ https://info2021.tsinghua.edu.cn/f/info/xxfb_fg/xnzx/index
 https://its.tsinghua.edu.cn/index.jsp
 https://learn.tsinghua.edu.cn/f/wlxt/index/course/student/index
 https://lib.tsinghua.edu.cn/
+http://mail.tsinghua.org.cn/
 https://mails.tsinghua.edu.cn/
 https://mirrors.tuna.tsinghua.edu.cn/
 http://newstu.myhome.tsinghua.edu.cn/
