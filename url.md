@@ -75,6 +75,9 @@ https://dl.acm.org/
 
 https://www.adobe.com/cn/
 
+https://adoptium.net/zh-CN/
+https://adoptium.net/zh-CN/temurin/releases/
+
 https://afdian.net/
 
 https://aidn.jp/
@@ -112,9 +115,16 @@ https://www.aminer.cn/
 https://models.aminer.cn/
 https://models.aminer.cn/CogView/
 
+https://www.anaconda.com/
+
+http://publish.ancientbooks.cn/docShuju/platform.jspx
+<!-- 中华经典古籍库 -->
+
 http://www.ankichina.net/
 
 https://ankiweb.net/
+
+https://annas-archive.org/
 
 https://handle.antfu.me/
 
@@ -231,6 +241,8 @@ https://www.book118.com/
 https://www.book118.com/tool/pdf2word/
 https://max.book118.com/
 
+https://www.bookschina.com/
+
 https://www.bootcss.com/
 
 https://www.britannica.com/
@@ -267,6 +279,8 @@ https://www.chaoxing.com/
 https://app.chatra.io/
 
 https://www.chemicalbook.com/ProductIndex.aspx
+
+https://www.chens.life/
 
 https://chigai.site/
 
@@ -321,13 +335,16 @@ https://closed.social/
 https://in.closed.social:9443/pastExam/
 <!-- 华清大学课程攻略共享计划 -->
 https://t.closed.social/
-https://thu.closed.social/web/timelines/home
+https://thu.closed.social/
 https://thu2.closed.social/
+<!-- 似乎已经失效 -->
 
 https://cloudpss.net/index/
 https://tsinghua.cloudpss.net/
 
 https://cmake.org/
+
+https://cn1lib.is/
 
 https://www.cnblogs.com/
 
@@ -354,6 +371,8 @@ https://www.colorado.edu/
 https://phet.colorado.edu/zh_CN/
 
 https://comic-walker.com/
+
+https://docs.conda.io/en/latest/miniconda.html#
 
 https://www.conholdate.app/zh
 https://products.conholdate.app/zh
@@ -415,6 +434,9 @@ https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/
 
 https://cuute.cc/
 
+https://www.cymapp.cc/
+<!-- 次元喵 -->
+
 http://www.czyzd.com/
 <!-- 潮州音字典 -->
 
@@ -434,6 +456,9 @@ http://www.ic.daito.ac.jp/~oukodou/kuzukago/kundoku,1.html
 <!-- 汉文训读 -->
 
 https://www.dal.net/
+
+https://danmaku.jp/
+https://danmaku.jp/archive/
 
 https://danmakuwiki.com/
 
@@ -483,6 +508,9 @@ https://webpack.docschina.org/concepts/
 
 https://www.doi.org/
 https://dx.doi.org/
+
+https://donmai.moe/
+https://danbooru.donmai.us/
 
 https://www.dotcpp.com/
 
@@ -551,6 +579,7 @@ https://www.epsnet.com.cn/index.html#/Index
 https://www.etsy.com/
 
 https://www.etymonline.com/
+https://www.etymonline.com/cn
 
 https://ec.europa.eu/info/index_en
 https://european-union.europa.eu/index_en
@@ -718,6 +747,9 @@ https://lzexmpoane.github.io/chinese-lang/
 https://minhaskamal.github.io/DownGit/#/home
 
 https://new-t.github.io/
+<!-- 树洞 -->
+
+https://squidfunk.github.io/mkdocs-material/
 
 https://ssast-readme.github.io/
 
@@ -1176,15 +1208,15 @@ https://www.mcdm8.com/
 
 https://www.mcmod.cn/
 
+https://www.mdbg.net/chinese/dictionary
+
+https://meaning-dictionary.com/
+
 https://www.mebag.com/
 https://www.mebag.com/index/
 <!-- 引得市 -->
 
-
 https://www.mediafire.com/
-
-
-https://www.mdbg.net/chinese/dictionary
 
 https://www.mediawiki.org/wiki/MediaWiki
 
@@ -1236,6 +1268,8 @@ https://web.mit.edu/
 https://scratch.mit.edu/
 
 https://www.miyoushe.com/ys/
+
+https://www.mkdocs.org/
 
 https://www.mnr.gov.cn/
 http://bzdt.ch.mnr.gov.cn/
@@ -1416,6 +1450,7 @@ https://www.openathens.net/
 
 https://opencv.org/
 https://docs.opencv.org/
+https://docs.opencv.org/4.x/d6/d15/tutorial_building_tegra_cuda.html
 
 https://opendata-web.site/
 https://opendata-web.site/tool/parse/
@@ -1466,6 +1501,7 @@ https://book.paperee.guru/
 https://www.paperfree.cn/
 https://www.paperpass.com/
 https://www.paperpp.com/
+https://www.paperray.com/
 https://www.paperyy.com/
 
 https://www.partsim.com/
@@ -1694,6 +1730,9 @@ https://www.scratch-cn.cn/
 https://www.seafile.com/home/
 https://bbs.seafile.com/
 
+https://wiki.seesaa.jp/
+https://seesaawiki.jp/toho-motoneta_2nd/
+
 https://segmentfault.com/
 
 https://www.semanticscholar.org/
@@ -1719,6 +1758,9 @@ https://www.similarsites.com/
 
 https://www.sina.com.cn/
 https://mail.sina.com.cn/
+
+https://singlelogin.re/
+<!-- Z-Library -->
 
 https://www.sinica.edu.tw/
 https://iis.sinica.edu.tw/zh/index.html
@@ -1862,6 +1904,8 @@ http://jiuge.thunlp.org/
 https://www.thussat.com/
 
 https://thwiki.cc/%E9%A6%96%E9%A1%B5
+https://cd.thwiki.cc/
+<!-- 同人音乐专辑查询 -->
 
 https://www.thz.cool/
 https://chatnews.thz.cool/
@@ -2241,7 +2285,11 @@ https://developer.yahoo.co.jp/webapi/jlp/ma/v2/parse.html
 <!-- 日本語形態素解析 -->
 <!-- 日本语形态素解析 -->
 
+https://yande.re/post
+
 https://yandex.com/
+
+https://www.yankong.org/
 
 https://yes.com/
 
@@ -2314,6 +2362,8 @@ https://www.zishuai.com/
 
 https://www.zmt.wiki/
 <!-- 似乎连接失败 -->
+
+http://zokugo-dict.com/
 
 https://www.zol.com.cn/
 
