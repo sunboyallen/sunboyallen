@@ -555,6 +555,8 @@ https://pg.eeagd.edu.cn/ks/h5/index.html#/xgk/ggxx
 
 https://www.eesc.com.cn/#/index
 
+https://eitherchoice.com/
+
 https://www.electronic-software-shop.com/
 
 https://element.io/
@@ -695,6 +697,8 @@ https://wiki.gensoukyo.moe/wiki/%E9%A6%96%E9%A1%B5
 https://www.geogebra.org/
 
 https://www.geoguessr.com/
+
+https://ca.getbitznet.com/
 
 https://getbootstrap.com/
 
