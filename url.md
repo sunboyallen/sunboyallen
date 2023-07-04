@@ -245,6 +245,9 @@ https://www.bookschina.com/
 
 https://www.bootcss.com/
 
+https://www.branah.com/
+https://www.branah.com/korean
+
 https://www.britannica.com/
 
 https://bulink.xyz/
@@ -828,6 +831,7 @@ https://www.gushiwen.cn/
 
 https://www.hacg.mom/
 https://www.hacg.mom/wp/
+https://www.hacg.sbs/wp/
 <!-- 琉璃神社 -->
 
 https://hack.chat/
@@ -1039,6 +1043,9 @@ https://www.kanjipedia.jp/
 https://katex.org/
 
 https://www.kdocs.cn/
+
+https://keyboardingonline.net/us-keyboard/zh/
+<!-- 在线键盘 -->
 
 https://www.khanacademy.org/
 
