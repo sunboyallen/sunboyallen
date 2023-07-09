@@ -608,6 +608,7 @@ https://www.facebook.com/
 https://fakeupdate.net/
 
 https://www.fandom.com/
+https://charset.fandom.com/ko/wiki/%EB%AC%B8%EC%9E%90_%EC%A7%91%ED%95%A9_%EC%9C%84%ED%82%A4
 https://homeworld.fandom.com/wiki/Main_Page
 https://math.fandom.com/zh/wiki/%E4%B8%AD%E6%96%87%E6%95%B0%E5%AD%A6_Wiki:%E4%B8%BB%E9%A1%B5
 https://mahjong.fandom.com/zh/wiki/%E9%BA%BB%E5%B0%87_%E7%BB%B4%E5%9F%BA:%E4%B8%BB%E9%A0%81
@@ -678,6 +679,9 @@ https://gamepress.gg/
 https://gamerch.com/
 
 https://www.gancube.com/zh/
+
+https://www.gangqinpu.com/
+<!-- 虫虫钢琴 -->
 
 https://www.gaoding.com/
 
@@ -1071,6 +1075,8 @@ https://kotobank.jp/
 
 https://www.kpbs.org/
 https://video.kpbs.org/
+
+https://www.kpedia.jp/
 
 https://ksbookshelf.com/
 https://ksbookshelf.com/nozomu-oohara/
@@ -2122,6 +2128,7 @@ https://www.v2ray.com/
 https://www.v2rayfree.eu.org/
 
 https://www.vcmiao.com/
+<!-- VC喵 -->
 
 https://venture.com/
 
@@ -2275,6 +2282,9 @@ https://www.xiwnn.com/
 https://www.xiwnn.com/piano/
 
 https://xmind.cn/
+
+https://xn--888-ok4b9e.xn--jh1al63br2c.com/
+<!-- VC喵 -->
 
 https://www.xuetangx.com/
 
