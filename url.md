@@ -750,6 +750,7 @@ https://hexchat.github.io/
 https://iot-book.github.io/
 
 https://kahaani.github.io/gatian/
+<!-- 潮语拼音教程 -->
 
 https://leftvalues.github.io/
 
@@ -1347,6 +1348,10 @@ https://mail.naver.com/
 https://ko.dict.naver.com/#/main
 https://zh.dict.naver.com/#/main
 
+https://ncss.cn/
+https://cy.ncss.cn/
+<!-- 全国大学生创业服务网 -->
+
 http://ncyacg.com/
 <!-- 喵次元 -->
 
@@ -1695,6 +1700,8 @@ https://www.researchgate.net/
 https://reshish.com/zh/
 https://graph.reshish.com/zh/
 https://matrix.reshish.com/zh/
+
+https://rime.im/
 
 https://www.riotgames.com/zh-cn
 
