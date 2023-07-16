@@ -696,6 +696,8 @@ http://www.gdyshi.com/
 
 https://www.geeksforgeeks.org/
 
+https://geekuninstaller.pro/
+
 https://genius.com/
 
 https://gensoukyo.moe/
@@ -1023,6 +1025,8 @@ https://webpack.js.org/
 https://theme-next.js.org/
 <!-- NexT新地址 -->
 https://theme-next.js.org/docs/
+
+https://jsdoc.app/
 
 https://www.json.org/json-zh.html
 
