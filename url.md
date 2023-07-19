@@ -345,6 +345,8 @@ https://thu2.closed.social/
 https://cloudpss.net/index/
 https://tsinghua.cloudpss.net/
 
+https://cloudstudio.net/
+
 https://cmake.org/
 
 https://cn1lib.is/
@@ -1254,8 +1256,13 @@ https://www.micro-semiconductor.com/
 
 https://www.microsoft.com/zh-cn/
 https://azure.microsoft.com/zh-cn/
+
 https://learn.microsoft.com/zh-cn/
+https://learn.microsoft.com/zh-cn/cpp/?view=msvc-170
+https://learn.microsoft.com/zh-cn/cpp/c-language/?view=msvc-170
+https://learn.microsoft.com/zh-cn/cpp/cpp/?view=msvc-170
 https://learn.microsoft.com/zh-cn/cpp/cpp/lambda-expressions-in-cpp?view=msvc-170
+
 https://mathsolver.microsoft.com/zh
 https://visualstudio.microsoft.com/zh-hans/
 
@@ -1720,6 +1727,8 @@ https://www.ruanyifeng.com/blog/2017/05/websocket.html
 
 https://www.ruby-lang.org/zh_cn/
 
+https://rule34.xxx/
+
 https://www.runoob.com/
 
 https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html
@@ -1934,6 +1943,8 @@ https://www.thussat.com/
 https://thwiki.cc/%E9%A6%96%E9%A1%B5
 https://cd.thwiki.cc/
 <!-- 同人音乐专辑查询 -->
+
+http://thwiki.info/
 
 https://www.thz.cool/
 https://chatnews.thz.cool/
