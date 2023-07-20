@@ -596,6 +596,8 @@ https://evernote.com/intl/zh-cn
 
 https://en.everybodywiki.com/Everybodywiki:Welcome
 
+https://www.expressjs.com.cn/
+
 https://www.ezqaq.com/
 
 https://ezstems.com/
@@ -662,6 +664,8 @@ http://formatfactory.org/CN/index.html
 
 https://fontawesome.com/
 
+https://fortran-lang.org/zh_CN/
+
 https://www.foxitsoftware.cn/
 https://vip.foxitsoftware.cn/
 
@@ -710,6 +714,7 @@ https://www.geogebra.org/
 https://www.geoguessr.com/
 
 https://ca.getbitznet.com/
+https://dash.getbitznet.com/
 
 https://getbootstrap.com/
 
@@ -1077,7 +1082,6 @@ https://kopernio.com/
 https://www.kotenbunpou.com/
 <!-- 古典文法 -->
 
-
 https://kotobank.jp/
 
 https://www.kpbs.org/
@@ -1428,6 +1432,8 @@ https://notepad-plus-plus.org/
 https://www.nowcoder.com/
 https://ac.nowcoder.com/acm/problem/list
 
+https://www.npmjs.com/
+
 https://www.numberempire.com/
 https://zh.numberempire.com/
 
@@ -1729,6 +1735,8 @@ https://www.ruby-lang.org/zh_cn/
 
 https://rule34.xxx/
 
+https://runkit.com/
+
 https://www.runoob.com/
 
 https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html
@@ -1989,6 +1997,9 @@ https://touhou.vote/nav/
 https://www.touhou.cc/bbs/forum.php
 
 https://touhou.group/
+
+https://touhougarakuta.com/
+<!-- 东方我乐多 -->
 
 https://touhoulostword.com/
 
