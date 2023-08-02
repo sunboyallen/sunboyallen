@@ -12,7 +12,7 @@ const char alphabet_tr[] =
 
 unsigned long long bv2av(const char bv[13])
 {
-    return(
+    return (
         alphabet_tr[bv[11]] +
         alphabet_tr[bv[10]] * 58ull +
         alphabet_tr[bv[ 3]] * 3364ull +
@@ -46,13 +46,13 @@ int main()
     string input;
     cin >> input;
 
-    if(input.substr(0, 2) == "av" || input.substr(0, 2) == "av")
+    if (input.substr(0, 2) == "av" || input.substr(0, 2) == "av")
     {
         av = stoi(input.substr(2));
         cout << av2bv(av, bv) << endl;
     }
 
-    else if(input.substr(0, 2) == "bv" || input.substr(0, 2) == "BV")
+    else if (input.substr(0, 2) == "bv" || input.substr(0, 2) == "BV")
     {
         cout << "AV" << bv2av(input.c_str()) << endl;
     }

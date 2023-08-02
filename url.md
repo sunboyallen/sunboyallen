@@ -722,16 +722,12 @@ https://www.gettyimages.com/
 
 https://ggo.net.cn/
 
-https://gogen-yurai.jp/
-
-https://www.goo.ne.jp/
-https://dictionary.goo.ne.jp/
-https://yun.ggo.net/
-
 https://www.gift-gift.jp/
 https://www.gift-gift.jp/nui/toho.html
 
 https://www.gimp.org/
+
+https://git-lfs.com/
 
 https://git-scm.com/
 https://git-scm.com/docs
@@ -746,6 +742,7 @@ https://gitee.com/
 https://github.com/
 https://docs.github.com/cn
 https://gist.github.com/
+https://octodex.github.com/
 https://pages.github.com/
 
 https://8values.github.io/
@@ -754,9 +751,17 @@ https://cheeaun.github.io/
 
 https://cnvalues.github.io/
 
+https://ebookfoundation.github.io/free-programming-books/
+
+https://google.github.io/styleguide/
+
+https://hcwiki.github.io/
+
 https://hexchat.github.io/
 
 https://iot-book.github.io/
+
+https://jobbole.github.io/awesome-python-cn/
 
 https://kahaani.github.io/gatian/
 <!-- 潮语拼音教程 -->
@@ -802,10 +807,13 @@ https://gcc.gnu.org/
 
 https://godbolt.org/
 
+https://gogen-yurai.jp/
+
 https://gohugo.io/
 
 https://www.goo.ne.jp/
 https://dictionary.goo.ne.jp/
+https://yun.ggo.net/
 
 https://www.google.com/
 https://mail.google.com/mail/u/0/
@@ -990,6 +998,8 @@ https://www.jetbrains.com/zh-cn/pycharm/
 https://jflap.org/
 https://jflap.org/tutorial/
 
+https://www.jianeryi.com/
+
 https://www.jianguoyun.com/
 
 https://www.jianshu.com/
@@ -1061,6 +1071,9 @@ https://www.kanjipedia.jp/
 https://katex.org/
 
 https://www.kdocs.cn/
+
+https://www.kemono.party/
+https://kemono.su/
 
 https://keyboardingonline.net/us-keyboard/zh/
 <!-- 在线键盘 -->
@@ -1225,6 +1238,8 @@ https://matlab.mathworks.com/
 https://www.matongxue.com/
 
 https://www.matrix.io/index_cn.html
+
+https://www.maxon.net/zh
 
 https://www.mazegenerator.net/
 
@@ -1807,6 +1822,7 @@ https://www.sina.com.cn/
 https://mail.sina.com.cn/
 
 https://singlelogin.re/
+https://zh.singlelogin.re/
 <!-- Z-Library -->
 
 https://www.sinica.edu.tw/
@@ -1816,6 +1832,8 @@ https://xiaoxue.iis.sinica.edu.tw/
 https://www.sketch.com/
 
 https://slack.com/intl/zh-cn/
+
+http://slither.io/
 
 https://snapseedofficial.com/
 
@@ -1865,6 +1883,8 @@ https://music.stackexchange.com/
 https://physics.stackexchange.com/
 
 https://stackoverflow.com/
+
+https://standardjs.com/
 
 http://infolab.stanford.edu/~ullman/ialc.html
 http://infolab.stanford.edu/~ullman/ialcsols/sols.html
@@ -1927,6 +1947,8 @@ https://meeting.tencent.com/
 
 https://www.tensorflow.org/?hl=zh-cn
 https://playground.tensorflow.org/
+
+https://texlive.info/
 
 https://www.texpage.com/
 
@@ -2151,6 +2173,7 @@ https://www.uupoop.com/#/
 https://www.uzkk.net/
 https://vp.uzkk.net/
 https://vp.uzkk.net/favorite/
+<!-- 本命角色测试 -->
 
 ## V
 
@@ -2194,6 +2217,9 @@ https://vuejs.org/
 
 ## W
 
+https://docs.w3cub.com/
+https://docs.w3cub.com/cheatsheets/
+
 https://www.w3cschool.cn/
 
 https://www.w3schools.com/
@@ -2210,6 +2236,8 @@ https://www.wallpaperengine.space/
 https://wallpapers.com/
 
 https://www.wanfangdata.com.cn/index.html
+
+https://wangchujiang.com/linux-command/
 
 https://wantwords.net/
 
