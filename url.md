@@ -51,6 +51,8 @@ https://www.58pic.com/
 
 https://6pen.art/
 
+https://www.7-zip.org/
+
 https://www.91huayi.com/
 
 ## A
@@ -614,6 +616,8 @@ https://fakeupdate.net/
 https://www.fandom.com/
 https://charset.fandom.com/ko/wiki/%EB%AC%B8%EC%9E%90_%EC%A7%91%ED%95%A9_%EC%9C%84%ED%82%A4
 https://homeworld.fandom.com/wiki/Main_Page
+https://leagueoflegends.fandom.com/wiki/League_of_Legends_Wiki
+https://leagueoflegends.fandom.com/zh/wiki/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E7%BB%B4%E5%9F%BA
 https://math.fandom.com/zh/wiki/%E4%B8%AD%E6%96%87%E6%95%B0%E5%AD%A6_Wiki:%E4%B8%BB%E9%A1%B5
 https://mahjong.fandom.com/zh/wiki/%E9%BA%BB%E5%B0%87_%E7%BB%B4%E5%9F%BA:%E4%B8%BB%E9%A0%81
 https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki
@@ -1555,6 +1559,9 @@ https://paperee.guru/
 https://book.paperee.guru/
 
 https://www.paperfree.cn/
+
+https://papergames.io/zh/
+
 https://www.paperpass.com/
 https://www.paperpp.com/
 https://www.paperray.com/
@@ -2348,6 +2355,9 @@ https://xmind.cn/
 
 https://xn--888-ok4b9e.xn--jh1al63br2c.com/
 <!-- VC喵 -->
+
+https://xn--z7xq16a8pb.com/
+<!-- 猫薄荷 -->
 
 https://www.xuetangx.com/
 
