@@ -229,6 +229,9 @@ https://www.blizzardgames.cn/zh-cn/
 
 https://www.blackpast.org/
 
+http://bcc.blcu.edu.cn/
+<!-- BCC语料库 -->
+
 https://www.blogger.com/
 
 https://www.bluesdawn.top/
@@ -251,6 +254,10 @@ https://www.branah.com/
 https://www.branah.com/korean
 
 https://www.britannica.com/
+
+http://buddhism-dict.net/
+http://buddhism-dict.net/ddb/
+http://buddhism-dict.net/ddb/indexes/term-sa.html
 
 https://bulink.xyz/
 
@@ -579,6 +586,8 @@ https://enazo.cn/
 
 https://www.encyclopedia.com/
 
+https://encyclopediaofbuddhism.org/wiki/Main_Page
+
 https://encyclopediaofmath.org/wiki/Main_Page
 
 https://endnote.com/
@@ -638,6 +647,9 @@ http://banbanshi.web.fc2.com/
 http://manpukujinja.blog135.fc2.com/
 <!-- 满福神社 -->
 <!-- 満福神社 -->
+
+http://fdict.cn/#/
+<!-- 梵佛词典 -->
 
 https://feeder.co/
 https://feedly.com/
@@ -718,6 +730,7 @@ https://www.geogebra.org/
 https://www.geoguessr.com/
 
 https://ca.getbitznet.com/
+https://client.getbitznet.com/
 https://dash.getbitznet.com/
 
 https://getbootstrap.com/
@@ -800,6 +813,8 @@ https://gitter.im/home
 https://globle.org/
 
 https://www.globalsecurity.org/index.html
+
+https://zh.glosbe.com/
 
 https://glyphwiki.org/wiki/GlyphWiki:%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8
 
@@ -1139,6 +1154,10 @@ https://lceda.cn/
 
 https://www.lead.org/
 
+https://www.learnsanskrit.cc/
+
+https://learnsanskrit.org/
+
 https://leetcode.cn/
 https://leetcode.com/
 
@@ -1287,6 +1306,7 @@ https://learn.microsoft.com/zh-cn/cpp/?view=msvc-170
 https://learn.microsoft.com/zh-cn/cpp/c-language/?view=msvc-170
 https://learn.microsoft.com/zh-cn/cpp/cpp/?view=msvc-170
 https://learn.microsoft.com/zh-cn/cpp/cpp/lambda-expressions-in-cpp?view=msvc-170
+https://learn.microsoft.com/zh-cn/powershell/
 
 https://mathsolver.microsoft.com/zh
 https://visualstudio.microsoft.com/zh-hans/
@@ -1359,6 +1379,10 @@ https://www.mouser.cn/
 https://developer.mozilla.org/zh-CN/
 https://www.mozilla.org/zh-CN/firefox/
 
+http://www.muni-buddha.com.tw/music/
+http://www.muni-buddha.com.tw/music/doc034-wiki.html
+<!-- 大悲咒 -->
+
 https://musedash.moe/
 
 https://musescore.org/zh-hans
@@ -1387,6 +1411,10 @@ https://zh.dict.naver.com/#/main
 https://ncss.cn/
 https://cy.ncss.cn/
 <!-- 全国大学生创业服务网 -->
+
+https://www.ncu.edu.tw/tw/index.html
+http://www.ss.ncu.edu.tw/~calin/dictionary.html
+<!-- 林崇安教授文集 -->
 
 http://ncyacg.com/
 <!-- 喵次元 -->
@@ -1625,6 +1653,8 @@ https://www.pixiv.net/
 
 https://www.pku.edu.cn/
 https://bbs.pku.edu.cn/v2/home.php
+http://ccl.pku.edu.cn:8080/ccl_corpus/index.jsp
+<!-- CCL语料库检索系统 -->
 https://www.isss.pku.edu.cn/cfps/
 https://www.lib.pku.edu.cn/portal/cn
 http://hxqk.lib.pku.edu.cn/
@@ -1718,6 +1748,7 @@ https://www.quora.com/
 
 https://www.random.org/
 
+https://readmoo.com/
 
 https://readthedocs.org/
 
@@ -1778,6 +1809,8 @@ https://sakuradrive.com/
 https://www.samr.gov.cn/
 https://openstd.samr.gov.cn/bzgk/gb/
 
+https://www.sanskritdictionary.com/
+
 https://sbaliyun.com/
 https://chatgpt.sbaliyun.com/
 
@@ -1808,6 +1841,9 @@ https://www.semanticscholar.org/
 
 https://www.shehuiwang.cn/site/index.jsp
 http://epaper.shehuiwang.cn/site/index.jsp
+
+https://www.shenyandayi.com/
+<!-- 深言达意 -->
 
 https://www.shihang.org/zh/home
 
@@ -2117,6 +2153,10 @@ https://news.tyuans.com/
 https://zh.u1lib.org/
 
 https://uahh.site/reborn
+
+https://ubcsanskrit.ca/
+https://ubcsanskrit.ca/lesson1/devan%C4%81gar%C4%AB.html
+<!-- Devanāgarī Phonology Chart -->
 
 https://zh-cn.ubisoft.com/
 
