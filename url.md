@@ -261,6 +261,13 @@ http://buddhism-dict.net/ddb/indexes/term-sa.html
 
 https://bulink.xyz/
 
+https://www.bunka.go.jp/
+<!-- 文化庁 -->
+https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/
+<!-- 内閣告示・内閣訓令 -->
+https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/
+<!-- 常用漢字表 -->
+
 https://www.buymeacoffee.com/
 
 https://www.bv2008.cn/
@@ -349,7 +356,6 @@ https://in.closed.social:9443/pastExam/
 https://t.closed.social/
 https://thu.closed.social/
 https://thu2.closed.social/
-<!-- 似乎已经失效 -->
 
 https://cloudpss.net/index/
 https://tsinghua.cloudpss.net/
@@ -593,6 +599,8 @@ https://encyclopediaofmath.org/wiki/Main_Page
 https://endnote.com/
 
 https://www.epsnet.com.cn/index.html#/Index
+
+https://eropenguin.com/
 
 https://www.etsy.com/
 
@@ -910,6 +918,8 @@ https://www.history.com/
 http://www.homeinmists.com/shuowen/
 http://www.homeinmists.com/
 
+http://httpbin.org/
+
 https://www.huangyuhui.net/
 https://hmcl.huangyuhui.net/
 
@@ -1098,6 +1108,9 @@ https://keyboardingonline.net/us-keyboard/zh/
 <!-- 在线键盘 -->
 
 https://www.khanacademy.org/
+
+https://kigosai.sub.jp/
+<!-- 季語と歳時記 -->
 
 http://www.kingdraw.cn/
 
@@ -1364,6 +1377,8 @@ https://zh.moegirl.org.cn/Mainpage
 
 https://www.mogher.com/
 <!-- 潮州母语 -->
+https://www.mogher.com/baike
+<!-- 潮典 -->
 
 https://moji.or.jp/
 https://moji.or.jp/mojikibansearch/basic
@@ -1441,6 +1456,8 @@ https://bbs.nga.cn/
 
 http://www.nhc.gov.cn/
 <!-- 国家卫健委 -->
+
+https://nhentai.com/home
 
 https://nhentai.net/
 
@@ -1661,6 +1678,10 @@ http://hxqk.lib.pku.edu.cn/
 <!-- 北京大学中文核心期刊要目总览 -->
 https://opendata.pku.edu.cn/
 
+https://pkudh.org/
+https://pkudh.org/project/yongledadian/
+<!-- 《永乐大典》高清影像数据库系统 -->
+
 http://www.planecrashinfo.com/
 http://www.planecrashinfo.com/lastwords.htm
 
@@ -1845,6 +1866,9 @@ http://epaper.shehuiwang.cn/site/index.jsp
 https://www.shenyandayi.com/
 <!-- 深言达意 -->
 
+https://www.shidianguji.com/
+https://yongle.shidianguji.com/introduction
+
 https://www.shihang.org/zh/home
 
 https://shimo.im/
@@ -1900,6 +1924,8 @@ https://gnuwin32.sourceforge.net/packages/tree.htm
 http://www.sp2000.org.cn/
 
 https://speedpdf.com/zh-cn/
+
+https://www.speedtest.cn/
 
 https://www.spoj.com/
 
