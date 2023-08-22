@@ -26,7 +26,7 @@ void sieve(int x = 44000)
 }
 ```
 
-时间复杂度为O(nloglogn)
+时间复杂度为 $O(n\log \log n)$
 
 ### 欧拉筛法
 
@@ -52,4 +52,4 @@ void sieve(int x = 1000003)
 }
 ```
 
-时间复杂度为O(n)
+时间复杂度为 $O(n)$

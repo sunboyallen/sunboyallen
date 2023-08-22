@@ -234,6 +234,10 @@ http://bcc.blcu.edu.cn/
 
 https://www.blogger.com/
 
+http://fgwang.blogspot.com/
+<!-- WFG -->
+http://fgwang.blogspot.com/2015/12/blog-post_30.html
+
 https://www.bluesdawn.top/
 
 https://www.bnu.edu.cn/
@@ -252,6 +256,8 @@ https://www.bootcss.com/
 
 https://www.branah.com/
 https://www.branah.com/korean
+
+https://brilliant.org/home/
 
 https://www.britannica.com/
 
@@ -428,6 +434,7 @@ https://www.creprice.cn/
 <!-- 禧泰数据，房价 -->
 
 https://crosst.chat/
+<!-- 十字街 -->
 
 https://crossword-solver.io/
 
@@ -582,6 +589,9 @@ https://www.electronic-software-shop.com/
 https://element.io/
 
 https://www.emojiall.com/zh-hans
+
+https://emojicombos.com/
+https://emojicombos.com/fumo
 
 https://emojipedia.org/
 https://emojipedia.org/zh/
@@ -927,6 +937,8 @@ https://www.huashi6.com/
 
 https://www.huawei.com/cn/
 https://cloud.huawei.com/
+
+https://huggingface.co/
 
 https://www.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5
 https://santi.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5
@@ -1366,6 +1378,8 @@ https://modheader.com/
 https://www.moe.gov.cn/
 https://www.moe.gov.cn/jyb_xxgk/
 
+https://moeac.cc/
+
 https://www.moedict.tw/%E4%B8%80
 
 https://moec.me/
@@ -1465,6 +1479,8 @@ http://nicotalk.com/ktykroom.html
 http://nicotalk.com/nicotalk.html
 
 https://www.nicovideo.jp/
+https://seiga.nicovideo.jp/
+https://seiga.nicovideo.jp/shunga
 
 https://www.nih.gov/
 https://pubchem.ncbi.nlm.nih.gov/periodic-table/
@@ -2309,6 +2325,8 @@ https://www.wallpaperengine.space/
 https://wallpapers.com/
 
 https://www.wanfangdata.com.cn/index.html
+https://fz.wanfangdata.com.cn/index.do
+<!-- 地方志 -->
 
 https://wangchujiang.com/linux-command/
 
