@@ -459,6 +459,8 @@ https://cuhk.edu.hk/chinese/index.html
 https://arts.cuhk.edu.hk/web/
 https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/
 
+https://curlconverter.com/
+
 https://cuute.cc/
 
 https://www.cymapp.cc/
@@ -514,7 +516,7 @@ https://discord.com/
 https://www.diva-portal.org/
 
 https://www.djangoproject.com/
-https://docs.djangoproject.com/zh-hans/4.1/
+https://docs.djangoproject.com/zh-hans/4.2/
 
 https://www.dlsite.com/home/
 
@@ -539,6 +541,8 @@ https://dx.doi.org/
 https://donmai.moe/
 https://danbooru.donmai.us/
 
+https://www.doorzo.net/
+
 https://www.dotcpp.com/
 
 https://www.douban.com/
@@ -547,6 +551,9 @@ https://doxygen.nl/
 https://www.doxygen.nl/
 
 https://www.dpm.org.cn/Home.html
+
+https://dsrkafuu.net/
+https://github.dsrkafuu.net/sakana-widget/
 
 https://www.duba.com/
 https://desk.duba.com/
@@ -984,6 +991,9 @@ https://www.influxdata.com/
 
 https://inkscape.org/zh-hans/
 
+https://inorin.cc/
+https://ksim.inorin.cc/
+
 https://www.inshot.com/
 
 https://www.instagram.com/
@@ -1012,6 +1022,9 @@ https://isocpp.org/
 https://www.ispeakmin.com/bbs/
 
 https://iszg100.xyz/
+
+https://msdn.itellyou.cn/
+https://next.itellyou.cn/
 
 https://iyideng.vip/
 https://iyideng.vip/tools/clash-for-android.html
@@ -1076,6 +1089,8 @@ https://join-tsinghua.edu.cn/gnxs/qjjh.htm
 https://admission.join-tsinghua.edu.cn/frontend/site/login
 https://bk.join-tsinghua.edu.cn/bz.wsbm_login.jsp?err=null
 https://wxyx.join-tsinghua.edu.cn/res/SpecialWsbm/indexdept.html
+
+https://www.joysound.com/web/
 
 https://www.jpmnb.net/
 <!-- 精品美女吧 -->
@@ -1277,6 +1292,8 @@ https://www.marxists.org/
 https://www.marxists.org/chinese/index.html
 https://www.marxists.org/chinese/pdf/marxism-library.htm
 
+https://www.masadora.net/
+
 https://matchthememory.com/
 
 https://www.mathworks.com/
@@ -1284,6 +1301,8 @@ https://ww2.mathworks.cn/
 https://matlab.mathworks.com/
 
 https://www.matongxue.com/
+
+https://matplotlib.org/
 
 https://www.matrix.io/index_cn.html
 
@@ -1375,6 +1394,9 @@ http://bzdt.ch.mnr.gov.cn/
 
 https://modheader.com/
 
+https://www.moe.gov.tw/Default.aspx
+https://dict.revised.moe.edu.tw/
+
 https://www.moe.gov.cn/
 https://www.moe.gov.cn/jyb_xxgk/
 
@@ -1463,6 +1485,8 @@ https://www.netlify.com/
 https://netlify.app/
 https://wallockman.netlify.app/
 
+https://netron.app/
+
 https://www.neverendingchartrendering.org/
 
 https://nga.cn/
@@ -1547,6 +1571,8 @@ https://oeis.org/wiki/Main_Page
 
 https://www.office.com/
 https://whiteboard.office.com/
+
+https://www.ogcopen.com/
 
 https://oi-wiki.org/
 
@@ -1781,6 +1807,8 @@ https://quizlet.com/zh-cn
 
 https://www.quora.com/
 
+https://dev.qweather.com/
+
 ## R
 
 https://www.random.org/
@@ -1792,6 +1820,8 @@ https://readthedocs.org/
 https://hexchat.readthedocs.io/en/latest/
 
 https://www.reddit.com/
+
+https://www.redgifs.com/
 
 https://www.redtube.com/
 
@@ -1939,6 +1969,9 @@ https://gnuwin32.sourceforge.net/packages/tree.htm
 
 http://www.sp2000.org.cn/
 
+https://sparanoid.com/lab/7z/
+<!-- 7-Zip 官方中文网站 -->
+
 https://speedpdf.com/zh-cn/
 
 https://www.speedtest.cn/
@@ -2036,6 +2069,10 @@ https://playground.tensorflow.org/
 https://texlive.info/
 
 https://www.texpage.com/
+
+https://thdog.moe/
+https://cn.thdog.moe/
+<!-- 东方狗下载站 -->
 
 https://www.thefreedictionary.com/
 
@@ -2281,6 +2318,8 @@ https://venture.com/
 
 https://vibaike.com/
 
+https://www.videolan.org/vlc/
+
 https://vimeo.com/
 
 https://vimsky.com/
@@ -2347,6 +2386,8 @@ https://www.weiyun.com/
 https://www.wenjuan.com/
 <!-- 问卷网 -->
 
+https://www.wgt.com/home/
+
 https://www.wgtn.ac.nz/
 https://www.wgtn.ac.nz/lals/resources/academicwordlist
 
@@ -2399,6 +2440,8 @@ https://www.worldbank.org/en/home
 https://www.worldcoinindex.com/
 
 https://worldlegame.io/
+
+https://worldtimeapi.org/
 
 https://www.wosouyun.com/
 
