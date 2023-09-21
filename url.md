@@ -194,6 +194,8 @@ https://www.bbc.co.uk/learningenglish/chinese/home
 
 https://bcy.net/
 
+https://www.behindthename.com/
+
 https://www.bejson.com/
 
 https://bellard.org/
@@ -300,6 +302,8 @@ http://www.ccamc.org/
 https://www.changhai.org/
 
 https://www.chaoxing.com/
+
+https://beta.character.ai/
 
 https://app.chatra.io/
 
@@ -1347,6 +1351,8 @@ https://azure.microsoft.com/zh-cn/
 
 https://learn.microsoft.com/zh-cn/
 https://learn.microsoft.com/zh-cn/cpp/?view=msvc-170
+https://learn.microsoft.com/zh-cn/cpp/assembler/masm/ml-and-ml64-command-line-reference?view=msvc-170
+https://learn.microsoft.com/zh-cn/cpp/build/reference/linker-options?view=msvc-170
 https://learn.microsoft.com/zh-cn/cpp/c-language/?view=msvc-170
 https://learn.microsoft.com/zh-cn/cpp/cpp/?view=msvc-170
 https://learn.microsoft.com/zh-cn/cpp/cpp/lambda-expressions-in-cpp?view=msvc-170
@@ -1674,6 +1680,10 @@ https://phesoca.com/kanbun-html/
 <!-- 汉文训读排版 -->
 https://phesoca.com/tshet/
 
+http://www.phonetics.org.cn/
+<!-- 中国语言学会语音学分会 -->
+http://www.phonetics.org.cn/?p=838
+<!-- 国际音标（2005 中文版） -->
 
 https://www.php.cn/
 
@@ -1904,6 +1914,8 @@ https://seesaawiki.jp/toho-motoneta_2nd/
 
 https://segmentfault.com/
 
+https://sehuatang.net/
+
 https://www.semanticscholar.org/
 
 https://www.shehuiwang.cn/site/index.jsp
@@ -1993,6 +2005,8 @@ https://sspai.com/
 
 https://www.st-andrews.ac.uk/
 https://mathshistory.st-andrews.ac.uk/
+
+https://stablediffusionweb.com/
 
 https://stackexchange.com/
 https://chemistry.stackexchange.com/
