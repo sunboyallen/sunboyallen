@@ -666,6 +666,8 @@ https://pkuhistory.fandom.com/zh/wiki/%E5%8C%97%E5%A4%A7%E9%87%8E%E5%8F%B2_Wiki
 https://touhou.fandom.com/zh/wiki/%E4%B8%9C%E6%96%B9Project_Wiki
 https://vocaloidlyrics.fandom.com/wiki/Vocaloid_Lyrics_Wiki
 
+https://fantia.jp/
+
 https://fc2.com/
 https://fc2blog.us/
 
@@ -1113,6 +1115,10 @@ https://www.json.cn/
 
 https://juejin.cn/
 
+https://www.juntong.or.kr/
+https://hanjaro.juntong.or.kr/
+<!-- 汉字路 -->
+
 ## K
 
 https://www.kadokawa.co.jp/
@@ -1509,6 +1515,8 @@ http://nicotalk.com/ktykroom.html
 http://nicotalk.com/nicotalk.html
 
 https://www.nicovideo.jp/
+https://dic.nicovideo.jp/
+https://dic.nicovideo.jp/a/%E6%9D%B1%E6%96%B9%E4%B9%B3%E8%AD%B0%E8%AB%96
 https://seiga.nicovideo.jp/
 https://seiga.nicovideo.jp/shunga
 
@@ -1719,6 +1727,9 @@ https://www.pishu.com.cn/skwx_ps/database?SiteID=14
 https://pixabay.com/zh/
 
 https://www.pixiv.net/
+https://dic.pixiv.net/
+https://dic.pixiv.net/a/%E6%9D%B1%E6%96%B9%E3%81%8A%E3%81%A3%E3%81%B1%E3%81%84%E3%82%BF%E3%82%B0%E4%B8%80%E8%A6%A7
+<!-- 東方おっぱいタグ一覧 -->
 
 https://www.pku.edu.cn/
 https://bbs.pku.edu.cn/v2/home.php
@@ -2331,6 +2342,8 @@ https://www.vcmiao.com/
 https://venture.com/
 
 https://vibaike.com/
+
+https://www.video2edit.com/zh
 
 https://www.videolan.org/vlc/
 

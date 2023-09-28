@@ -24,7 +24,7 @@ int main()
     int result = number18(id);
     if (result == -1)
         cout << "error" << endl;
-    else if (result == 0)
+    else if (result == 10)
         cout << "X" << endl;
     else
         cout << result << endl;
