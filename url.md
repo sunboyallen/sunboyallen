@@ -156,6 +156,8 @@ https://www.artnet.com/
 
 https://asiangirlsaddict.xyz/
 
+http://asmirvine.com/
+
 https://atwiki.jp/
 https://w.atwiki.jp/gensouma-jan/
 https://w.atwiki.jp/softalk
@@ -430,6 +432,9 @@ https://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5
 
 http://www.cqvip.com/
 
+http://cr.yp.to/
+http://cr.yp.to/ftp.html
+
 https://cra.org/
 
 https://www.crazygames.com/
@@ -502,6 +507,12 @@ https://daumpotplayer.com/
 https://www.dayila.net/
 
 https://www.dbbqb.com/
+
+https://www.dcloud.io/
+https://www.dcloud.io/hbuilderx.html
+
+https://dcloud.net.cn/
+https://uniapp.dcloud.net.cn/
 
 https://www.deepl.com/translator
 
@@ -799,6 +810,8 @@ https://cheeaun.github.io/
 
 https://cnvalues.github.io/
 
+https://dreamanddead.github.io/CSAPP-3e-Solutions/
+
 https://ebookfoundation.github.io/free-programming-books/
 
 https://google.github.io/styleguide/
@@ -910,6 +923,8 @@ https://hack.chat/
 https://beta.hack.chat/
 https://hack.chat/?kt1j8rpc
 
+https://handraw.top/
+
 https://hangmanwordgame.com/?online#/
 
 https://www.hanyi.com.cn/home
@@ -963,6 +978,9 @@ https://www.huorong.cn/
 https://www.huoying666.com/
 
 ## I
+
+https://www.icann.org/
+https://www.icann.org/zh
 
 https://www.iconfont.cn/
 
@@ -1029,8 +1047,17 @@ https://www.ispeakmin.com/bbs/
 
 https://iszg100.xyz/
 
+https://itch.io/
+https://cherry-treehouse.itch.io/
+https://cherry-treehouse.itch.io/iwbtgr
+<!-- i wanna be the guy -->
+https://kayin.itch.io/
+https://kayin.itch.io/iwbtg
+
 https://msdn.itellyou.cn/
 https://next.itellyou.cn/
+
+https://www.iwannawiki.com/
 
 https://iyideng.vip/
 https://iyideng.vip/tools/clash-for-android.html
@@ -1117,6 +1144,7 @@ https://juejin.cn/
 
 https://www.juntong.or.kr/
 https://hanjaro.juntong.or.kr/
+https://hanjaro.juntong.or.kr/page_translater_china_s.aspx
 <!-- 汉字路 -->
 
 ## K
@@ -1135,6 +1163,12 @@ https://forum.kangxizidian.com/
 https://www.kanjipedia.jp/
 
 https://katex.org/
+
+https://kayin.moe/
+https://iwbtg.kayin.moe/
+https://kayin.moe/iwbtg/
+<!-- i wanna be the guy -->
+https://kayin.moe/iwbtg/downloads.html
 
 https://www.kdocs.cn/
 
@@ -1162,6 +1196,9 @@ https://tool.konisimple.net/text/hinshi_keitaiso
 
 https://kopernio.com/
 <!-- endnote -->
+
+https://korean.go.kr/
+https://krdict.korean.go.kr/kor/mainAction
 
 https://www.kotenbunpou.com/
 <!-- 古典文法 -->
@@ -1401,8 +1438,14 @@ https://www.miyoushe.com/ys/
 
 https://www.mkdocs.org/
 
+https://www.mockplus.cn/
+https://www.mockplus.cn/rp
+<!-- 摹客 -->
+
 https://www.mnr.gov.cn/
 http://bzdt.ch.mnr.gov.cn/
+
+https://mobaxterm.mobatek.net/
 
 https://modheader.com/
 
@@ -1861,6 +1904,8 @@ https://reshish.com/zh/
 https://graph.reshish.com/zh/
 https://matrix.reshish.com/zh/
 
+https://revezone.com/index.html
+
 https://rime.im/
 
 https://www.riotgames.com/zh-cn
@@ -1896,6 +1941,8 @@ https://sakuradrive.com/
 
 https://www.samr.gov.cn/
 https://openstd.samr.gov.cn/bzgk/gb/
+
+https://www.sanfengyun.com/
 
 https://www.sanskritdictionary.com/
 
@@ -2006,6 +2053,9 @@ https://open.spotify.com/
 https://spr233.eu.org/
 
 https://spssau.com/
+
+https://www.sr2jr.com/
+https://www.sr2jr.com/textbook-solutions
 
 https://www.sslibrary.com/
 https://edu.sslibrary.com/
