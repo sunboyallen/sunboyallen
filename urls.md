@@ -1122,6 +1122,8 @@ https://webpack.js.org/
 
 https://jsdoc.app/
 
+https://jsfuck.com/
+
 https://www.json.cn/
 https://www.json.org/json-zh.html
 
@@ -1252,10 +1254,7 @@ https://www.linkedin.com/
 
 https://linoxide.com/
 
-https://linux.cn/
 https://www.linux.org/
-
-https://www.linuxv2ray.com/
 
 https://littleskin.cn/
 
@@ -1306,6 +1305,9 @@ https://yuki-factory.main.jp/
 
 https://www.maj-soul.com/#/home
 https://game.maj-soul.com/1/
+
+https://www.man7.org/
+https://www.man7.org/linux/man-pages/
 
 https://www.manchester.ac.uk/
 https://www.phrasebank.manchester.ac.uk/
@@ -1486,6 +1488,9 @@ https://www.myendnoteweb.com/EndNoteWeb.html
 https://www.myfitnesspal.com/zh-CN
 
 ## n
+
+https://namedic.jp/
+<!-- 名前辞典 -->
 
 https://www.naver.com/
 https://dict.naver.com/
@@ -2288,6 +2293,7 @@ https://zh-cn.ubisoft.com/
 
 https://ubuntu.com/
 https://cn.ubuntu.com/
+https://manpages.ubuntu.com/
 
 https://www.udacity.com/
 
@@ -2415,8 +2421,6 @@ https://wallpapers.com/
 https://www.wanfangdata.com.cn/index.html
 https://fz.wanfangdata.com.cn/index.do
 <!-- 地方志 -->
-
-https://wangchujiang.com/linux-command/
 
 https://wantwords.net/
 
