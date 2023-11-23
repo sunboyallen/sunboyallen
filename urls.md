@@ -146,6 +146,10 @@ https://www.anthropic.com/
 https://www.apa.org/
 https://apastyle.apa.org/
 
+https://www.apache.org/
+https://iotdb.apache.org/zh/
+https://maven.apache.org/index.html
+
 https://www.apowersoft.cn/
 https://www.apowersoft.cn/phone-mirror
 <!-- 傲软投屏 -->
@@ -515,6 +519,9 @@ https://uniapp.dcloud.net.cn/
 https://www.deepl.com/translator
 
 https://www.desmos.com/?lang=zh-CN
+
+https://app.diagrams.net/
+<!-- draw.io -->
 
 https://www.dictionary.com/
 
