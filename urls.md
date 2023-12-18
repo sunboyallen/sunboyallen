@@ -71,6 +71,8 @@ https://www.91huayi.com/
 
 ## a
 
+https://a-hadaka.jp/
+
 https://www.abbreviations.com/
 
 https://abkai.net/zh/
@@ -426,9 +428,17 @@ https://products.conholdate.app/zh
 https://products.conholdate.app/zh/viewer
 https://products.conholdate.app/zh/viewer/vsdx
 
+https://www.conventionalcommits.org/zh-hans/v1.0.0/
+<!-- Git约定式提交 -->
+
 https://www.coodesker.com/
 
 https://www.corel.com/en/
+
+https://cosplaytele.com/
+
+https://cosplayworld.net/
+https://cosplayworld.net/category/nude-cosplay/
 
 https://cosporn.online/
 
@@ -662,6 +672,8 @@ https://evernote.com/intl/zh-cn
 
 https://en.everybodywiki.com/Everybodywiki:Welcome
 
+https://excalidraw.com/
+
 https://www.expressjs.com.cn/
 
 https://www.ezqaq.com/
@@ -864,6 +876,8 @@ https://epaper.gmw.cn/
 https://www.gnu.org/
 https://gcc.gnu.org/
 
+https://go.dev/
+
 https://godbolt.org/
 
 https://gogen-yurai.jp/
@@ -874,6 +888,7 @@ https://www.goo.ne.jp/
 https://dictionary.goo.ne.jp/
 
 https://www.google.com/
+https://golang.google.cn/
 https://mail.google.com/mail/u/0/
 https://scholar.google.com/
 
@@ -912,8 +927,11 @@ https://www.hacg.mom/wp/
 https://www.hacg.sbs/wp/
 <!-- 琉璃神社 -->
 
+https://hach.chat/
+
 https://hack.chat/
 https://hack.chat/?kt1j8rpc
+https://hack.chat/?lounge
 https://beta.hack.chat/
 
 https://handraw.top/
@@ -1155,6 +1173,10 @@ https://www.kangxizidian.com/
 https://forum.kangxizidian.com/
 
 https://www.kanjipedia.jp/
+
+https://www.kanken.or.jp/
+https://www.kanken.or.jp/kotoshinokanji/
+<!-- 今年の漢字 -->
 
 https://katex.org/
 
@@ -1574,6 +1596,7 @@ https://nmsl.website/%E9%A6%96%E9%A1%B5
 https://nodejs.org/zh-cn/
 https://nodejs.org/zh-cn/docs/
 
+https://note.com/
 https://note.ms/Allen
 https://note.ms/ee
 https://note.ms/THEWESTSHELL
@@ -2006,6 +2029,8 @@ https://www.sketch.com/
 
 https://slack.com/intl/zh-cn/
 
+https://slackmojis.com/
+
 http://slither.io/
 
 https://snapseedofficial.com/
@@ -2080,6 +2105,8 @@ https://steampp.net/
 http://steamworkshop.download/
 
 https://www.stroustrup.com/
+
+https://www.studocu.com/
 
 https://kigosai.sub.jp/
 <!-- 季語と歳時記 -->
@@ -2404,6 +2431,7 @@ https://zh.voicedic.com/
 https://hello.vrchat.com/
 
 https://vuejs.org/
+https://cn.vuejs.org/
 
 ## w
 
