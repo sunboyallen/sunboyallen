@@ -122,6 +122,7 @@ https://altema.jp/
 https://www.altera-price.com/
 
 https://www.amazon.cn/
+https://www.amazon.co.jp/
 https://www.amazon.com/
 
 https://www.amiami.com/cn/
@@ -526,7 +527,7 @@ https://www.dcloud.io/hbuilderx.html
 https://dcloud.net.cn/
 https://uniapp.dcloud.net.cn/
 
-https://www.deepl.com/translator
+https://www.deepl.com/zh/translator
 
 https://www.desmos.com/?lang=zh-CN
 
@@ -768,6 +769,8 @@ https://gamepress.gg/
 
 https://gamerch.com/
 
+https://news.gamme.com.tw/
+
 https://www.gancube.com/zh/
 
 https://www.gangqinpu.com/
@@ -787,6 +790,8 @@ http://www.gdyshi.com/
 https://www.geeksforgeeks.org/
 
 https://geekuninstaller.pro/
+
+https://gelbooru.com/index.php
 
 https://genius.com/
 
@@ -867,6 +872,7 @@ https://www.globalsecurity.org/index.html
 https://globle.org/
 
 https://zh.glosbe.com/
+<!-- 字典 -->
 
 https://glyphwiki.org/wiki/GlyphWiki:%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8
 
@@ -888,6 +894,7 @@ https://www.goo.ne.jp/
 https://dictionary.goo.ne.jp/
 
 https://www.google.com/
+https://www.google.com/earth/about/
 https://golang.google.cn/
 https://mail.google.com/mail/u/0/
 https://scholar.google.com/
@@ -895,14 +902,11 @@ https://scholar.google.com/
 https://cn.govopendata.com/renminribao/
 https://cn.govopendata.com/xinwenlianbo/
 
-https://chat.gpt.bz/gpt
-
-https://gptapi.cn/
-
 https://www.grammarly.com/
 https://app.grammarly.com/
 
 https://www.grammy.com/
+<!-- 格莱美 -->
 
 https://cn.gravatar.com/
 
@@ -920,11 +924,13 @@ https://www.gushicimingju.com/gushi/cipaiming/
 
 https://www.gushiwen.cn/
 
+https://gyate.net/
+<!-- 响子脸 -->
+
 ## h
 
-https://www.hacg.mom/
-https://www.hacg.mom/wp/
-https://www.hacg.sbs/wp/
+https://www.hacg.lv/
+https://www.hacg.me/
 <!-- 琉璃神社 -->
 
 https://hach.chat/
@@ -935,6 +941,7 @@ https://hack.chat/?lounge
 https://beta.hack.chat/
 
 https://handraw.top/
+<!-- 手写画板 -->
 
 https://hangmanwordgame.com/?online#/
 
@@ -959,6 +966,7 @@ https://hexo.io/zh-cn/
 https://hexo.io/zh-cn/docs/
 
 https://wtf.hiigara.net/
+<!-- 鬼东西 -->
 
 https://zh.hinative.com/
 
@@ -1190,6 +1198,7 @@ https://www.kdocs.cn/
 
 https://www.kemono.party/
 https://kemono.su/
+<!-- fanbox -->
 
 https://keyboardingonline.net/us-keyboard/zh/
 <!-- 在线键盘 -->
@@ -1201,6 +1210,9 @@ http://www.kingdraw.cn/
 https://www.kmspicoofficial.com/
 
 https://www.koalastothemax.com/
+
+https://konachan.com/
+<!-- 图 -->
 
 https://tool.konisimple.net/
 https://tool.konisimple.net/text/hinshi_keitaiso
@@ -1953,7 +1965,9 @@ https://sakuradrive.com/
 https://www.samr.gov.cn/
 https://openstd.samr.gov.cn/bzgk/gb/
 
-https://www.sanfengyun.com/
+https://www.sankakucomplex.com/
+https://beta.sankakucomplex.com/zh-CN
+https://chan.sankakucomplex.com/
 
 https://www.sanskritdictionary.com/
 
@@ -2009,6 +2023,9 @@ https://www.shogakukan.co.jp/
 https://www.shooterspool.net/promo/zh_cn/shooterspool-online-billiards-simulation.html
 
 https://new.shuge.org/
+
+https://shugohairanai.com/
+<!-- 金谷武洋公式ブログ -->
 
 https://www.sigure.tw/
 
@@ -2594,6 +2611,7 @@ https://developer.yahoo.co.jp/webapi/jlp/ma/v2/parse.html
 <!-- 日本語形態素解析 日本语形态素解析 -->
 
 https://yande.re/post
+<!-- 图 -->
 
 https://yandex.com/
 
