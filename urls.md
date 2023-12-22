@@ -1644,6 +1644,9 @@ https://www.nyato.com/
 
 https://obsproject.com/zh-cn
 
+https://iconpark.oceanengine.com/home
+<!-- 字节跳动图标库 ByteDance -->
+
 http://odict.net/
 http://zidian.odict.net/
 http://zidian.odict.net/zh-tw/
@@ -1833,6 +1836,9 @@ http://poj.org/
 https://postimages.org/
 
 https://www.ppkao.com/
+
+https://www.prettier.cn/
+https://prettier.io/
 
 https://www.processon.com/
 
