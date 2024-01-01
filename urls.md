@@ -151,6 +151,8 @@ https://apastyle.apa.org/
 
 https://www.apache.org/
 https://iotdb.apache.org/zh/
+https://jmeter.apache.org/
+https://jmeter.apache.org/usermanual/properties_reference.html
 https://maven.apache.org/index.html
 
 https://www.apowersoft.cn/
@@ -940,6 +942,9 @@ https://hack.chat/?kt1j8rpc
 https://hack.chat/?lounge
 https://beta.hack.chat/
 
+https://hakurei.red/
+<!-- 博丽听涛分社 -->
+
 https://handraw.top/
 <!-- 手写画板 -->
 
@@ -1002,6 +1007,9 @@ https://www.icann.org/
 https://www.icann.org/zh
 
 https://www.iconfont.cn/
+
+https://www.icourse163.org/
+<!-- 中国大学MOOC慕课 -->
 
 https://ideone.com/
 
@@ -1433,7 +1441,15 @@ https://tat.midishow.com/
 https://www.mihoyo.com/
 https://bbs.mihoyo.com/
 https://bbs.mihoyo.com/ys/
-https://bbs.mihoyo.com/ys/strategy/?bbs_presentation_style=no_header
+
+https://miko.org/~uraki/kuon/
+<!-- 久遠の絆 -->
+https://miko.org/~uraki/kuon/furu/text/kojiki/kojiki.htm
+<!-- 新訂古事記 -->
+https://miko.org/~uraki/kuon/furu/text/waka/manyou/mana.htm
+<!-- 万葉集 -->
+https://miko.org/~uraki/kuon/furu/text/waka/wakan/wakan00.htm
+<!-- 和漢朗詠集 -->
 
 https://miktex.org/
 https://miktex.org/download
@@ -1572,11 +1588,10 @@ https://www.neverendingchartrendering.org/
 https://nga.cn/
 https://bbs.nga.cn/
 
-http://www.nhc.gov.cn/
-<!-- 国家卫健委 -->
-
 https://nhentai.com/home
 https://nhentai.net/
+
+https://emuseum.nich.go.jp/top?langId=zh
 
 http://nicotalk.com/ktykroom.html
 http://nicotalk.com/nicotalk.html
@@ -1602,6 +1617,7 @@ https://cssrac.nju.edu.cn/cpzx/zwshkxywsy/index.html
 <!-- 南京大学 中文社会科学引文索引CSSCI来源期刊目录 -->
 
 https://www.nmbxd1.com/Forum
+<!-- X岛揭示板 -->
 
 https://nmsl.website/%E9%A6%96%E9%A1%B5
 
@@ -1776,6 +1792,8 @@ https://picsart.com/
 
 https://www.pigeongames.cn/
 https://www.pigeongames.cn/phigros
+
+https://www.pil0txia.com/
 
 https://www.pincong.rocks/
 
@@ -2103,6 +2121,9 @@ https://sspai.com/
 https://www.st-andrews.ac.uk/
 https://mathshistory.st-andrews.ac.uk/
 
+https://stable-diffusion.site/
+https://stable-diffusion.site/webui-online/
+
 https://stablediffusionweb.com/
 
 https://stackexchange.com/
@@ -2337,8 +2358,6 @@ https://tyuans.com/
 https://news.tyuans.com/
 
 ## u
-
-https://zh.u1lib.org/
 
 https://uahh.site/reborn
 
@@ -2585,6 +2604,8 @@ https://xhcy.us/
 
 https://home.xinhua-news.com/
 
+https://jmeter.xiniushu.com/
+
 https://xiumi.us/#/
 
 https://www.xiwnn.com/
@@ -2623,14 +2644,8 @@ https://yandex.com/
 
 https://www.yankong.org/
 
-https://yes.com/
-
 https://yhdm6.top/
 <!-- 樱花动漫 -->
-
-https://www.yiibai.com/
-
-https://www.yingxiangdao.com/
 
 https://www.yinxiang.com/
 
@@ -2653,8 +2668,6 @@ https://www.yuketang.cn/web
 https://pro.yuketang.cn/v2/web/index
 https://tsinghua.yuketang.cn/pro/portal/home/
 
-https://yunyouni.com/
-
 https://www.yuque.com/
 
 http://www.yuuhei-satellite.jp/
@@ -2662,11 +2675,13 @@ http://www.yuuhei-satellite.jp/
 
 ## z
 
-https://zh.z-lib.org/
+https://zh.z-library.se/
 
 https://www.zhangqiaokeyan.com/
+<!-- 掌桥科研 -->
 
 https://www.zhaopin.com/
+<!-- 智联招聘 -->
 
 http://www.zhgc.com/
 <!-- 国粹网 -->
@@ -2675,34 +2690,26 @@ http://www.zhgc.com/mk/index.asp
 
 https://www.zhihu.com/
 
-https://www.zhixue.com/login.html
-
 http://zhongguose.com/
 
 https://zhumu.com/
 
 https://zi.tools/
 
-http://www.zidianzhan.net/
-https://xs.zidianzhan.net/
-
 http://zisea.com/
 http://zisea.com/zsts.htm
-
-https://www.zishuai.com/
 
 https://zh.zlibrary-china.se/
 
 https://www.zmt.wiki/
+<!-- 自媒体维基 -->
 
 http://zokugo-dict.com/
-
-https://www.zol.com.cn/
+<!-- 日本語俗語辞書 -->
 
 https://zoom.us/
 
 https://www.zotero.org/
 
 https://www.zxxk.com/
-
-https://www.zybuluo.com/mdeditor
+<!-- 学科网 -->

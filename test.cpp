@@ -2,9 +2,7 @@
 
 using namespace std;
 
-int main()
-{
-    // cout << "Hello World!" << endl;
-    cout << (-1 % 5);
-    return 0;
+int main() {
+    cout << "ok";
+    int a = 0;
 }
