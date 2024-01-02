@@ -170,6 +170,9 @@ https://wiki.arcaea.cn/index.php/%E9%A6%96%E9%A1%B5
 
 https://archive.org/
 
+https://www.digital.archives.go.jp/
+<!-- 国立公文書館 -->
+
 https://archlinux.org/
 
 https://www.artnet.com/
@@ -222,6 +225,7 @@ https://bellard.org/
 https://bellard.org/tcc/
 
 https://bgm.tv/
+<!-- bangumi -->
 
 http://www.biancheng.net/
 http://c.biancheng.net/
@@ -946,7 +950,7 @@ https://hakurei.red/
 <!-- 博丽听涛分社 -->
 
 https://handraw.top/
-<!-- 手写画板 -->
+<!-- 手写白板 -->
 
 https://hangmanwordgame.com/?online#/
 
@@ -980,20 +984,18 @@ https://www.history.com/
 http://www.homeinmists.com/shuowen/
 http://www.homeinmists.com/
 
-http://httpbin.org/
+https://httpbin.org/
 
 https://www.huangyuhui.net/
 https://hmcl.huangyuhui.net/
 
 https://www.huashi6.com/
-
-https://www.huawei.com/cn/
-https://cloud.huawei.com/
+<!-- 触站 -->
 
 https://huggingface.co/
 
 https://www.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5
-https://santi.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5
+<!-- 灰机wiki -->
 
 https://humanbenchmark.com/
 
@@ -1020,7 +1022,9 @@ https://ieeexplore.ieee.org/Xplore/home.jsp
 https://standards.ieee.org/
 
 https://www.ieway.cn/
+<!-- 一维科技 -->
 https://www.ieway.cn/evcapture.html
+<!-- ev录屏 -->
 
 https://www.ijiaodui.com/
 <!-- 爱校对 -->
@@ -1033,10 +1037,10 @@ https://www.ilovepdf.com/zh-cn
 https://www.imdb.com/
 
 https://imgse.com/
-
-https://imgto.cc/
+<!-- 路过图床 -->
 
 https://www.imooc.com/
+<!-- 慕课网 -->
 
 https://www.influxdata.com/
 
@@ -1108,20 +1112,20 @@ https://jekyllcn.com/
 https://jekyllrb.com/
 
 https://www.jetbrains.com/zh-cn/
+https://www.jetbrains.com/zh-cn/idea/
 https://www.jetbrains.com/zh-cn/pycharm/
 
 https://jflap.org/
 https://jflap.org/tutorial/
 
 https://www.jianeryi.com/
+<!-- 简而易 -->
 
 https://www.jianguoyun.com/
 
 https://www.jianshu.com/
 
 https://www.jijidown.com/
-
-https://jikipedia.com/
 
 https://www.jiqizhixin.com/
 

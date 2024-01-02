@@ -17,6 +17,7 @@ def id_checksum(id_card_17):
 
     return checksum_mapping[checksum]
 
+
 if __name__ == '__main__':
     id_card_17 = input()
     id_card_17 = id_card_17.strip()
