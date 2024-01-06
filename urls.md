@@ -225,7 +225,7 @@ https://bellard.org/
 https://bellard.org/tcc/
 
 https://bgm.tv/
-<!-- bangumi -->
+<!-- bangumi番组计划 -->
 
 http://www.biancheng.net/
 http://c.biancheng.net/
@@ -761,6 +761,8 @@ https://www.foxitsoftware.cn/
 https://vip.foxitsoftware.cn/
 
 https://www.freecheck.cn/
+
+https://www.freefonts.io/
 
 https://freembook.com/
 
@@ -1436,6 +1438,8 @@ https://learn.microsoft.com/zh-cn/cpp/c-language/?view=msvc-170
 https://learn.microsoft.com/zh-cn/cpp/cpp/?view=msvc-170
 https://learn.microsoft.com/zh-cn/cpp/cpp/lambda-expressions-in-cpp?view=msvc-170
 https://learn.microsoft.com/zh-cn/powershell/
+https://learn.microsoft.com/zh-cn/typography/font-list/
+https://learn.microsoft.com/zh-cn/typography/font-list/consolas
 https://mathsolver.microsoft.com/zh
 https://visualstudio.microsoft.com/zh-hans/
 
@@ -1574,6 +1578,9 @@ https://www.neea.edu.cn/
 https://cet-bm.neea.edu.cn/
 <!-- 全国大学英语四、六级考试报名网 -->
 https://cjcx.neea.edu.cn/
+
+https://neets.tokyo/
+<!-- 東京アクティブNEETs 交響アクティブNEETs -->
 
 https://nerdschalk.com/
 
@@ -1854,17 +1861,25 @@ https://poemanalysis.com/
 https://poets.org/
 
 http://poj.org/
+<!-- PKU JudgeOnline -->
 
 https://postimages.org/
+<!-- 图片托管 图床 -->
 
 https://www.ppkao.com/
+<!-- 考试资料网 -->
 
 https://www.prettier.cn/
 https://prettier.io/
 
 https://www.processon.com/
+<!-- 思维导图 -->
 
 https://programmercarl.com/
+<!-- 代码随想录 -->
+
+https://www.programmingfonts.org/
+<!-- 字体 -->
 
 https://projecteuler.net/
 
@@ -2038,7 +2053,9 @@ https://www.shenyandayi.com/
 <!-- 深言达意 -->
 
 https://www.shidianguji.com/
+<!-- 识典古籍 -->
 https://yongle.shidianguji.com/introduction
+<!-- 永乐大典 -->
 
 https://www.shihang.org/zh/home
 
@@ -2077,6 +2094,9 @@ https://slack.com/intl/zh-cn/
 https://slackmojis.com/
 
 http://slither.io/
+
+https://sm.ms/
+<!-- 图床 -->
 
 https://snapseedofficial.com/
 
@@ -2519,6 +2539,9 @@ https://www.weiyun.com/
 
 https://www.wenjuan.com/
 <!-- 问卷网 -->
+
+https://www.wenshushu.cn/
+<!-- 文叔叔 传文件 -->
 
 https://www.wgt.com/home/
 
