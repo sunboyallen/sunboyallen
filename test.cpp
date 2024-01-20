@@ -1,8 +1,6 @@
-#include <iostream>
-
-using namespace std;
+#include <cstdio>
 
 int main() {
-    cout << "ok";
-    int a = 0;
+    printf("ok\n");
+    return 0;
 }

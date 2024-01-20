@@ -22,6 +22,8 @@ https://webmail30.189.cn/w2/index.html
 
 https://18comic.vip/
 
+https://18comic-cool.art/
+
 https://18hmanga.click/
 
 https://www.1ppt.com/
@@ -227,8 +229,11 @@ https://bellard.org/tcc/
 https://bgm.tv/
 <!-- bangumi番组计划 -->
 
-http://www.biancheng.net/
-http://c.biancheng.net/
+https://www.biao-zhun.cn/
+<!-- 标准下载网 -->
+
+https://www.biaozhun.org/
+<!-- 标准网 -->
 
 https://bigjpg.com/zh
 
@@ -271,6 +276,7 @@ https://www.bluesdawn.top/
 https://www.bnu.edu.cn/
 https://qxk.bnu.edu.cn/#/
 http://szsw.bnu.edu.cn/
+<!-- 数字化《说文解字》 -->
 
 https://bongo.cat/
 
@@ -279,6 +285,7 @@ https://www.book118.com/tool/pdf2word/
 https://max.book118.com/
 
 https://www.bookschina.com/
+<!-- 中图网 -->
 
 https://www.bootcss.com/
 
@@ -544,6 +551,8 @@ https://www.dictionary.com/
 
 http://www.dicts.cn/
 
+https://www.diffchecker.com/zh-Hans/
+
 https://www.digitalocean.com/
 
 https://www.discogs.com/
@@ -662,6 +671,8 @@ https://www.epsnet.com.cn/index.html#/Index
 
 https://eropenguin.com/
 
+https://www.etsi.org/
+
 https://www.etsy.com/
 
 https://www.etymonline.com/
@@ -768,7 +779,12 @@ https://freembook.com/
 
 https://freenode.net/view/Main_Page
 
+https://www.freestandardsdownload.com/
+
 ## g
+
+https://gal123.com/
+https://www.gal123.com/
 
 https://www.gamekee.com/
 https://touhoulostword.gamekee.com/
@@ -797,7 +813,7 @@ http://www.gdyshi.com/
 
 https://www.geeksforgeeks.org/
 
-https://geekuninstaller.pro/
+https://geekuninstaller.com/
 
 https://gelbooru.com/index.php
 
@@ -1072,7 +1088,6 @@ https://iogames.space/
 http://ipa-reader.xyz/
 
 https://www.iso.org/home.html
-<!-- 国际标准 -->
 
 https://isocpp.org/
 
@@ -1109,6 +1124,9 @@ https://www.javlibrary.com/cn/
 
 https://javtxt.org/
 
+https://jcomic-cn.vip/
+<!-- jmcomic -->
+
 https://jekyllcn.com/
 
 https://jekyllrb.com/
@@ -1136,6 +1154,11 @@ https://jisho.org/
 https://jitenon.jp/
 https://kanji.jitenon.jp/
 https://kokugo.jitenon.jp/
+
+https://jitsu.top/
+https://blog.jitsu.top/
+https://img.jitsu.top/#/instruction/
+https://moe.jitsu.top/r18
 
 https://www.jixiaob.cn/
 https://blog.jixiaob.cn/
@@ -1293,6 +1316,8 @@ https://www.letpub.com.cn/
 https://www.liaoxuefeng.com/
 
 https://libera.chat/
+https://web.libera.chat/
+<!-- irc -->
 
 https://lightoj.com/home
 
@@ -1458,9 +1483,6 @@ https://miko.org/~uraki/kuon/furu/text/waka/manyou/mana.htm
 <!-- 万葉集 -->
 https://miko.org/~uraki/kuon/furu/text/waka/wakan/wakan00.htm
 <!-- 和漢朗詠集 -->
-
-https://miktex.org/
-https://miktex.org/download
 
 https://www.mindmeister.com/zh
 
@@ -1811,6 +1833,9 @@ https://www.pincong.rocks/
 https://www.pinggu.org/
 https://bbs.pinggu.org/
 
+https://www.pingti.xyz/
+<!-- 最佳平替 -->
+
 https://www.pinterest.es/
 
 https://pintia.cn/
@@ -2007,6 +2032,7 @@ https://sakuradrive.com/
 
 https://www.samr.gov.cn/
 https://openstd.samr.gov.cn/bzgk/gb/
+<!-- 国家标准全文公开 -->
 
 https://www.sankakucomplex.com/
 https://beta.sankakucomplex.com/zh-CN
@@ -2028,10 +2054,6 @@ https://sciencereading.cn/
 
 http://www.scqylaw.com/
 http://scholar.scqylaw.com/
-
-https://www.scratch-cn.cn/
-
-https://www.scratch5.com/
 
 https://www.seafile.com/home/
 https://bbs.seafile.com/
@@ -2185,6 +2207,9 @@ https://subingwen.cn/qt/
 
 https://sudoku.com/zh
 
+https://www.superbed.cn/
+<!-- 聚合图床 -->
+
 https://supjav.com/
 
 https://swag.live/
@@ -2314,22 +2339,20 @@ https://truthtablemaker.com/
 
 https://tsinghua.app/
 https://tsinghua.app/courses
-https://www.tsinghua.edu.cn/
-https://50.tsinghua.edu.cn/gymsite/cacheAction.do?ms=viewIndex
-https://academic.tsinghua.edu.cn/
 https://cloud.tsinghua.edu.cn/
 https://discover.lib.tsinghua.edu.cn/
 https://dsa.cs.tsinghua.edu.cn/oj/
 https://ecollection.lib.tsinghua.edu.cn/databasenav/entrance/databaseNav
+<!-- 数据库 -->
 https://ecollection.lib.tsinghua.edu.cn/journalnav/home
+<!-- 电子期刊 -->
 https://git.tsinghua.edu.cn/
-https://id.tsinghua.edu.cn/
 http://info.tsinghua.edu.cn/
-https://info2021.tsinghua.edu.cn/f/info/xxfb_fg/xnzx/index
 https://its.tsinghua.edu.cn/index.jsp
 https://learn.tsinghua.edu.cn/f/wlxt/index/course/student/index
 https://lib.tsinghua.edu.cn/
-http://mail.tsinghua.org.cn/
+https://lib.tsinghua.edu.cn/wj/GBT7714-2015.pdf
+<!-- GB/T 7714-2015 -->
 http://mail.tsinghua.org.cn/
 https://mails.tsinghua.edu.cn/
 http://mailservice.tsinghua.org.cn/f/home
@@ -2340,14 +2363,10 @@ https://planet.tsinghua.edu.cn/
 http://pt.tsinghua.edu.cn/home/frontAction.do?ms=gotoIndex
 https://reserves.lib.tsinghua.edu.cn/
 https://seat.lib.tsinghua.edu.cn/home/web/
-https://shijian.student.tsinghua.edu.cn/
 https://stu.cs.tsinghua.edu.cn/info/
 https://student.tsinghua.edu.cn/
-http://thos.tsinghua.edu.cn/
 https://usereg.tsinghua.edu.cn/
-https://webvpn.tsinghua.edu.cn/
 https://wenjuan.tsinghua.edu.cn/
-https://www.artmuseum.tsinghua.edu.cn/
 https://zhjwxk.cic.tsinghua.edu.cn/xklogin.do
 
 https://tubitv.com/home
@@ -2650,9 +2669,6 @@ https://www.xuetangx.com/
 
 https://www.xunlei.com/
 https://pan.xunlei.com/
-
-http://www.xw100.com/
-http://live.xw100.com/
 
 ## y
 
