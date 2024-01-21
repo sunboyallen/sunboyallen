@@ -8,9 +8,6 @@ https://mail.10086.cn/
 http://115.182.62.169:8000/
 <!-- uoj -->
 
-https://www.13042332817.top/
-<!-- AI聊天 -->
-
 https://www.163.com/
 https://music.163.com/
 
