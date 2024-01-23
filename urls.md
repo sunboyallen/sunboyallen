@@ -117,6 +117,7 @@ https://www.alldatasheetcn.com/
 https://www.allhistory.com/
 
 https://altema.jp/
+https://altema.jp/lostword/
 
 https://www.altera-price.com/
 
@@ -793,6 +794,7 @@ https://touhoulostword.gamekee.com/
 https://gamepress.gg/
 
 https://gamerch.com/
+https://gamerch.com/touhou-lw/
 
 https://news.gamme.com.tw/
 
@@ -1913,14 +1915,13 @@ https://ptable.com/#
 
 https://www.pulsesecure.net/
 
+https://www.punycoder.com/
+
 https://pydata.org/
 https://numba.pydata.org/
 
 https://www.python.org/
-https://www.python.org/doc/
 https://docs.python.org/zh-cn/3/
-
-https://pythontutor.com/
 
 ## q
 
@@ -1934,29 +1935,21 @@ https://www.qianp.com/
 
 https://www.qianzhan.com/
 
-https://www.qq.com/
 https://docs.qq.com/desktop/
 https://im.qq.com/index
 https://weixin.qq.com/
 https://wj.qq.com/
 <!-- 腾讯问卷 -->
-https://wx.qq.com/
 
 http://www.qsbdc.com/
 <!-- 轻松背单词 -->
 
 http://www.qstheory.cn/
+<!-- 求是 -->
 http://www.qstheory.cn/qs/mulu.htm
 
 https://www.qt.io/zh-cn/
-https://www.qt.io/zh-cn/download
-https://www.qt.io/download-open-source
 https://doc.qt.io/
-https://doc.qt.io/qt.html
-https://doc.qt.io/qt.html#qt5
-https://doc.qt.io/qt-5.15/
-https://wiki.qt.io/Main
-https://wiki.qt.io/Main/zh
 
 https://quizlet.com/zh-cn
 
@@ -1970,9 +1963,6 @@ https://www.random.org/
 
 https://readmoo.com/
 
-https://readthedocs.org/
-https://hexchat.readthedocs.io/en/latest/
-
 https://www.reddit.com/
 
 https://www.redgifs.com/
@@ -1981,9 +1971,7 @@ https://www.redtube.com/
 
 https://refold.la/
 
-https://regex101.com/
-
-https://regexr-cn.com/
+https://regexr.com/
 
 https://blog.reimu.net/
 <!-- 灵梦御所 -->
@@ -1998,12 +1986,10 @@ https://revezone.com/index.html
 
 https://rime.im/
 
-https://www.riotgames.com/zh-cn
-
 https://www.roblox.com/
 
 https://rsshub.app/
-https://docs.rsshub.app/
+https://docs.rsshub.app/zh/
 
 https://www.ruanyifeng.com/
 https://www.ruanyifeng.com/blog/
@@ -2014,8 +2000,6 @@ https://www.ruby-lang.org/zh_cn/
 https://rule34.xxx/
 
 https://runkit.com/
-
-https://www.runoob.com/
 
 https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html
 
@@ -2037,9 +2021,6 @@ https://beta.sankakucomplex.com/zh-CN
 https://chan.sankakucomplex.com/
 
 https://www.sanskritdictionary.com/
-
-https://sbaliyun.com/
-https://chatgpt.sbaliyun.com/
 
 https://sci-hub.ru/
 https://sci-hub.se/
@@ -2283,21 +2264,15 @@ http://thwiki.info/
 https://cd.thwiki.cc/
 <!-- 同人音乐专辑查询 -->
 
-https://www.thz.cool/
-https://chatnews.thz.cool/
-
 https://www.ti.com/
 https://www.ti.com.cn/
+<!-- 德州仪器 -->
 
 https://www.tiktok.com/
-<!-- 似乎访问失败 -->
 
 https://time.gov/
 
 https://www.timeanddate.com/
-
-http://www.timus.ru/home/
-https://acm.timus.ru/
 
 https://www.tiobe.com/
 https://www.tiobe.com/tiobe-index/
@@ -2311,8 +2286,6 @@ https://biu.tls.moe/#/
 
 https://toho-vote.info/
 
-https://tool.lu/
-
 https://www.topazlabs.com/
 
 https://tophonetics.com/
@@ -2320,14 +2293,13 @@ https://tophonetics.com/zh/
 
 https://www.touhou.cc/bbs/forum.php
 https://touhou.group/
-https://touhou.vote/nav/
 
 https://touhougarakuta.com/
 <!-- 东方我乐多 -->
 
 https://touhoulostword.com/
 
-https://zh.touhouwiki.net/wiki/%E4%B8%9C%E6%96%B9%E7%BB%B4%E5%9F%BA
+https://zh.touhouwiki.net/wiki/%E6%9D%B1%E6%96%B9%E7%B6%AD%E5%9F%BA
 
 https://www.travis-ci.com/
 
@@ -2363,6 +2335,8 @@ https://reserves.lib.tsinghua.edu.cn/
 https://seat.lib.tsinghua.edu.cn/home/web/
 https://stu.cs.tsinghua.edu.cn/info/
 https://student.tsinghua.edu.cn/
+https://thos.tsinghua.edu.cn/
+<!-- 在线服务系统 -->
 https://usereg.tsinghua.edu.cn/
 https://wenjuan.tsinghua.edu.cn/
 https://zhjwxk.cic.tsinghua.edu.cn/xklogin.do
@@ -2659,6 +2633,9 @@ https://xmind.cn/
 
 https://xn--888-ok4b9e.xn--jh1al63br2c.com/
 <!-- VC喵 -->
+
+https://xn--p8s937b.net/
+<!-- 汉字.net -->
 
 https://xn--z7xq16a8pb.com/
 <!-- 猫薄荷 -->
