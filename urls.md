@@ -670,12 +670,11 @@ https://encyclopediaofmath.org/wiki/Main_Page
 https://endnote.com/
 
 https://www.epsnet.com.cn/index.html#/Index
+<!-- epsdata -->
 
 https://eropenguin.com/
 
 https://www.etsi.org/
-
-https://www.etsy.com/
 
 https://www.etymonline.com/
 https://www.etymonline.com/cn
@@ -732,8 +731,6 @@ http://banbanshi.web.fc2.com/
 <!-- ばんばんしー -->
 http://manpukujinja.blog135.fc2.com/
 <!-- 满福神社 満福神社 -->
-
-https://fc2blog.us/
 
 http://fdict.cn/#/
 <!-- 梵佛词典 -->
@@ -859,16 +856,11 @@ https://gitee.com/
 
 https://github.com/
 https://8values.github.io/
-https://cheeaun.github.io/
 https://cnvalues.github.io/
 https://docs.github.com/cn
 https://dreamanddead.github.io/CSAPP-3e-Solutions/
 https://ebookfoundation.github.io/free-programming-books/
 https://gist.github.com/
-https://google.github.io/styleguide/
-https://hcwiki.github.io/
-https://hexchat.github.io/
-https://iot-book.github.io/
 https://jobbole.github.io/awesome-python-cn/
 https://kahaani.github.io/gatian/
 <!-- 潮语拼音教程 -->
@@ -881,9 +873,8 @@ https://octodex.github.com/
 https://pages.github.com/
 https://squidfunk.github.io/mkdocs-material/
 https://ssast-readme.github.io/
-https://t-hole.github.io/
-https://thuhollow.github.io/
 https://uzkk.github.io/favorite/
+<!-- 本命角色测试 -->
 
 https://gitlab.com/
 https://forum.gitlab.com/
@@ -914,6 +905,7 @@ https://go.dev/
 https://godbolt.org/
 
 https://gogen-yurai.jp/
+<!-- 語源由来 -->
 
 https://gohugo.io/
 
@@ -1715,6 +1707,8 @@ https://oi-wiki.org/
 
 https://omniglot.com/
 
+https://www.online-latin-dictionary.com/
+
 https://www.onlinegdb.com/
 
 https://onlinejudge.org/
@@ -1722,8 +1716,6 @@ https://onlinejudge.org/
 https://onlyfans.com/
 
 https://mystias-menu.onrender.com/
-
-https://www.onsemi.cn
 
 https://www.open-std.org/
 
@@ -1733,8 +1725,6 @@ https://chat.openai.com/chat
 https://www.openathens.net/
 
 https://opencv.org/
-https://docs.opencv.org/
-https://docs.opencv.org/4.x/d6/d15/tutorial_building_tegra_cuda.html
 
 https://opendata-web.site/
 https://opendata-web.site/tool/parse/
@@ -1748,7 +1738,6 @@ https://orangex4.cool/
 https://blog.orangex4.cool/
 
 https://www.oray.com/
-https://pgy.oray.com/
 https://sunlogin.oray.com/
 <!-- 贝锐 向日葵 -->
 
@@ -1756,12 +1745,7 @@ https://orcid.org/
 
 https://www.oschina.net/
 
-https://osdn.net/
-
 https://oshwhub.com/
-
-https://ottor.cn/
-https://gpa.ottor.cn/
 
 https://cn.overleaf.com/
 
@@ -1770,8 +1754,6 @@ https://www.oxfordlearnersdictionaries.com/
 ## p
 
 https://pandoc.org/
-
-https://www.pango.network/
 
 https://pantayun.com/
 
@@ -1792,14 +1774,12 @@ https://www.paperray.com/
 
 https://www.paperyy.com/
 
-https://www.partsim.com/
-
 https://pastebin.com/
 
 https://www.patreon.com/
 
-http://people.cn/
-http://people.com.cn/
+http://www.people.com.cn/
+<!-- 人民网 -->
 http://data.people.com.cn/
 
 https://musedash.peropero.net/#/home
@@ -1881,8 +1861,6 @@ https://www.playstation.com/zh-hans-cn/
 https://plos.org/
 
 https://www.plurk.com/portal/
-
-http://www.pnsrmyy.com/
 
 https://poemanalysis.com/
 
@@ -2141,15 +2119,8 @@ https://edu.sslibrary.com/
 https://edu.sslibrary.com/ssreader/download
 <!-- 超星阅读器下载 -->
 
-https://sspai.com/
-
-https://www.st-andrews.ac.uk/
 https://mathshistory.st-andrews.ac.uk/
-
-https://stable-diffusion.site/
-https://stable-diffusion.site/webui-online/
-
-https://stablediffusionweb.com/
+<!-- MacTutor Index -->
 
 https://stackexchange.com/
 https://chemistry.stackexchange.com/
@@ -2158,8 +2129,6 @@ https://music.stackexchange.com/
 https://physics.stackexchange.com/
 
 https://stackoverflow.com/
-
-https://standardjs.com/
 
 http://infolab.stanford.edu/~ullman/ialc.html
 http://infolab.stanford.edu/~ullman/ialcsols/sols.html
@@ -2170,10 +2139,6 @@ https://www.statista.com/
 https://store.steampowered.com/
 
 https://steampp.net/
-
-http://steamworkshop.download/
-
-https://www.stroustrup.com/
 
 https://www.studocu.com/
 
@@ -2191,8 +2156,6 @@ https://www.superbed.cn/
 
 https://supjav.com/
 
-https://swag.live/
-
 https://syaro.io/
 https://liferestart.syaro.io/
 https://liferestart.syaro.io/public/index.html
@@ -2201,8 +2164,6 @@ https://www.symbolab.com/
 https://zs.symbolab.com/
 
 ## t
-
-https://t-hole.red/
 
 https://www.taixueshu.com/
 https://doc.taixueshu.com/
@@ -2215,23 +2176,15 @@ https://www.taptap.cn/
 https://www.taptap.io/
 
 https://tarothall.com/
-
-https://www.tea-12.com/
+<!-- 塔罗馆 -->
 
 https://www.ted.com/
 
 https://telegram.org/
 https://web.telegram.org/k/
 
-https://www.tencent.com/
-https://meeting.tencent.com/
-
 https://www.tensorflow.org/?hl=zh-cn
 https://playground.tensorflow.org/
-
-https://texlive.info/
-
-https://www.texpage.com/
 
 https://thdog.moe/
 https://cn.thdog.moe/

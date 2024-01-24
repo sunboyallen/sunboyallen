@@ -2,9 +2,10 @@ import tldextract
 
 tld_extract = tldextract.TLDExtract(cache_dir=False)
 
+urls = []
+
 with open('urls.md', 'r', encoding='utf-8') as f:
     lines = f.readlines()
-    urls = []
     for i in range(len(lines)):
         line = lines[i].strip()
         if line and not line.startswith('#') and not line.startswith('<!'):
