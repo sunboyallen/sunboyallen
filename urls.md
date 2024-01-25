@@ -8,9 +8,6 @@ https://mail.10086.cn/
 http://115.182.62.169:8000/
 <!-- uoj -->
 
-https://www.163.com/
-https://music.163.com/
-
 https://www.16personalities.com/
 
 https://www.189.cn/
@@ -25,58 +22,21 @@ https://18hmanga.click/
 
 https://www.1ppt.com/
 
-## 2
-
-https://www.21wecan.com/
-
-https://www.23mofang.com/
-
 ## 3
-
-https://0.30000000000000004.com/
 
 https://35photo.pro/
 
-http://www.360doc.com/index.html
-
-https://www.360totalsecurity.com/zh-cn/
-https://www.360totalsecurity.com/zh-cn/360zip/
-
-## 4
-
-http://47.96.98.153/all
-<!-- 炒饭社区 -->
-
-https://www.4fun.chat/home
-
 ## 5
-
-https://www.51nod.com/
 
 https://www.58pic.com/
 <!-- 千图网 -->
 
-## 6
-
-https://6pen.art/
-
-## 7
-
-https://www.7-zip.org/
-
-## 9
-
-https://www.91huayi.com/
-
 ## a
 
 https://a-hadaka.jp/
+<!-- ハダカ裸写真 -->
 
 https://www.abbreviations.com/
-
-https://abkai.net/zh/
-
-https://www.acfun.cn/
 
 https://acg.is/
 <!-- 灵梦广场 -->
@@ -235,20 +195,9 @@ https://www.biaozhun.org/
 
 https://bigjpg.com/zh
 
-https://www.bilibili.com/
-https://game.bilibili.com/
-https://member.bilibili.com/x2/creative/h5/calendar/event?ts=0
-
-https://www.biligame.com/
-https://wiki.biligame.com/wiki/%E9%A6%96%E9%A1%B5
-
-https://www.biography.com/
-
 https://bitbucket.org/
 
 https://plat.bitzapp.uk/
-
-https://www.bjd.com.cn/index.shtml
 
 https://www.blackpast.org/
 
@@ -265,8 +214,6 @@ http://fgwang.blogspot.com/
 <!-- WFG -->
 http://fgwang.blogspot.com/2015/12/blog-post_30.html
 <!-- 部件检索 -->
-
-https://www.bluesdawn.top/
 
 https://www.bnu.edu.cn/
 https://qxk.bnu.edu.cn/#/
@@ -339,6 +286,9 @@ https://www.chineseall.cn/bigbook/index
 https://sxqh.chineseall.cn/home/index
 
 https://www.chinosk6.cn/
+
+https://choa.fun/all
+<!-- 炒饭 -->
 
 https://chocolatey.org/
 
@@ -780,15 +730,6 @@ https://www.gangqinpu.com/
 
 https://www.gaoding.com/
 
-https://www.gd.gov.cn/
-https://ggfw.hrss.gd.gov.cn/gdggfw/index.shtml
-http://hrss.gd.gov.cn/
-
-https://www.gdedu.gov.cn/TYYH/
-https://gl.gdedu.gov.cn/gdeducms/
-
-http://www.gdyshi.com/
-
 https://www.geeksforgeeks.org/
 
 https://geekuninstaller.com/
@@ -798,7 +739,6 @@ https://gelbooru.com/index.php
 https://genius.com/
 
 https://gensoukyo.moe/
-https://wiki.gensoukyo.moe/wiki/%E9%A6%96%E9%A1%B5
 
 https://www.geogebra.org/
 
