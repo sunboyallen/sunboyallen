@@ -246,13 +246,9 @@ https://www.biography.com/
 
 https://bitbucket.org/
 
-https://www.bittorrent.com/zh-cn/
-
-https://www.bitznetuk.com/
+https://plat.bitzapp.uk/
 
 https://www.bjd.com.cn/index.shtml
-
-https://www.bk179.com/
 
 https://www.blackpast.org/
 
@@ -268,6 +264,7 @@ https://www.blogger.com/
 http://fgwang.blogspot.com/
 <!-- WFG -->
 http://fgwang.blogspot.com/2015/12/blog-post_30.html
+<!-- 部件检索 -->
 
 https://www.bluesdawn.top/
 
@@ -278,19 +275,10 @@ http://szsw.bnu.edu.cn/
 
 https://bongo.cat/
 
-https://www.book118.com/
-https://www.book118.com/tool/pdf2word/
-https://max.book118.com/
-
 https://www.bookschina.com/
 <!-- 中图网 -->
 
-https://www.bootcss.com/
-
-https://www.branah.com/
-https://www.branah.com/korean
-
-https://brilliant.org/home/
+https://brilliant.org/
 
 https://www.britannica.com/
 
@@ -307,7 +295,8 @@ https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/
 https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/
 <!-- 常用漢字表 -->
 
-https://www.buymeacoffee.com/
+https://www.burstlinker.com/
+<!-- bulink -->
 
 https://www.bv2008.cn/
 <!-- 志愿北京 -->
@@ -319,8 +308,6 @@ https://bytew.net/OIer/
 
 ## c
 
-https://www.calculator.net/
-
 https://www.canva.cn/
 
 https://cardgames.io/
@@ -328,8 +315,7 @@ https://cardgames.io/
 https://www.catalogueoflife.org/
 
 http://www.ccamc.org/
-
-https://www.changhai.org/
+<!-- 古今文字集成 -->
 
 https://www.chaoxing.com/
 
@@ -341,16 +327,8 @@ https://www.chemicalbook.com/ProductIndex.aspx
 
 https://www.chens.life/
 
-https://chigai.site/
-
-https://www.china-emu.cn/
-
-https://www.chinacdc.cn/
-
 https://www.chinaesperantoligo.com.cn/
-
-https://www.chinaz.com/
-https://tool.chinaz.com/
+<!-- 中华全国世界语协会 -->
 
 https://chinese.my/
 https://chinese.my/wd/
@@ -361,7 +339,6 @@ https://www.chineseall.cn/bigbook/index
 https://sxqh.chineseall.cn/home/index
 
 https://www.chinosk6.cn/
-https://chieri.docs.chinosk6.cn/
 
 https://chocolatey.org/
 
@@ -371,11 +348,12 @@ https://chrunlee.cn/index/tool.html
 https://chrunlee.cn/index/article.html
 
 https://www.chsi.com.cn/
-https://bm.chsi.com.cn/
-https://bm.chsi.com.cn/jcxkzs/sch/10003
-https://gaokao.chsi.com.cn/
+<!-- 学信网 -->
 
 https://www.chunkbase.com/
+
+https://www.cihai.com.cn/home
+<!-- 辞海 -->
 
 https://cili.st/
 
