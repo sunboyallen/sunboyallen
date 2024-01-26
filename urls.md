@@ -719,8 +719,8 @@ https://getbootstrap.com/
 
 https://www.gettyimages.com/
 
-https://ggo.net.cn/
 https://yun.ggo.net/
+https://ggo.net.cn/
 
 https://www.gift-gift.jp/
 https://www.gift-gift.jp/nui/toho.html
@@ -740,12 +740,14 @@ https://gitcode.net/explore
 https://gitee.com/
 
 https://github.com/
+https://docs.github.com/cn
+https://gist.github.com/
+https://octodex.github.com/
+https://pages.github.com/
 https://8values.github.io/
 https://cnvalues.github.io/
-https://docs.github.com/cn
 https://dreamanddead.github.io/CSAPP-3e-Solutions/
 https://ebookfoundation.github.io/free-programming-books/
-https://gist.github.com/
 https://jobbole.github.io/awesome-python-cn/
 https://kahaani.github.io/gatian/
 <!-- 潮语拼音教程 -->
@@ -754,8 +756,6 @@ https://lzexmpoane.github.io/chinese-lang/
 https://minhaskamal.github.io/DownGit/#/home
 https://new-t.github.io/
 <!-- 树洞 -->
-https://octodex.github.com/
-https://pages.github.com/
 https://squidfunk.github.io/mkdocs-material/
 https://ssast-readme.github.io/
 https://uzkk.github.io/favorite/
@@ -799,7 +799,6 @@ https://dictionary.goo.ne.jp/
 
 https://www.google.com/
 https://www.google.com/earth/about/
-https://golang.google.cn/
 https://mail.google.com/mail/u/0/
 https://scholar.google.com/
 
@@ -1978,9 +1977,9 @@ https://thu-history.net/wiki/%E9%A6%96%E9%A1%B5
 https://www.thussat.com/
 
 https://thwiki.cc/%E9%A6%96%E9%A1%B5
-http://thwiki.info/
 https://cd.thwiki.cc/
 <!-- 同人音乐专辑查询 -->
+http://thwiki.info/
 
 https://www.ti.com/
 https://www.ti.com.cn/
@@ -2041,9 +2040,7 @@ https://learn.tsinghua.edu.cn/f/wlxt/index/course/student/index
 https://lib.tsinghua.edu.cn/
 https://lib.tsinghua.edu.cn/wj/GBT7714-2015.pdf
 <!-- GB/T 7714-2015 -->
-http://mail.tsinghua.org.cn/
 https://mails.tsinghua.edu.cn/
-http://mailservice.tsinghua.org.cn/f/home
 https://mirrors.tuna.tsinghua.edu.cn/
 https://overleaf.tsinghua.edu.cn/project
 https://planet.tsinghua.edu.cn/
@@ -2056,6 +2053,8 @@ https://thos.tsinghua.edu.cn/
 https://usereg.tsinghua.edu.cn/
 https://wenjuan.tsinghua.edu.cn/
 https://zhjwxk.cic.tsinghua.edu.cn/xklogin.do
+http://mail.tsinghua.org.cn/
+http://mailservice.tsinghua.org.cn/f/home
 
 https://tubitv.com/home
 
@@ -2359,10 +2358,10 @@ https://pan.xunlei.com/
 https://zh.y8.com/
 
 https://about.yahoo.co.jp/
-https://ca.yahoo.com/
 https://developer.yahoo.co.jp/webapi/jlp/
 https://developer.yahoo.co.jp/webapi/jlp/ma/v2/parse.html
 <!-- 日本語形態素解析 日本语形态素解析 -->
+https://ca.yahoo.com/
 
 https://yande.re/post
 <!-- 图 -->
