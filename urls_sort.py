@@ -1,4 +1,5 @@
 import tldextract
+from urllib.parse import urlparse
 
 tld_extract = tldextract.TLDExtract(cache_dir=False)
 
@@ -9,23 +10,23 @@ with open('urls.md', 'r', encoding='utf-8') as f:
     for i in range(len(lines)):
         line = lines[i].strip()
         if line and not line.startswith('#') and not line.startswith('<!'):
-            # 如果urls[i]的下一行是注释，那么将注释写在urls[i]的后面
-            if i < len(lines) - 1:
-                next_line = lines[i + 1]
-                if next_line.startswith('<!'):
-                    line = line + ' ' + next_line.strip()
+            url = {'url': line}
 
-            urls.append(line)
+            if i < len(lines) - 1 and lines[i + 1].startswith('<!'):
+                url['comment'] = lines[i + 1]
+            urls.append(url)
 
 
-def custom_sort_key(url: str):
+def custom_sort_key(url_info: dict):
+    url: str = url_info['url']
     tld_info = tld_extract(url)
-    # 以www开头的或没有subdomain的URL排在其他的之前
+    path: str = urlparse(url).path
+    subdomain_key = tld_info.subdomain
     if not tld_info.subdomain or tld_info.subdomain == 'www':
         subdomain_key = '0'
-    else:
-        subdomain_key = tld_info.subdomain
-    return (tld_info.domain, subdomain_key, tld_info.suffix)
+    # else:
+        # subdomain_key = tld_info.subdomain
+    return (tld_info.domain, subdomain_key, tld_info.suffix, path)
 
 
 urls.sort(key=custom_sort_key)
@@ -35,7 +36,7 @@ with open('urls.md', 'w', encoding='utf-8') as f:
     previous_first_letter = None
 
     for i in range(len(urls)):
-        tld_info = tld_extract(urls[i])
+        tld_info = tld_extract(urls[i]['url'])
         current_first_letter = tld_info.domain[0] if tld_info.domain else None
 
         if current_first_letter != previous_first_letter:
@@ -43,16 +44,13 @@ with open('urls.md', 'w', encoding='utf-8') as f:
             f.write('## ' + current_first_letter + '\n\n')
 
         if i > 0:
-            tld_info1 = tld_extract(urls[i-1])
-            tld_info2 = tld_extract(urls[i])
+            tld_info1 = tld_extract(urls[i - 1]['url'])
+            tld_info2 = tld_extract(urls[i]['url'])
             if tld_info1.domain != tld_info2.domain and tld_info1.domain[0] == tld_info2.domain[0]:
                 f.write('\n')
 
-        # 如果urls[i]包括网址和注释，以空格隔开，注释以<!开头，那么将注释写在下一行
-        if '<!' in urls[i]:
-            f.write(urls[i].split(' <!')[0] + '\n')
-            f.write('<!' + urls[i].split(' <!')[1] + '\n')
-        else:
-            f.write(urls[i] + '\n')
+        f.write(urls[i]['url'] + '\n')
+        if 'comment' in urls[i]:
+            f.write(urls[i]['comment'])
 
         previous_first_letter = current_first_letter
