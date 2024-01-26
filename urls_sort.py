@@ -11,7 +11,6 @@ with open('urls.md', 'r', encoding='utf-8') as f:
         line = lines[i].strip()
         if line and not line.startswith('#') and not line.startswith('<!'):
             url = {'url': line}
-
             if i < len(lines) - 1 and lines[i + 1].startswith('<!'):
                 url['comment'] = lines[i + 1]
             urls.append(url)
@@ -22,10 +21,8 @@ def custom_sort_key(url_info: dict):
     tld_info = tld_extract(url)
     path: str = urlparse(url).path
     subdomain_key = tld_info.subdomain
-    if not tld_info.subdomain or tld_info.subdomain == 'www':
+    if tld_info.subdomain == '' or tld_info.subdomain == 'www':
         subdomain_key = '0'
-    # else:
-        # subdomain_key = tld_info.subdomain
     return (tld_info.domain, subdomain_key, tld_info.suffix, path)
 
 
