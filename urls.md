@@ -1771,6 +1771,8 @@ https://speedpdf.com/zh-cn/
 
 https://www.speedtest.cn/
 
+https://substats.spencerwoo.com/
+
 https://www.spoj.com/
 
 https://open.spotify.com/
@@ -1779,11 +1781,6 @@ https://spssau.com/
 
 https://www.sr2jr.com/
 https://www.sr2jr.com/textbook-solutions
-
-https://www.sslibrary.com/
-https://edu.sslibrary.com/
-https://edu.sslibrary.com/ssreader/download
-<!-- 超星阅读器下载 -->
 
 https://mathshistory.st-andrews.ac.uk/
 <!-- MacTutor Index -->

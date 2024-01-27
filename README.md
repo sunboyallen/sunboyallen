@@ -6,8 +6,8 @@
 [![Static Badge](https://img.shields.io/badge/blog-black?logo=hexo)](https://allen-sunboy.github.io/)
 [![Static Badge](https://img.shields.io/badge/Allen__Sunboy-black?logo=x)](https://twitter.com/Allen_Sunboy)
 [![Static Badge](https://img.shields.io/badge/%E7%8E%84%E6%99%96Allen-black?logo=zhihu)](https://www.zhihu.com/people/allen_sunboy)
+[![Static Badge](https://img.shields.io/badge/%E7%8E%84%E6%99%96Allen-black?logo=neteasecloudmusic)](https://music.163.com/#/user/home?id=629998623)
 [![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D24507963&query=%24.data.totalSubs&logo=bilibili&label=Bilibili%20fans)](https://space.bilibili.com/24507963)
-[![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3DneteaseMusic%26queryKey%3D629998623&query=%24.data.totalSubs&logo=neteasecloudmusic&label=NetEase%20Cloud%20Music%20fans&color=red)](https://music.163.com/#/user/home?id=629998623)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Allen-Sunboy/Allen-Sunboy?logo=github)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Allen-Sunboy/Allen-Sunboy/main)
