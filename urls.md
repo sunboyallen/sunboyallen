@@ -2,7 +2,6 @@
 
 ## 1
 
-https://10086.cn/index/bj/index_100_100.html
 https://mail.10086.cn/
 
 http://115.182.62.169:8000/
@@ -10,8 +9,6 @@ http://115.182.62.169:8000/
 
 https://www.16personalities.com/
 
-https://www.189.cn/
-https://cloud.189.cn/
 https://webmail30.189.cn/w2/index.html
 
 https://18comic.vip/
@@ -54,8 +51,6 @@ https://www.adobe.com/cn/
 https://adoptium.net/zh-CN/
 https://adoptium.net/zh-CN/temurin/releases/
 
-https://afdian.net/
-
 https://aidn.jp/
 https://aidn.jp/mikutap/
 https://aidn.jp/sound/
@@ -64,26 +59,18 @@ https://www.aigei.com/
 
 https://www.airpano.org.cn/
 
-https://www.ajeee.com/
-
 https://cn.akinator.com/
 
 https://www.ali213.net/
-
-https://www.aliyundrive.com/
+<!-- 游侠网 -->
 
 https://www.alldatasheetcn.com/
 
 https://www.allhistory.com/
+<!-- 全历史 -->
 
 https://altema.jp/
 https://altema.jp/lostword/
-
-https://www.altera-price.com/
-
-https://www.amazon.cn/
-https://www.amazon.co.jp/
-https://www.amazon.com/
 
 https://www.amiami.com/cn/
 
@@ -91,20 +78,14 @@ https://www.aminer.cn/
 https://models.aminer.cn/
 https://models.aminer.cn/CogView/
 
-https://www.anaconda.com/
-
 http://publish.ancientbooks.cn/docShuju/platform.jspx
 <!-- 中华经典古籍库 -->
 
-http://www.ankichina.net/
-
-https://ankiweb.net/
-
 https://annas-archive.org/
+https://zh.annas-archive.org/
 
 https://handle.antfu.me/
-
-https://www.anthropic.com/
+<!-- 汉兜 -->
 
 https://www.apa.org/
 https://apastyle.apa.org/
@@ -115,39 +96,18 @@ https://jmeter.apache.org/
 https://jmeter.apache.org/usermanual/properties_reference.html
 https://maven.apache.org/index.html
 
-https://www.apowersoft.cn/
-https://www.apowersoft.cn/phone-mirror
-<!-- 傲软投屏 -->
-
-https://appen.com/
-https://www.appen.com.cn/
-
-https://www.aps.org/
-
-https://arcaea.cn/
-https://bbs.arcaea.cn/
-https://wiki.arcaea.cn/index.php/%E9%A6%96%E9%A1%B5
-
 https://archive.org/
 
 https://www.digital.archives.go.jp/
 <!-- 国立公文書館 -->
 
-https://archlinux.org/
-
-https://www.artnet.com/
-
-https://asiangirlsaddict.xyz/
-
 http://asmirvine.com/
 
-https://atwiki.jp/
-https://w.atwiki.jp/gensouma-jan/
-https://w.atwiki.jp/softalk
-
 https://www.autopiano.cn/
+<!-- 自由钢琴 -->
 
 https://axutongxue.com/
+<!-- 阿虚同学 -->
 
 https://ayu.land/
 https://medle.ayu.land/
@@ -155,16 +115,10 @@ https://medle.ayu.land/
 
 ## b
 
-https://zh.b-ok.cc/
-
 https://fanyi.baidu.com/
 https://index.baidu.com/v2/index.html#/
+<!-- 百度指数 -->
 https://pan.baidu.com/
-https://tieba.baidu.com/
-https://wenku.baidu.com/
-https://xueshu.baidu.com/
-
-https://www.baike.com/
 
 https://www.bakaxl.com/
 
@@ -175,14 +129,9 @@ https://www.bbc.co.uk/learningenglish/
 https://www.bbc.co.uk/learningenglish/chinese/home
 https://www.bbc.com/
 
-https://bcy.net/
-
 https://www.behindthename.com/
 
-https://www.bejson.com/
-
 https://bellard.org/
-https://bellard.org/tcc/
 
 https://bgm.tv/
 <!-- bangumi番组计划 -->
@@ -215,7 +164,6 @@ http://fgwang.blogspot.com/
 http://fgwang.blogspot.com/2015/12/blog-post_30.html
 <!-- 部件检索 -->
 
-https://www.bnu.edu.cn/
 https://qxk.bnu.edu.cn/#/
 http://szsw.bnu.edu.cn/
 <!-- 数字化《说文解字》 -->
@@ -487,17 +435,16 @@ https://donmai.moe/
 https://danbooru.donmai.us/
 
 https://www.doorzo.net/
-
-https://www.dotcpp.com/
-
-https://www.douban.com/
+<!-- 任意门 -->
 
 https://doxygen.nl/
 https://www.doxygen.nl/
 
 https://www.dpm.org.cn/Home.html
 
-https://dsrkafuu.net/
+https://dream.ai/
+<!-- dream by wombo -->
+
 https://github.dsrkafuu.net/sakana-widget/
 
 http://daijirin.dual-d.net/
@@ -506,14 +453,9 @@ http://daijirin.dual-d.net/extra/giseigo_gitaigo.html
 http://daijirin.dual-d.net/extra/index.html
 http://daijirin.dual-d.net/extra/kanjion.html
 
-https://www.duba.com/
-https://desk.duba.com/
-
 https://www.duolingo.cn/
 
 https://www.duxiu.com/
-
-https://www.dytt8.net/index2.htm
 
 ## e
 
@@ -538,11 +480,6 @@ https://api.edwiv.com/bzsy/
 
 https://www.edx.org/
 
-https://www.eeagd.edu.cn/
-https://pg.eeagd.edu.cn/ks/h5/index.html#/xgk/ggxx
-
-https://www.eesc.com.cn/#/index
-
 https://ehwiki.org/wiki/Main_Page
 
 https://eitherchoice.com/
@@ -562,6 +499,7 @@ https://emojipedia.org/zh/
 https://emojixd.com/
 
 https://enazo.cn/
+<!-- 绘谜 -->
 
 https://www.encyclopedia.com/
 
@@ -595,8 +533,6 @@ https://en.everybodywiki.com/Everybodywiki:Welcome
 
 https://excalidraw.com/
 
-https://www.expressjs.com.cn/
-
 https://www.ezqaq.com/
 
 https://ezstems.com/
@@ -611,23 +547,15 @@ https://www.facebook.com/
 https://fakeupdate.net/
 
 https://www.fandom.com/
-https://charset.fandom.com/ko/wiki/%EB%AC%B8%EC%9E%90_%EC%A7%91%ED%95%A9_%EC%9C%84%ED%82%A4
-https://homeworld.fandom.com/wiki/Main_Page
 https://leagueoflegends.fandom.com/wiki/League_of_Legends_Wiki
 https://leagueoflegends.fandom.com/zh/wiki/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E7%BB%B4%E5%9F%BA
 https://mahjong.fandom.com/zh/wiki/%E9%BA%BB%E5%B0%87_%E7%BB%B4%E5%9F%BA:%E4%B8%BB%E9%A0%81
 https://math.fandom.com/zh/wiki/%E4%B8%AD%E6%96%87%E6%95%B0%E5%AD%A6_Wiki:%E4%B8%BB%E9%A1%B5
 https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki
-https://musedash.fandom.com/wiki/Muse_Dash_Wiki
-https://newkomica-kari.fandom.com/zh-tw/wiki/%E9%A6%96%E9%A0%81
 https://pkuhistory.fandom.com/zh/wiki/%E5%8C%97%E5%A4%A7%E9%87%8E%E5%8F%B2_Wiki
 https://pvz.fandom.com/zh/wiki/%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8%E7%99%BE%E7%A7%91
 https://touhou.fandom.com/zh/wiki/%E4%B8%9C%E6%96%B9Project_Wiki
-https://vocaloidlyrics.fandom.com/wiki/Vocaloid_Lyrics_Wiki
 
-https://fantia.jp/
-
-https://fc2.com/
 http://banbanshi.blog27.fc2.com/
 http://banbanshi.web.fc2.com/
 <!-- ばんばんしー -->
@@ -641,18 +569,12 @@ https://feeder.co/
 
 https://feedly.com/
 
-https://www.fengtao.xyz/
-https://yavt.fengtao.xyz/
-
 https://ffmpeg.org/
 
 https://www.figma.com/
 
-https://www.firefox.com.cn/
-
-https://www.fiverr.com/
-
 https://flagpedia.net/
+<!-- Flags of the World -->
 
 https://flcy.us/
 <!-- 风铃次元 -->
@@ -680,15 +602,10 @@ https://www.freestandardsdownload.com/
 https://gal123.com/
 https://www.gal123.com/
 
-https://www.gamekee.com/
-https://touhoulostword.gamekee.com/
-
 https://gamepress.gg/
 
 https://gamerch.com/
 https://gamerch.com/touhou-lw/
-
-https://news.gamme.com.tw/
 
 https://www.gancube.com/zh/
 
@@ -1061,20 +978,12 @@ https://wxyx.join-tsinghua.edu.cn/res/SpecialWsbm/indexdept.html
 
 https://www.joysound.com/web/
 
-https://www.jpmnb.net/
-<!-- 精品美女吧 -->
-
-https://js.org/
 https://theme-next.js.org/
 <!-- NexT新地址 -->
-https://theme-next.js.org/docs/
 https://webpack.js.org/
-
-https://jsdoc.app/
 
 https://jsfuck.com/
 
-https://www.json.cn/
 https://www.json.org/json-zh.html
 
 https://juejin.cn/
@@ -1086,24 +995,19 @@ https://hanjaro.juntong.or.kr/page_translater_china_s.aspx
 
 ## k
 
-https://www.kadokawa.co.jp/
-https://promo.kadokawa.co.jp/shinjigen/
-
 https://kaminogi.jp/
 <!-- 神乃木制作所 -->
 
 https://www.kancloud.cn/
+<!-- 看云 -->
 
 https://www.kangxizidian.com/
-https://forum.kangxizidian.com/
 
 https://www.kanjipedia.jp/
 
 https://www.kanken.or.jp/
 https://www.kanken.or.jp/kotoshinokanji/
 <!-- 今年の漢字 -->
-
-https://katex.org/
 
 https://kayin.moe/
 https://kayin.moe/iwbtg/
@@ -1288,7 +1192,6 @@ https://metalhead.club/
 
 https://www.micro-semiconductor.com/
 
-https://www.microsoft.com/zh-cn/
 https://learn.microsoft.com/zh-cn/
 https://learn.microsoft.com/zh-cn/cpp/?view=msvc-170
 https://learn.microsoft.com/zh-cn/cpp/assembler/masm/ml-and-ml64-command-line-reference?view=msvc-170
@@ -1299,8 +1202,6 @@ https://learn.microsoft.com/zh-cn/cpp/cpp/lambda-expressions-in-cpp?view=msvc-17
 https://learn.microsoft.com/zh-cn/powershell/
 https://learn.microsoft.com/zh-cn/typography/font-list/
 https://learn.microsoft.com/zh-cn/typography/font-list/consolas
-https://mathsolver.microsoft.com/zh
-https://visualstudio.microsoft.com/zh-hans/
 
 https://www.midishow.com/
 https://tat.midishow.com/
@@ -1330,16 +1231,11 @@ https://missav.com/cn
 https://scratch.mit.edu/
 https://web.mit.edu/
 
-https://www.mkdocs.org/
-
 https://mobaxterm.mobatek.net/
 
 https://www.mockplus.cn/
 https://www.mockplus.cn/rp
 <!-- 摹客 -->
-
-https://moefuns.co/
-https://moefuns.org/
 
 https://zh.moegirl.org.cn/Mainpage
 
@@ -1358,7 +1254,6 @@ https://monkeytype.com/
 
 https://www.mouser.cn/
 
-https://www.mozilla.org/zh-CN/firefox/
 https://developer.mozilla.org/zh-CN/
 
 http://www.muni-buddha.com.tw/music/
@@ -2283,8 +2178,6 @@ https://mathworld.wolfram.com/
 
 https://www.wolframalpha.com/
 
-https://www.wombo.art/
-
 https://www.woodo.cn/
 
 https://wordlegame.org/
@@ -2293,8 +2186,6 @@ https://wordpress.com/zh-cn/
 
 https://www.wordreference.com/
 
-https://www.worldbank.org/en/home
-
 https://www.worldcoinindex.com/
 
 https://worldlegame.io/
@@ -2302,8 +2193,7 @@ https://worldlegame.io/
 https://worldtimeapi.org/
 
 https://www.wosouyun.com/
-
-https://www.wps.cn/
+<!-- 我搜云网盘 -->
 
 https://www.wqxuetang.com/
 https://lib-tsinghua.wqxuetang.com/#/
@@ -2336,6 +2226,7 @@ https://xiumi.us/#/
 
 https://www.xiwnn.com/
 https://www.xiwnn.com/piano/
+<!-- 在线钢琴模拟器 -->
 
 https://xmind.cn/
 
@@ -2349,9 +2240,7 @@ https://xn--z7xq16a8pb.com/
 <!-- 猫薄荷 -->
 
 https://www.xuetangx.com/
-
-https://www.xunlei.com/
-https://pan.xunlei.com/
+<!-- 学堂在线 -->
 
 ## y
 
@@ -2369,18 +2258,9 @@ https://yande.re/post
 https://yandex.com/
 
 https://www.yankong.org/
-
-https://yhdm6.top/
-<!-- 樱花动漫 -->
+<!-- 研控 -->
 
 https://www.yinxiang.com/
-
-https://youdao.com/
-https://dict.youdao.com/
-https://fanyi.youdao.com/
-https://note.youdao.com/
-
-https://www.youtube.com/
 
 https://cr.yp.to/
 https://cr.yp.to/ftp.html
@@ -2388,8 +2268,8 @@ https://cr.yp.to/ftp.html
 https://www.ypppt.com/
 
 https://ytenx.org/
+<!-- 韵典网 -->
 
-https://www.yuketang.cn//
 https://www.yuketang.cn/web
 https://pro.yuketang.cn/v2/web/index
 https://tsinghua.yuketang.cn/pro/portal/home/
@@ -2401,28 +2281,22 @@ https://www.yuuhei-satellite.jp/
 
 ## z
 
-https://zh.z-library.se/
-
 https://www.zhangqiaokeyan.com/
 <!-- 掌桥科研 -->
 
 https://www.zhihu.com/
 
-https://zhumu.com/
-
 https://zi.tools/
+<!-- 字统网 -->
 
 http://zisea.com/
-
-https://zh.zlibrary-china.se/
+<!-- 字海网 -->
 
 https://www.zmt.wiki/
 <!-- 自媒体维基 -->
 
 http://zokugo-dict.com/
 <!-- 日本語俗語辞書 -->
-
-https://zoom.us/
 
 https://www.zotero.org/
 

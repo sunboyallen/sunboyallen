@@ -2,10 +2,6 @@ print("ok")
 
 import tldextract
 
-tld_extract = tldextract.TLDExtract(cache_dir=False)
+tld_extract = tldextract.TLDExtract(cache_dir=None)
 
-url = "https://baidu.com/test"
-
-tld_info = tld_extract(url)
-
-print(tld_info.subdomain)
+print(tld_extract('http://115.182.62.169:8000/'))
