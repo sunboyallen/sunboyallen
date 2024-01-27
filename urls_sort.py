@@ -1,7 +1,7 @@
 import tldextract
 from urllib.parse import urlparse
 
-tld_extract = tldextract.TLDExtract(cache_dir=None)
+tld_extract = tldextract.TLDExtract(cache_dir=False)
 
 
 def custom_sort_key(url_info: dict):
@@ -24,7 +24,6 @@ def urls_sort(filepath: str):
                 url = {'url': line}
                 if i < len(lines) and lines[i + 1].startswith('<!'):
                     url['comment'] = lines[i + 1]
-
                 urls.append(url)
 
     urls.sort(key=custom_sort_key)
@@ -40,16 +39,12 @@ def urls_sort(filepath: str):
             previous_first_letter = None
             if previous_tld_info:
                 previous_first_letter = previous_tld_info.domain[0]
-
             if current_first_letter != previous_first_letter:
                 f.write('\n')
                 f.write('## ' + current_first_letter + '\n\n')
-
             if current_first_letter == previous_first_letter and current_tld_info.domain != previous_tld_info.domain:
                 f.write('\n')
-
             f.write(urls[i]['url'] + '\n')
-
             if 'comment' in urls[i]:
                 f.write(urls[i]['comment'])
 
