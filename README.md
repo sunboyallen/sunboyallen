@@ -10,7 +10,8 @@
 [![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D24507963&query=%24.data.totalSubs&logo=bilibili&label=Bilibili%20fans)](https://space.bilibili.com/24507963)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Allen-Sunboy/Allen-Sunboy?logo=github)
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Allen-Sunboy/Allen-Sunboy/main)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Allen-Sunboy/Allen-Sunboy/main?logo=github)
+
 
 ## 小号
 
