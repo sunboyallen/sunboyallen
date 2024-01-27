@@ -18,6 +18,4 @@
 
 也就是角色“姬海棠果”的拼音。
 
-
-
 [![My Skills](https://skillicons.dev/icons?i=anaconda,bash,c,cmake,cpp,css,discord,django,docker,git,github,gitlab,gmail,html,instagram,js,latex,linkedin,linux,md,nodejs,opencv,postman,powershell,py,stackoverflow,twitter,visualstudio,vscode,vue)](https://skillicons.dev)
