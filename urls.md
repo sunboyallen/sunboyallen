@@ -1426,6 +1426,9 @@ https://www.oschina.net/
 
 https://oshwhub.com/
 
+https://otomad.wiki/%E9%A6%96%E9%A1%B5
+<!-- 中文音MAD维基 -->
+
 https://cn.overleaf.com/
 
 https://www.oxfordlearnersdictionaries.com/
@@ -1722,6 +1725,8 @@ https://shugohairanai.com/
 https://www.sigure.tw/
 
 https://www.similarsites.com/
+
+https://simpleicons.org/
 
 https://www.sina.com.cn/
 https://mail.sina.com.cn/
