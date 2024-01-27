@@ -12,7 +12,6 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Allen-Sunboy/Allen-Sunboy?logo=github)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Allen-Sunboy/Allen-Sunboy/main?logo=github)
 
-
 ## 小号
 
 [![Static Badge](https://img.shields.io/badge/jihaitangguo-black?logo=github)](https://github.com/jihaitangguo)
