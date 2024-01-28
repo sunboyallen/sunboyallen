@@ -17,6 +17,6 @@
 [![Static Badge](https://img.shields.io/badge/jihaitangguo-black?logo=github)](https://github.com/jihaitangguo)
 [![Static Badge](https://img.shields.io/badge/blog-black?logo=hexo)](https://jihaitangguo.github.io/)
 
-也就是角色“姬海棠果”的拼音。
+也就是[姬海棠果](https://thwiki.cc/%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C)的拼音。
 
 [![My Skills](https://skillicons.dev/icons?i=anaconda,bash,c,cmake,cpp,css,discord,django,docker,git,github,gitlab,gmail,html,instagram,js,latex,linkedin,linux,md,nodejs,opencv,postman,powershell,py,stackoverflow,twitter,visualstudio,vscode,vue)](https://skillicons.dev)
