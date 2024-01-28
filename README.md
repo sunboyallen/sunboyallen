@@ -20,4 +20,3 @@
 [![Static Badge](https://img.shields.io/badge/hexo-blog-blue?logo=hexo)](https://jihaitangguo.github.io/)
 
 也就是[姬海棠果](https://thwiki.cc/%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C)的拼音。
-
