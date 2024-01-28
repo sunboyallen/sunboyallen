@@ -636,23 +636,12 @@ https://getbootstrap.com/
 
 https://www.gettyimages.com/
 
-https://yun.ggo.net/
-https://ggo.net.cn/
-
-https://www.gift-gift.jp/
 https://www.gift-gift.jp/nui/toho.html
-
-https://www.gimp.org/
-
-https://git-lfs.com/
 
 https://git-scm.com/
 https://git-scm.com/docs
-https://git-scm.com/download/win
 
 https://www.gitbook.com/
-
-https://gitcode.net/explore
 
 https://gitee.com/
 
@@ -660,7 +649,6 @@ https://github.com/
 https://docs.github.com/cn
 https://gist.github.com/
 https://octodex.github.com/
-https://pages.github.com/
 https://8values.github.io/
 https://cnvalues.github.io/
 https://dreamanddead.github.io/CSAPP-3e-Solutions/
@@ -687,8 +675,6 @@ https://gitmind.com/
 https://gitter.im/
 https://gitter.im/home
 
-https://www.globalsecurity.org/index.html
-
 https://globle.org/
 
 https://zh.glosbe.com/
@@ -697,9 +683,10 @@ https://zh.glosbe.com/
 https://glyphwiki.org/wiki/GlyphWiki:%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8
 
 https://www.gmw.cn/
+<!-- 光明网 -->
 https://epaper.gmw.cn/
+<!-- 光明数字报 -->
 
-https://www.gnu.org/
 https://gcc.gnu.org/
 
 https://go.dev/
@@ -709,21 +696,12 @@ https://godbolt.org/
 https://gogen-yurai.jp/
 <!-- 語源由来 -->
 
-https://gohugo.io/
-
-https://www.goo.ne.jp/
 https://dictionary.goo.ne.jp/
-
-https://www.google.com/
-https://www.google.com/earth/about/
-https://mail.google.com/mail/u/0/
-https://scholar.google.com/
+<!-- goo辞書 -->
 
 https://cn.govopendata.com/renminribao/
+<!-- 人民日报 -->
 https://cn.govopendata.com/xinwenlianbo/
-
-https://www.grammarly.com/
-https://app.grammarly.com/
 
 https://www.grammy.com/
 <!-- 格莱美 -->
@@ -734,15 +712,11 @@ https://greasyfork.org/zh-CN
 
 https://grid.is/
 
-https://www.groupdocs.app/
-https://www.groupdocs.app/zh/
-https://products.groupdocs.app/
-https://products.groupdocs.app/zh/viewer/family
-
 https://www.gushicimingju.com/
 https://www.gushicimingju.com/gushi/cipaiming/
 
 https://www.gushiwen.cn/
+<!-- 古诗文网 -->
 
 https://gyate.net/
 <!-- 响子脸 -->
@@ -752,8 +726,6 @@ https://gyate.net/
 https://www.hacg.lv/
 https://www.hacg.me/
 <!-- 琉璃神社 -->
-
-https://hach.chat/
 
 https://hack.chat/
 https://hack.chat/?kt1j8rpc
@@ -772,14 +744,8 @@ https://www.hanyi.com.cn/home
 https://www.hanyi.com.cn/productdetail.php?id=2638
 <!-- 汉仪陈体甲骨文 -->
 
-https://www.hao123.com/
-
-https://hbox.jp/
-
 http://www.hellofont.cn/activity/jgw/
 <!-- 甲骨文转换器 -->
-
-https://www.helloylh.com/
 
 https://forum.hentai.sh/
 <!-- 唧唧jijidown社区 -->
@@ -792,17 +758,12 @@ https://hexo.io/zh-cn/docs/
 https://wtf.hiigara.net/
 <!-- 鬼东西 -->
 
-https://zh.hinative.com/
-
 https://www.history.com/
 
 http://www.homeinmists.com/
 http://www.homeinmists.com/shuowen/
 
 https://httpbin.org/
-
-https://www.huangyuhui.net/
-https://hmcl.huangyuhui.net/
 
 https://www.huashi6.com/
 <!-- 触站 -->
@@ -814,16 +775,10 @@ https://www.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5
 
 https://humanbenchmark.com/
 
-https://www.huorong.cn/
-
-https://www.huoying666.com/
-
 ## i
 
-https://www.icann.org/
-https://www.icann.org/zh
-
 https://www.iconfont.cn/
+<!-- 阿里巴巴矢量图标库 -->
 
 https://www.icourse163.org/
 <!-- 中国大学MOOC慕课 -->
@@ -1841,9 +1796,6 @@ https://www.taptap.io/
 https://tarothall.com/
 <!-- 塔罗馆 -->
 
-https://www.ted.com/
-
-https://telegram.org/
 https://web.telegram.org/k/
 
 https://www.tensorflow.org/?hl=zh-cn
