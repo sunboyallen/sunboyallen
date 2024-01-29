@@ -1,3 +1,5 @@
+"""Sorts URLs in a text file."""
+
 import tldextract
 from urllib.parse import urlparse
 
@@ -5,6 +7,15 @@ tld_extract = tldextract.TLDExtract(cache_dir=False)
 
 
 def custom_sort_key(url_info: dict):
+    """
+    Custom function to generate sorting keys for URLs.
+
+    Args:
+    - url_info (dict): A dictionary containing the 'url' key representing URL information.
+
+    Returns:
+    - tuple: A tuple containing sorting information for the list of URLs.
+    """
     url: str = url_info['url']
     tld_info = tld_extract(url)
     path = urlparse(url).path
@@ -15,6 +26,12 @@ def custom_sort_key(url_info: dict):
 
 
 def urls_sort(filepath: str):
+    """
+    Sorts URLs in a text file and writes the result back to the original file.
+
+    Args:
+    - filepath (str): The path of the text file to be sorted.
+    """
     urls = []
     with open(filepath, 'r', encoding='utf-8') as f:
         lines = f.readlines()

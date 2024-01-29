@@ -1318,16 +1318,13 @@ https://sunlogin.oray.com/
 
 https://orcid.org/
 
-https://www.oschina.net/
-
-https://oshwhub.com/
-
 https://otomad.wiki/%E9%A6%96%E9%A1%B5
 <!-- 中文音MAD维基 -->
 
 https://cn.overleaf.com/
 
 https://www.oxfordlearnersdictionaries.com/
+https://www.oxfordlearnersdictionaries.com/wordlist/academic/academic/
 
 ## p
 
@@ -1856,9 +1853,6 @@ https://www.wenshushu.cn/
 <!-- 文叔叔 传文件 -->
 
 https://www.wgt.com/home/
-
-https://www.wgtn.ac.nz/
-https://www.wgtn.ac.nz/lals/resources/academicwordlist
 
 https://en.wikipedia.org/wiki/Main_Page
 https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
