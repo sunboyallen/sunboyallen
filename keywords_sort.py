@@ -12,9 +12,9 @@ def keywords_sort(filepath: str):
     keywords.sort()
 
     with open(filepath, 'w', encoding='utf-8') as f:
-        f.write('# Keywords\n\n')
+        f.write('# Keywords\n')
         for keyword in keywords:
-            f.write(keyword + '\n\n')
+            f.write('\n' + keyword + '\n')
 
 
 if __name__ == '__main__':
