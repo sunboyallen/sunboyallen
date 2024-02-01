@@ -10,9 +10,21 @@ anaconda
 
 apa style
 
+bakaxl
+
+bcc语料库
+
+bootstrap
+
+britannica
+
 canva可画
 
 cmake
+
+codeforces
+
+coin flip
 
 desmos
 
@@ -28,9 +40,15 @@ fandom
 
 ffmpeg
 
+figma
+
 firefox
 
 font awesome
+
+freecheck
+
+freefonts
 
 geek uninstaller
 
@@ -40,13 +58,19 @@ geogebra
 
 git
 
+gitbook
+
 github readme stats
+
+gitmind
 
 hexo
 
 hexo next
 
 iconfont 阿里巴巴矢量图标库
+
+ideone
 
 ieee sa
 
@@ -62,11 +86,19 @@ jdk
 
 jflap
 
+leetcode
+
+material for mkdocs
+
 matplotlib
 
 mdn web docs
 
+mindmeister
+
 mingw-w64
+
+mkdocs
 
 mobaxterm
 
@@ -77,6 +109,8 @@ mozilla
 musescore
 
 musicstax
+
+netron
 
 nga玩家社区
 
@@ -121,6 +155,10 @@ texlive
 tiobe index
 
 ubuntu
+
+unicode
+
+unicode character code charts
 
 video2edit
 
@@ -170,6 +208,10 @@ zotero
 
 坚果云
 
+字海网
+
+字统网
+
 学信网
 
 学堂在线
@@ -196,6 +238,8 @@ zotero
 
 爱给网
 
+百度指数
+
 看云
 
 石墨文档
@@ -209,5 +253,7 @@ zotero
 语雀
 
 问卷网
+
+韵典网
 
 马同学图解数学

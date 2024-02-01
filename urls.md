@@ -84,13 +84,6 @@ https://medle.ayu.land/
 
 ## b
 
-https://fanyi.baidu.com/
-https://index.baidu.com/v2/index.html#/
-<!-- 百度指数 -->
-https://pan.baidu.com/
-
-https://www.bakaxl.com/
-
 https://www.bbc.co.uk/learningenglish/
 https://www.bbc.co.uk/learningenglish/chinese/home
 
@@ -107,12 +100,7 @@ https://www.biaozhun.org/
 
 https://bigjpg.com/zh
 
-https://bitbucket.org/
-
 https://plat.bitzapp.uk/
-
-http://bcc.blcu.edu.cn/
-<!-- BCC语料库 -->
 
 https://www.blogger.com/
 
@@ -127,12 +115,7 @@ http://szsw.bnu.edu.cn/
 
 https://bongo.cat/
 
-https://www.bookschina.com/
-<!-- 中图网 -->
-
 https://brilliant.org/
-
-https://www.britannica.com/
 
 http://buddhism-dict.net/
 http://buddhism-dict.net/ddb/
@@ -155,8 +138,6 @@ https://byr.pt/
 
 ## c
 
-https://cardgames.io/
-
 https://www.catalogueoflife.org/
 
 http://www.ccamc.org/
@@ -174,44 +155,22 @@ https://www.chinese-linguipedia.org/
 
 https://www.chinosk6.cn/
 
-https://chrunlee.cn/
-https://chrunlee.cn/index/article.html
-https://chrunlee.cn/index/tool.html
 https://chrunlee.cn/tool/wechatdat
 
 https://www.chunkbase.com/
 
-https://www.cihai.com.cn/home
-<!-- 辞海 -->
-
 https://cili.st/
 <!-- 无极磁力官方网址发布平台 -->
-
-https://portal.circle.ms/
-
-https://clarivate.com/
-
-https://clashforwindows.org/
 
 https://closed.social/
 https://in.closed.social:9443/pastExam/
 <!-- 华清大学课程攻略共享计划 -->
-https://t.closed.social/
 https://thu.closed.social/
-https://thu2.closed.social/
 
-https://cloudpss.net/index/
-https://tsinghua.cloudpss.net/
-
-https://www.cnki.net/
-https://cajviewer.cnki.net/
-https://chn.oversea.cnki.net/index/
-https://cx.cnki.net/main.html#/login
-https://gongjushu.cnki.net/RBook/
-
-https://www.codecademy.com/
-
-https://codeforces.com/
+https://chn.oversea.cnki.net/
+<!-- 中国知网海外版 -->
+https://gongjushu.cnki.net/rbook/
+<!-- cnki工具书总库 -->
 
 https://www.collinsdictionary.com/
 
@@ -222,8 +181,6 @@ https://cosplayworld.net/category/nude-cosplay/
 
 https://cosporn.online/
 
-https://www.crazygames.com/
-
 https://www.creprice.cn/
 <!-- 禧泰数据 中国房价行情 -->
 
@@ -231,8 +188,6 @@ https://crosst.chat/
 <!-- 十字街 -->
 
 https://crossword-solver.io/
-
-https://crosswordle.org/
 
 https://csdiy.wiki/
 
@@ -325,23 +280,15 @@ https://feeder.co/
 
 https://feedly.com/
 
-https://www.figma.com/
-
 https://flagpedia.net/
 <!-- Flags of the World -->
 
 https://flcy.us/
 <!-- 风铃次元 -->
 
-https://flipsimu.com/
-
 https://www.flyordie.com/zh_cn/
 https://www.flyordie.com/zh_cn/billiard/
 https://www.flyordie.com/zh_cn/snooker/
-
-https://www.freecheck.cn/
-
-https://www.freefonts.io/
 
 https://www.freestandardsdownload.com/
 
@@ -362,41 +309,19 @@ https://ca.getbitznet.com/
 https://client.getbitznet.com/
 https://dash.getbitznet.com/
 
-https://getbootstrap.com/
-
 https://www.gift-gift.jp/nui/toho.html
 
-https://www.gitbook.com/
-
-https://gitee.com/
-
-https://github.com/
-https://docs.github.com/cn
 https://gist.github.com/
-https://octodex.github.com/
-https://8values.github.io/
-https://cnvalues.github.io/
 https://dreamanddead.github.io/CSAPP-3e-Solutions/
 https://ebookfoundation.github.io/free-programming-books/
 https://jobbole.github.io/awesome-python-cn/
 https://kahaani.github.io/gatian/
 <!-- 潮语拼音教程 -->
-https://leftvalues.github.io/
 https://new-t.github.io/
 <!-- 树洞 -->
-https://squidfunk.github.io/mkdocs-material/
 https://ssast-readme.github.io/
 https://uzkk.github.io/favorite/
 <!-- 本命角色测试 -->
-
-https://gitlab.com/
-https://forum.gitlab.com/
-
-https://gitmind.cn/
-https://gitmind.com/
-
-https://gitter.im/
-https://gitter.im/home
 
 https://globle.org/
 
@@ -404,8 +329,6 @@ https://zh.glosbe.com/
 <!-- 字典 -->
 
 https://glyphwiki.org/wiki/GlyphWiki:%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8
-
-https://gcc.gnu.org/
 
 https://go.dev/
 
@@ -421,20 +344,9 @@ https://cn.govopendata.com/renminribao/
 <!-- 人民日报 -->
 https://cn.govopendata.com/xinwenlianbo/
 
-https://www.grammy.com/
-<!-- 格莱美 -->
-
 https://cn.gravatar.com/
 
 https://greasyfork.org/zh-CN
-
-https://grid.is/
-
-https://www.gushicimingju.com/
-https://www.gushicimingju.com/gushi/cipaiming/
-
-https://www.gushiwen.cn/
-<!-- 古诗文网 -->
 
 https://gyate.net/
 <!-- 响子脸 -->
@@ -458,32 +370,17 @@ https://handraw.top/
 
 https://hangmanwordgame.com/?online#/
 
-https://www.hanyi.com.cn/home
 https://www.hanyi.com.cn/productdetail.php?id=2638
 <!-- 汉仪陈体甲骨文 -->
-
-http://www.hellofont.cn/activity/jgw/
-<!-- 甲骨文转换器 -->
 
 https://forum.hentai.sh/
 <!-- 唧唧jijidown社区 -->
 
-https://www.heroku.com/
-
 https://wtf.hiigara.net/
 <!-- 鬼东西 -->
 
-https://www.history.com/
-
 http://www.homeinmists.com/
 http://www.homeinmists.com/shuowen/
-
-https://httpbin.org/
-
-https://www.huashi6.com/
-<!-- 触站 -->
-
-https://huggingface.co/
 
 https://www.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5
 <!-- 灰机wiki -->
@@ -494,8 +391,6 @@ https://humanbenchmark.com/
 
 https://www.icourse163.org/
 <!-- 中国大学MOOC慕课 -->
-
-https://ideone.com/
 
 https://www.idiotbots.com/
 
@@ -581,13 +476,8 @@ http://www.kaom.net/
 http://www.kaom.net/sgy_bzd.php
 <!-- 广韵形声考 -->
 
-https://kayin.moe/
 https://kayin.moe/iwbtg/
 <!-- i wanna be the guy -->
-https://kayin.moe/iwbtg/downloads.html
-https://iwbtg.kayin.moe/
-
-https://www.kdocs.cn/
 
 https://www.kemono.party/
 https://kemono.su/
@@ -596,12 +486,6 @@ https://kemono.su/
 https://keyboardingonline.net/us-keyboard/zh/
 <!-- 在线键盘 -->
 
-https://www.khanacademy.org/
-
-http://www.kingdraw.cn/
-
-https://www.koalastothemax.com/
-
 https://konachan.com/
 <!-- 图 -->
 
@@ -609,18 +493,13 @@ https://tool.konisimple.net/
 https://tool.konisimple.net/text/hinshi_keitaiso
 <!-- 日本語品詞分解 日本语品词分解 -->
 
-https://kopernio.com/
-<!-- endnote -->
-
-https://korean.go.kr/
+https://krdict.korean.go.kr/chn/mainAction
 https://krdict.korean.go.kr/kor/mainAction
 
 https://www.kotenbunpou.com/
 <!-- 古典文法 -->
 
 https://kotobank.jp/
-
-https://video.kpbs.org/
 
 https://www.kpedia.jp/
 <!-- 韓国語辞書 -->
@@ -633,28 +512,16 @@ https://ksbookshelf.com/nozomu-oohara/
 
 https://www.lanzou.com/
 
-https://www.last.fm/
 https://www.last.fm/zh/
 
 https://www.lastpass.com/
-
-https://www.latex-project.org/
-https://www.latex-project.org/help/documentation/
 
 https://www.latexlive.com/
 
 https://www.learnsanskrit.cc/
 https://learnsanskrit.org/
 
-https://leetcode.cn/
-https://leetcode.com/
-
 https://lernu.net/
-
-https://www.letpub.com/
-https://www.letpub.com.cn/
-
-https://www.liaoxuefeng.com/
 
 https://libera.chat/
 https://web.libera.chat/
@@ -664,28 +531,10 @@ https://lightoj.com/
 
 https://www.linerider.com/
 
-https://lingdong.works/
-
 https://littleskin.cn/
 <!-- Minecraft 皮肤站 -->
 
-https://onedrive.live.com/
-https://outlook.live.com/mail/0/
-https://to-do.live.com/tasks/today
-
-https://www.loc.gov/
-
-https://www.lofter.com/
-
 https://loj.ac/
-
-https://lowiro.com/en-us/
-https://arcaea.lowiro.com/zh
-
-https://ltool.net/
-https://ltool.net/chinese-simplified-and-traditional-characters-pinyin-to-katakana-converter-in-simplified-chinese.php
-
-https://www.luogu.com.cn/
 
 https://lyricjp.com/
 
@@ -723,14 +572,6 @@ https://www.mcmod.cn/
 
 https://www.mdbg.net/chinese/dictionary
 
-https://meaning-dictionary.com/
-
-https://www.mebag.com/
-https://www.mebag.com/index/
-<!-- 引得市 -->
-
-https://www.mediafire.com/
-
 https://www.mediawiki.org/wiki/MediaWiki
 
 https://mega.nz/
@@ -764,18 +605,12 @@ https://miko.org/~uraki/kuon/furu/text/waka/manyou/mana.htm
 https://miko.org/~uraki/kuon/furu/text/waka/wakan/wakan00.htm
 <!-- 和漢朗詠集 -->
 
-https://www.mindmeister.com/zh
-
-https://www.minecraft.net/zh-hans
-
 https://minesweeper.online/cn/
 
 https://tool.mingdawoo.com/
 <!-- 近邻词汇检索 -->
 
 https://missav.com/cn
-
-https://zh.moegirl.org.cn/Mainpage
 
 https://www.mogher.com/
 <!-- 潮州母语 -->
@@ -798,7 +633,6 @@ https://www.musicca.com/zh/metronome
 https://namedic.jp/
 <!-- 名前辞典 -->
 
-https://www.naver.com/
 https://dict.naver.com/
 https://mail.naver.com/
 
@@ -824,8 +658,6 @@ https://neets.tokyo/
 https://net9.org/
 https://docs.net9.org/
 <!-- 计算机系学生科协技能引导文档 -->
-
-https://netron.app/
 
 https://www.neverendingchartrendering.org/
 
@@ -1047,13 +879,8 @@ https://sci-hub.st/
 https://seesaawiki.jp/toho-motoneta_2nd/
 <!-- 東方元ネタwiki -->
 
-https://segmentfault.com/
-
 https://epaper.shehuiwang.cn/site/index.jsp
 <!-- 中国社会报数字报 -->
-
-https://www.shenyandayi.com/
-<!-- 深言达意 -->
 
 https://www.shidianguji.com/
 <!-- 识典古籍 -->
@@ -1260,9 +1087,6 @@ https://www.udacity.com/
 
 https://uigradients.com/
 
-https://www.unicode.org/charts/
-https://home.unicode.org/
-
 https://www.urbandictionary.com/
 
 https://www.cs.usfca.edu/~galles/visualization/
@@ -1304,9 +1128,6 @@ https://www.wenshushu.cn/
 
 https://www.wgt.com/home/
 
-https://en.wikipedia.org/wiki/Main_Page
-https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
-
 https://en.wikisource.org/wiki/Main_Page
 https://zh.wikisource.org/wiki/Wikisource:%E9%A6%96%E9%A1%B5
 
@@ -1317,8 +1138,6 @@ https://www.wiktionary.org/
 https://wordlegame.org/
 
 https://wordpress.com/zh-cn/
-
-https://worldlegame.io/
 
 https://worldtimeapi.org/
 
@@ -1363,26 +1182,12 @@ https://www.yinxiang.com/
 https://cr.yp.to/
 https://cr.yp.to/ftp.html
 
-https://ytenx.org/
-<!-- 韵典网 -->
-
-https://www.yuketang.cn/web
 https://pro.yuketang.cn/v2/web/index
-https://tsinghua.yuketang.cn/pro/portal/home/
 
 https://www.yuuhei-satellite.jp/
 <!-- 幽闭星光 幽閉サテライト -->
 
 ## z
 
-https://zi.tools/
-<!-- 字统网 -->
-
-http://zisea.com/
-<!-- 字海网 -->
-
 http://zokugo-dict.com/
 <!-- 日本語俗語辞書 -->
-
-https://www.zxxk.com/
-<!-- 学科网 -->
