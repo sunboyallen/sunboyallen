@@ -140,9 +140,6 @@ https://byr.pt/
 
 https://www.catalogueoflife.org/
 
-http://www.ccamc.org/
-<!-- 古今文字集成 -->
-
 https://beta.character.ai/
 
 https://app.chatra.io/
@@ -178,8 +175,6 @@ https://cosplaytele.com/
 
 https://cosplayworld.net/
 https://cosplayworld.net/category/nude-cosplay/
-
-https://cosporn.online/
 
 https://www.creprice.cn/
 <!-- 禧泰数据 中国房价行情 -->
@@ -234,15 +229,7 @@ https://e-hentai.org/
 
 https://eitherchoice.com/
 
-https://element.io/
-
-https://www.emojiall.com/zh-hans
-
-https://emojicombos.com/
 https://emojicombos.com/fumo
-
-https://emojipedia.org/
-https://emojipedia.org/zh/
 
 https://enazo.cn/
 <!-- 绘谜 -->
@@ -254,7 +241,7 @@ https://encyclopediaofbuddhism.org/wiki/Main_Page
 https://www.epsnet.com.cn/index.html#/Index
 <!-- epsdata -->
 
-https://www.etymonline.com/
+https://www.evacg.org/
 
 https://excalidraw.com/
 <!-- 手写白板 -->
@@ -433,10 +420,6 @@ https://www.jijidown.com/
 
 https://jisho.org/
 
-https://jitenon.jp/
-https://kanji.jitenon.jp/
-https://kokugo.jitenon.jp/
-
 https://jitsu.top/
 https://blog.jitsu.top/
 https://img.jitsu.top/#/instruction/
@@ -445,18 +428,12 @@ https://moe.jitsu.top/r18
 https://www.joao-roiz.jp/
 https://www.joao-roiz.jp/JPDICT/2
 
-https://www.joysound.com/web/
-
 https://jsfuck.com/
 
 https://www.json.org/json-zh.html
 
-https://juejin.cn/
-
-https://www.juntong.or.kr/
 https://hanjaro.juntong.or.kr/
 <!-- 汉字路 -->
-https://hanjaro.juntong.or.kr/page_translater_china_s.aspx
 
 ## k
 
@@ -479,7 +456,6 @@ http://www.kaom.net/sgy_bzd.php
 https://kayin.moe/iwbtg/
 <!-- i wanna be the guy -->
 
-https://www.kemono.party/
 https://kemono.su/
 <!-- fanbox -->
 
@@ -527,14 +503,8 @@ https://libera.chat/
 https://web.libera.chat/
 <!-- irc -->
 
-https://lightoj.com/
-
-https://www.linerider.com/
-
 https://littleskin.cn/
 <!-- Minecraft 皮肤站 -->
-
-https://loj.ac/
 
 https://lyricjp.com/
 
@@ -570,10 +540,6 @@ https://www.mcbbs.net/
 
 https://www.mcmod.cn/
 
-https://www.mdbg.net/chinese/dictionary
-
-https://www.mediawiki.org/wiki/MediaWiki
-
 https://mega.nz/
 
 https://www.merriam-webster.com/
@@ -582,7 +548,6 @@ https://metalhead.club/
 
 https://www.micro-semiconductor.com/
 
-https://learn.microsoft.com/zh-cn/
 https://learn.microsoft.com/zh-cn/cpp/?view=msvc-170
 https://learn.microsoft.com/zh-cn/cpp/assembler/masm/ml-and-ml64-command-line-reference?view=msvc-170
 https://learn.microsoft.com/zh-cn/cpp/build/reference/linker-options?view=msvc-170
@@ -647,7 +612,6 @@ http://www.ss.ncu.edu.tw/~calin/dictionary.html
 http://ncyacg.com/
 <!-- 喵次元 -->
 
-https://www.neea.edu.cn/
 https://cet-bm.neea.edu.cn/
 <!-- 全国大学英语四、六级考试报名网 -->
 https://cjcx.neea.edu.cn/
@@ -676,8 +640,6 @@ https://seiga.nicovideo.jp/shunga
 
 https://www.nijiyome.jp/
 
-https://www.nintendo.co.jp/
-
 https://www.nist.gov/
 
 https://cssrac.nju.edu.cn/cpzx/zwshkxywsy/index.html
@@ -686,17 +648,7 @@ https://cssrac.nju.edu.cn/cpzx/zwshkxywsy/index.html
 https://www.nmbxd1.com/Forum
 <!-- X岛揭示板 -->
 
-https://note.com/
-https://note.ms/Allen
-https://note.ms/THEWESTSHELL
-https://note.ms/TWS
-https://note.ms/ee
-https://note.ms/zzChumo
-
-https://www.numberempire.com/
-https://zh.numberempire.com/
-
-https://numberle.org/
+https://note.ms/allen
 
 https://bbs.nyasama.com/
 
@@ -736,19 +688,12 @@ https://www.oxfordlearnersdictionaries.com/wordlist/academic/academic/
 
 ## p
 
-https://pandoc.org/
-
-https://pantayun.com/
-
-https://papergames.io/zh/
-
 https://pastebin.com/
 
 https://www.patreon.com/
 
 http://data.people.com.cn/
-
-https://musedash.peropero.net/#/home
+<!-- 人民数据 -->
 
 https://www.pexels.com/zh-cn/
 
@@ -761,9 +706,6 @@ https://www.picacomic.com/
 
 https://picsart.com/
 
-https://www.pigeongames.cn/
-https://www.pigeongames.cn/phigros
-
 https://www.pil0txia.com/
 
 https://www.pingti.app/
@@ -773,8 +715,6 @@ https://www.pinterest.es/
 
 https://pipiusagi.com/
 https://forum.pipiusagi.com/
-
-https://pixabay.com/zh/
 
 https://www.pixiv.net/
 https://dic.pixiv.net/
@@ -786,18 +726,10 @@ http://ccl.pku.edu.cn:8080/ccl_corpus/index.jsp
 <!-- CCL语料库检索系统 -->
 http://hxqk.lib.pku.edu.cn/
 <!-- 北京大学中文核心期刊要目总览 -->
-https://opendata.pku.edu.cn/
 https://www.isss.pku.edu.cn/cfps/
-https://www.lib.pku.edu.cn/portal/cn
 
-https://pkudh.org/
 https://pkudh.org/project/yongledadian/
 <!-- 《永乐大典》高清影像数据库系统 -->
-
-http://www.planecrashinfo.com/
-http://www.planecrashinfo.com/lastwords.htm
-
-https://www.playstation.com/zh-hans-cn/
 
 https://plos.org/
 
@@ -818,9 +750,6 @@ https://projecteuler.net/
 https://ptable.com/#
 
 https://www.punycoder.com/
-
-https://pydata.org/
-https://numba.pydata.org/
 
 ## q
 
@@ -847,11 +776,7 @@ https://blog.reimu.net/
 
 https://revezone.com/index.html
 
-https://www.roblox.com/
-
 https://rule34.xxx/
-
-https://runkit.com/
 
 https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html
 
@@ -1147,6 +1072,10 @@ https://ide.wy-lang.org/
 
 ## x
 
+https://xerocos.com/
+
+https://xgirl.one/
+
 https://xhcy.us/
 <!-- 芯幻 -->
 
@@ -1176,8 +1105,6 @@ https://yandex.com/
 
 https://www.yankong.org/
 <!-- 研控 -->
-
-https://www.yinxiang.com/
 
 https://cr.yp.to/
 https://cr.yp.to/ftp.html

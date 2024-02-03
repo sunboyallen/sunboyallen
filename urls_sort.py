@@ -37,10 +37,10 @@ def urls_sort(filepath: str):
         lines = f.readlines()
         for i in range(len(lines)):
             line = lines[i].strip()
-            if line and not line.startswith('#') and not line.startswith('<!'):
+            if line.startswith('http'):
                 url = {'url': line}
-                if i < len(lines) and lines[i + 1].startswith('<!'):
-                    url['comment'] = lines[i + 1]
+                if i < len(lines) and lines[i + 1].strip().startswith('<!'):
+                    url['comment'] = lines[i + 1].strip()
                 urls.append(url)
 
     urls.sort(key=custom_sort_key)
@@ -63,7 +63,7 @@ def urls_sort(filepath: str):
                 f.write('\n')
             f.write(urls[i]['url'] + '\n')
             if 'comment' in urls[i]:
-                f.write(urls[i]['comment'])
+                f.write(urls[i]['comment'] + '\n')
 
 
 if __name__ == '__main__':

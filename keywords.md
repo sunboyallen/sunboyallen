@@ -36,6 +36,16 @@ django
 
 doxygen
 
+element
+
+emojiall
+
+emojipedia
+
+etymonline
+
+excalidraw
+
 fandom
 
 ffmpeg
@@ -86,13 +96,21 @@ jdk
 
 jflap
 
+joysound
+
 leetcode
+
+line rider
 
 material for mkdocs
 
 matplotlib
 
 mdn web docs
+
+meenfox
+
+microsoft learn
 
 mindmeister
 
@@ -116,6 +134,8 @@ nga玩家社区
 
 node.js
 
+number empire
+
 numpy
 
 oeis
@@ -130,6 +150,8 @@ overleaf
 
 pandoc
 
+potato godzilla
+
 prettier
 
 processon
@@ -141,6 +163,10 @@ qt
 regexr
 
 rime
+
+roblox
+
+runkit
 
 saiblo
 
@@ -251,6 +277,8 @@ zotero
 约定式提交
 
 语雀
+
+辞典オンライン
 
 问卷网
 
