@@ -17,8 +17,10 @@
 [![Static Badge](https://img.shields.io/badge/GitHub-jihaitangguo-blue?logo=github)](https://github.com/jihaitangguo)
 [![Static Badge](https://img.shields.io/badge/hexo-blog-blue?logo=hexo)](https://jihaitangguo.github.io/)
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,bash,c,cmake,cpp,css,discord,django,docker,git,github,gitlab,gmail,html,instagram,js,latex,linkedin,linux,md,nodejs,opencv,postman,powershell,py,stackoverflow,twitter,visualstudio,vscode,vue)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=anaconda,bash,c,cmake,cpp,css,discord,django,docker,git,github,gitlab,gmail,html,instagram,js,latex,linkedin,linux,md,nodejs,opencv,postman,powershell,py,stackoverflow,twitter,visualstudio,vscode,vue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allen-Sunboy&layout=compact&theme=cobalt&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allen-Sunboy&layout=compact&theme=cobalt&locale=cn)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Allen_Sunboy)](https://github.com/anuraghazra/github-readme-stats)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Allen_Sunboy)
+
+[![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Allen_Sunboy)](https://www.last.fm/user/Allen_Sunboy)
