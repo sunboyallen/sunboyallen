@@ -21,6 +21,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allen-Sunboy&layout=compact&theme=cobalt&locale=cn)
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Allen_Sunboy)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Allen_Sunboy&layout=compact&theme=cobalt&locale=cn)
 
 [![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Allen_Sunboy)](https://www.last.fm/user/Allen_Sunboy)
