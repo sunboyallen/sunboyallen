@@ -26,6 +26,8 @@ codeforces
 
 coin flip
 
+csdiy
+
 desmos
 
 diffchecker
@@ -96,6 +98,8 @@ jdk
 
 jflap
 
+jisho.org
+
 joysound
 
 leetcode
@@ -148,7 +152,11 @@ orcid
 
 overleaf
 
+oxford learner's dictionaries
+
 pandoc
+
+pastebin
 
 potato godzilla
 
@@ -172,9 +180,19 @@ saiblo
 
 shields.io
 
+simple icons
+
 snapseed
 
+speedpdf
+
+spssau
+
+stack exchange
+
 standard c++
+
+studocu
 
 texlive
 
@@ -202,6 +220,10 @@ vue
 
 w3schools
 
+wakatime
+
+web scrobbler
+
 weblio
 
 webpack
@@ -218,7 +240,13 @@ xmind
 
 zotero
 
+中国哲学书电子化计划
+
+中国大学mooc
+
 中国政府网
+
+书格
 
 光明数字报
 
@@ -242,6 +270,8 @@ zotero
 
 学堂在线
 
+康熙字典網上版
+
 引得市
 
 慕课网
@@ -254,7 +284,11 @@ zotero
 
 文泉学堂
 
+求是
+
 汉兜
+
+测速网
 
 深言达意
 

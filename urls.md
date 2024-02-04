@@ -184,10 +184,6 @@ https://crosst.chat/
 
 https://crossword-solver.io/
 
-https://csdiy.wiki/
-
-https://ctext.org/zh
-
 ## d
 
 http://www.ic.daito.ac.jp/~oukodou/kuzukago/kundoku,1.html
@@ -197,10 +193,6 @@ https://danmaku.jp/
 https://danmaku.jp/archive/
 
 https://www.dictionary.com/
-
-https://www.dna-softwares.com/
-https://thmj.dna-softwares.com/
-<!-- 东方幻想麻雀 -->
 
 https://www.doi.org/
 https://dx.doi.org/
@@ -212,8 +204,6 @@ https://www.doorzo.net/
 
 https://dream.ai/
 <!-- dream by wombo -->
-
-https://github.dsrkafuu.net/sakana-widget/
 
 http://daijirin.dual-d.net/
 <!-- 大辞林 -->
@@ -376,18 +366,12 @@ https://humanbenchmark.com/
 
 ## i
 
-https://www.icourse163.org/
-<!-- 中国大学MOOC慕课 -->
-
 https://www.idiotbots.com/
 
 https://www.ilovepdf.com/zh-cn
 
 https://imgse.com/
 <!-- 路过图床 -->
-
-https://www.internalpointers.com/
-https://www.internalpointers.com/post/writing-custom-iterators-modern-cpp
 
 https://www.internationalphoneticassociation.org/
 https://www.internationalphoneticassociation.org/IPAcharts/inter_chart_2018/IPA_2018.html
@@ -413,12 +397,7 @@ https://www.javlibrary.com/cn/
 
 https://javtxt.org/
 
-https://jcomic-cn.vip/
-<!-- jmcomic -->
-
 https://www.jijidown.com/
-
-https://jisho.org/
 
 https://jitsu.top/
 https://blog.jitsu.top/
@@ -441,6 +420,7 @@ https://kaminogi.jp/
 <!-- 神乃木制作所 -->
 
 https://www.kangxizidian.com/
+<!-- 康熙字典 -->
 
 https://www.kanjipedia.jp/
 
@@ -458,9 +438,6 @@ https://kayin.moe/iwbtg/
 
 https://kemono.su/
 <!-- fanbox -->
-
-https://keyboardingonline.net/us-keyboard/zh/
-<!-- 在线键盘 -->
 
 https://konachan.com/
 <!-- 图 -->
@@ -635,12 +612,9 @@ http://nicotalk.com/nicotalk.html
 https://www.nicovideo.jp/
 https://dic.nicovideo.jp/
 https://dic.nicovideo.jp/a/東方乳議論
-https://seiga.nicovideo.jp/
 https://seiga.nicovideo.jp/shunga
 
 https://www.nijiyome.jp/
-
-https://www.nist.gov/
 
 https://cssrac.nju.edu.cn/cpzx/zwshkxywsy/index.html
 <!-- 南京大学 中文社会科学引文索引CSSCI来源期刊目录 -->
@@ -656,8 +630,6 @@ https://bbs.nyasama.com/
 
 https://iconpark.oceanengine.com/home
 <!-- 字节跳动图标库 ByteDance -->
-
-https://www.ogcopen.com/
 
 https://www.online-latin-dictionary.com/
 
@@ -678,19 +650,10 @@ https://opendata-web.site/
 https://opendata-web.site/tool/parse/
 <!-- 日本語形態素解析 日本语形态素解析 -->
 
-http://openjudge.cn/
-
 https://otomad.wiki/%E9%A6%96%E9%A1%B5
 <!-- 中文音MAD维基 -->
 
-https://www.oxfordlearnersdictionaries.com/
-https://www.oxfordlearnersdictionaries.com/wordlist/academic/academic/
-
 ## p
-
-https://pastebin.com/
-
-https://www.patreon.com/
 
 http://data.people.com.cn/
 <!-- 人民数据 -->
@@ -704,17 +667,12 @@ https://phesoca.com/tshet/
 
 https://www.picacomic.com/
 
-https://picsart.com/
-
-https://www.pil0txia.com/
-
 https://www.pingti.app/
 <!-- 最佳平替 -->
 
-https://www.pinterest.es/
+https://www.pinterest.com/
 
 https://pipiusagi.com/
-https://forum.pipiusagi.com/
 
 https://www.pixiv.net/
 https://dic.pixiv.net/
@@ -745,8 +703,6 @@ http://poj.org/
 https://www.programmingfonts.org/
 <!-- 字体 -->
 
-https://projecteuler.net/
-
 https://ptable.com/#
 
 https://www.punycoder.com/
@@ -757,11 +713,8 @@ https://docs.qq.com/desktop/
 https://wj.qq.com/
 <!-- 腾讯问卷 -->
 
-http://www.qstheory.cn/
-<!-- 求是 -->
 http://www.qstheory.cn/qs/mulu.htm
-
-https://quizlet.com/zh-cn
+<!-- 求是 -->
 
 https://www.quora.com/
 
@@ -773,8 +726,6 @@ https://www.redgifs.com/
 
 https://blog.reimu.net/
 <!-- 灵梦御所 -->
-
-https://revezone.com/index.html
 
 https://rule34.xxx/
 
@@ -816,19 +767,13 @@ https://shindanmaker.com/
 
 https://www.shooterspool.net/promo/zh_cn/shooterspool-online-billiards-simulation.html
 
-https://www.shuge.org/
-
 https://shugohairanai.com/
 <!-- 金谷武洋公式ブログ -->
-
-https://simpleicons.org/
 
 https://singlelogin.re/
 <!-- Z-Library -->
 
 https://xiaoxue.iis.sinica.edu.tw/
-
-https://www.sketch.com/
 
 https://sm.ms/
 <!-- 图床 -->
@@ -837,32 +782,13 @@ https://solitaired.com/
 
 https://soundcloud.com/
 
-https://sourceforge.net/
-https://gnuwin32.sourceforge.net/packages/tree.htm
-
-https://speedpdf.com/zh-cn/
-
-https://www.speedtest.cn/
-
-https://substats.spencerwoo.com/
-
-https://www.spoj.com/
-
 https://open.spotify.com/
-
-https://spssau.com/
 
 https://www.sr2jr.com/
 https://www.sr2jr.com/textbook-solutions
 
 https://mathshistory.st-andrews.ac.uk/
 <!-- MacTutor Index -->
-
-https://stackexchange.com/
-https://chemistry.stackexchange.com/
-https://math.stackexchange.com/
-https://music.stackexchange.com/
-https://physics.stackexchange.com/
 
 https://stackoverflow.com/
 
@@ -876,14 +802,8 @@ https://store.steampowered.com/
 
 https://steampp.net/
 
-https://www.studocu.com/
-
 https://kigosai.sub.jp/
 <!-- 季語と歳時記 -->
-
-https://subingwen.cn/
-https://subingwen.cn/qt/
-<!-- 爱编程的大丙 -->
 
 https://sudoku.com/zh
 
