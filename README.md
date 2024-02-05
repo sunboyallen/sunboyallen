@@ -1,8 +1,5 @@
 # 玄晖Allen
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Allen-Sunboy/Allen-Sunboy?logo=github)
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Allen-Sunboy/Allen-Sunboy/main?logo=github)
-
 丶冖凸冖丿
 
 [![Static Badge](https://img.shields.io/badge/GitHub-Allen--Sunboy-blue?logo=github)](https://github.com/Allen-Sunboy)
