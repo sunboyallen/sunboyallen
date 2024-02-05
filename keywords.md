@@ -192,6 +192,8 @@ stack exchange
 
 standard c++
 
+statista
+
 studocu
 
 texlive
@@ -221,6 +223,8 @@ vue
 w3schools
 
 wakatime
+
+watt toolkit
 
 web scrobbler
 

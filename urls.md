@@ -796,11 +796,7 @@ http://infolab.stanford.edu/~ullman/ialc.html
 http://infolab.stanford.edu/~ullman/ialcsols/sols.html
 <!-- Introduction to Automata Theory, Languages, and Computation 形式语言与自动机 -->
 
-https://www.statista.com/
-
 https://store.steampowered.com/
-
-https://steampp.net/
 
 https://kigosai.sub.jp/
 <!-- 季語と歳時記 -->
