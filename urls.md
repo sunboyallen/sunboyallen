@@ -2,14 +2,10 @@
 
 ## 1
 
-https://mail.10086.cn/
-
 http://115.182.62.169:8000/
 <!-- uoj -->
 
 https://www.16personalities.com/
-
-https://webmail30.189.cn/w2/index.html
 
 https://18comic.vip/
 
@@ -65,8 +61,6 @@ https://jmeter.apache.org/
 https://jmeter.apache.org/usermanual/properties_reference.html
 https://maven.apache.org/index.html
 
-https://archive.org/
-
 https://www.digital.archives.go.jp/
 <!-- 国立公文書館 -->
 
@@ -83,9 +77,6 @@ https://medle.ayu.land/
 <!-- medle -->
 
 ## b
-
-https://www.bbc.co.uk/learningenglish/
-https://www.bbc.co.uk/learningenglish/chinese/home
 
 https://www.behindthename.com/
 
@@ -112,10 +103,6 @@ http://fgwang.blogspot.com/2015/12/blog-post_30.html
 https://qxk.bnu.edu.cn/#/
 http://szsw.bnu.edu.cn/
 <!-- 数字化《说文解字》 -->
-
-https://bongo.cat/
-
-https://brilliant.org/
 
 http://buddhism-dict.net/
 http://buddhism-dict.net/ddb/
@@ -395,8 +382,6 @@ https://javgg.net/
 
 https://www.javlibrary.com/cn/
 
-https://javtxt.org/
-
 https://www.jijidown.com/
 
 https://jitsu.top/
@@ -418,9 +403,6 @@ https://hanjaro.juntong.or.kr/
 
 https://kaminogi.jp/
 <!-- 神乃木制作所 -->
-
-https://www.kangxizidian.com/
-<!-- 康熙字典 -->
 
 https://www.kanjipedia.jp/
 
@@ -465,16 +447,11 @@ https://ksbookshelf.com/nozomu-oohara/
 
 https://www.lanzou.com/
 
-https://www.last.fm/zh/
-
 https://www.lastpass.com/
 
 https://www.latexlive.com/
 
 https://www.learnsanskrit.cc/
-https://learnsanskrit.org/
-
-https://lernu.net/
 
 https://libera.chat/
 https://web.libera.chat/
@@ -515,8 +492,6 @@ https://www.mazegenerator.net/
 
 https://www.mcbbs.net/
 
-https://www.mcmod.cn/
-
 https://mega.nz/
 
 https://www.merriam-webster.com/
@@ -535,7 +510,6 @@ https://learn.microsoft.com/zh-cn/powershell/
 https://learn.microsoft.com/zh-cn/typography/font-list/
 https://learn.microsoft.com/zh-cn/typography/font-list/consolas
 
-https://www.midishow.com/
 https://tat.midishow.com/
 
 https://miko.org/~uraki/kuon/
@@ -780,8 +754,6 @@ https://sm.ms/
 
 https://solitaired.com/
 
-https://soundcloud.com/
-
 https://open.spotify.com/
 
 https://www.sr2jr.com/
@@ -807,6 +779,7 @@ https://www.superbed.cn/
 <!-- 聚合图床 -->
 
 https://supjav.com/
+https://supjav.com/zh/
 
 https://syaro.io/
 https://liferestart.syaro.io/

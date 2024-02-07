@@ -1,6 +1,12 @@
 # Keywords
 
+139邮箱
+
+189邮箱
+
 7-zip
+
+about.me
 
 academic word list
 
@@ -102,7 +108,13 @@ jisho.org
 
 joysound
 
+last.fm
+
+learn sanskrit online
+
 leetcode
+
+lernu.net
 
 line rider
 
@@ -110,11 +122,15 @@ material for mkdocs
 
 matplotlib
 
+mc百科
+
 mdn web docs
 
 meenfox
 
 microsoft learn
+
+midishow
 
 mindmeister
 
@@ -170,6 +186,8 @@ qt
 
 regexr
 
+reta vortaro
+
 rime
 
 roblox
@@ -184,7 +202,11 @@ simple icons
 
 snapseed
 
+soundcloud
+
 speedpdf
+
+spotify
 
 spssau
 
