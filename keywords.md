@@ -6,11 +6,15 @@
 
 7-zip
 
+abbreviations.com
+
 about.me
 
 academic word list
 
 acm digital library
+
+aminer
 
 anaconda
 
@@ -31,6 +35,8 @@ cmake
 codeforces
 
 coin flip
+
+crossword solver
 
 csdiy
 
@@ -106,6 +112,8 @@ jflap
 
 jisho.org
 
+jmeter
+
 joysound
 
 last.fm
@@ -126,11 +134,15 @@ mc百科
 
 mdn web docs
 
+medle
+
 meenfox
 
 microsoft learn
 
 midishow
+
+mikutap
 
 mindmeister
 
@@ -180,6 +192,8 @@ prettier
 
 processon
 
+punycode converter
+
 qbittorrent
 
 qt
@@ -195,6 +209,8 @@ roblox
 runkit
 
 saiblo
+
+sci-hub
 
 shields.io
 
@@ -265,6 +281,8 @@ x-mol学术平台
 xmind
 
 zotero
+
+中华语文知识库
 
 中国哲学书电子化计划
 

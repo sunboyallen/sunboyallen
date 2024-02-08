@@ -22,21 +22,10 @@ https://35photo.pro/
 https://a-hadaka.jp/
 <!-- ハダカ裸写真 -->
 
-https://www.abbreviations.com/
-
 https://acg.is/
 <!-- 灵梦广场 -->
-https://acg.la/
-<!-- 芯幻 -->
-
-https://aidn.jp/
-https://aidn.jp/mikutap/
-https://aidn.jp/sound/
 
 https://cn.akinator.com/
-
-https://www.ali213.net/
-<!-- 游侠网 -->
 
 https://www.allhistory.com/
 <!-- 全历史 -->
@@ -44,13 +33,6 @@ https://www.allhistory.com/
 https://altema.jp/lostword/
 
 https://www.amiami.com/cn/
-
-https://www.aminer.cn/
-https://models.aminer.cn/
-https://models.aminer.cn/CogView/
-
-http://publish.ancientbooks.cn/docShuju/platform.jspx
-<!-- 中华经典古籍库 -->
 
 https://annas-archive.org/
 https://zh.annas-archive.org/
@@ -72,10 +54,6 @@ https://www.autopiano.cn/
 https://axutongxue.com/
 <!-- 阿虚同学 -->
 
-https://ayu.land/
-https://medle.ayu.land/
-<!-- medle -->
-
 ## b
 
 https://www.behindthename.com/
@@ -93,20 +71,13 @@ https://bigjpg.com/zh
 
 https://plat.bitzapp.uk/
 
-https://www.blogger.com/
-
 http://fgwang.blogspot.com/
 <!-- WFG -->
 http://fgwang.blogspot.com/2015/12/blog-post_30.html
 <!-- 部件检索 -->
 
-https://qxk.bnu.edu.cn/#/
 http://szsw.bnu.edu.cn/
 <!-- 数字化《说文解字》 -->
-
-http://buddhism-dict.net/
-http://buddhism-dict.net/ddb/
-http://buddhism-dict.net/ddb/indexes/term-sa.html
 
 https://bulink.xyz/
 
@@ -129,13 +100,8 @@ https://www.catalogueoflife.org/
 
 https://beta.character.ai/
 
-https://app.chatra.io/
-
 https://www.chinaesperantoligo.com.cn/
 <!-- 中华全国世界语协会 -->
-
-https://www.chinese-linguipedia.org/
-<!-- 中华语文知识库 -->
 
 https://www.chinosk6.cn/
 
@@ -146,17 +112,15 @@ https://www.chunkbase.com/
 https://cili.st/
 <!-- 无极磁力官方网址发布平台 -->
 
-https://closed.social/
 https://in.closed.social:9443/pastExam/
 <!-- 华清大学课程攻略共享计划 -->
 https://thu.closed.social/
+<!-- 闭社 -->
 
 https://chn.oversea.cnki.net/
 <!-- 中国知网海外版 -->
 https://gongjushu.cnki.net/rbook/
 <!-- cnki工具书总库 -->
-
-https://www.collinsdictionary.com/
 
 https://cosplaytele.com/
 
@@ -169,15 +133,10 @@ https://www.creprice.cn/
 https://crosst.chat/
 <!-- 十字街 -->
 
-https://crossword-solver.io/
-
 ## d
 
 http://www.ic.daito.ac.jp/~oukodou/kuzukago/kundoku,1.html
 <!-- 汉文训读 -->
-
-https://danmaku.jp/
-https://danmaku.jp/archive/
 
 https://www.dictionary.com/
 
@@ -197,8 +156,6 @@ http://daijirin.dual-d.net/
 http://daijirin.dual-d.net/extra/giseigo_gitaigo.html
 http://daijirin.dual-d.net/extra/index.html
 http://daijirin.dual-d.net/extra/kanjion.html
-
-https://www.duxiu.com/
 
 ## e
 
@@ -679,8 +636,6 @@ https://www.programmingfonts.org/
 
 https://ptable.com/#
 
-https://www.punycoder.com/
-
 ## q
 
 https://docs.qq.com/desktop/
@@ -720,11 +675,6 @@ https://beta.sankakucomplex.com/zh-CN
 https://chan.sankakucomplex.com/
 
 https://www.sanskritdictionary.com/
-
-https://sci-hub.ru/
-https://sci-hub.se/
-https://www.sci-hub.st/
-https://sci-hub.st/
 
 https://seesaawiki.jp/toho-motoneta_2nd/
 <!-- 東方元ネタwiki -->
@@ -967,8 +917,6 @@ https://xgirl.one/
 
 https://xhcy.us/
 <!-- 芯幻 -->
-
-https://jmeter.xiniushu.com/
 
 https://www.xiwnn.com/
 https://www.xiwnn.com/piano/
