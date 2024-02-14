@@ -2,7 +2,11 @@
 
 139邮箱
 
+16personalities
+
 189邮箱
+
+35photo
 
 7-zip
 
@@ -14,6 +18,8 @@ academic word list
 
 acm digital library
 
+amiami
+
 aminer
 
 anaconda
@@ -24,11 +30,19 @@ bakaxl
 
 bcc语料库
 
+behind the name
+
+bigjpg
+
 bootstrap
+
+bpm finder
 
 britannica
 
 canva可画
+
+clrs solutions
 
 cmake
 
@@ -40,7 +54,11 @@ crossword solver
 
 csdiy
 
+data structure visualization
+
 desmos
+
+devanāgarī
 
 diffchecker
 
@@ -50,11 +68,17 @@ django
 
 doxygen
 
+duolingo
+
 element
 
 emojiall
 
 emojipedia
+
+encyclopedia of buddhism
+
+epsdata
 
 etymonline
 
@@ -80,6 +104,8 @@ geeksforgeeks
 
 geogebra
 
+geoguessr
+
 git
 
 gitbook
@@ -88,9 +114,17 @@ github readme stats
 
 gitmind
 
+glosbe
+
+hack chat
+
+handraw
+
 hexo
 
 hexo next
+
+i wanna be the guy
 
 iconfont 阿里巴巴矢量图标库
 
@@ -104,6 +138,8 @@ imdb
 
 intellij idea
 
+iotdb
+
 iso
 
 jdk
@@ -116,7 +152,15 @@ jmeter
 
 joysound
 
+k'sbookshelf
+
+kotobank
+
+kpedia
+
 last.fm
+
+lastpass
 
 learn sanskrit online
 
@@ -130,6 +174,10 @@ material for mkdocs
 
 matplotlib
 
+maven
+
+maze generator
+
 mc百科
 
 mdn web docs
@@ -137,6 +185,8 @@ mdn web docs
 medle
 
 meenfox
+
+merriam-webster
 
 microsoft learn
 
@@ -146,11 +196,15 @@ mikutap
 
 mindmeister
 
+minecraft幻想乡
+
 mingw-w64
 
 mkdocs
 
 mobaxterm
+
+moji辞书
 
 monkeytype
 
@@ -158,11 +212,15 @@ mozilla
 
 musescore
 
+musicca
+
 musicstax
 
 netron
 
 nga玩家社区
+
+nicotalk
 
 node.js
 
@@ -236,15 +294,33 @@ studocu
 
 texlive
 
+thbwiki
+
+the free dictionary
+
+timeanddate
+
 tiobe index
 
+topsters
+
+truth table generator
+
+ubc sanskrit learning tools
+
 ubuntu
+
+ubuntu manpage
+
+uigradients
 
 unicode
 
 unicode character code charts
 
 video2edit
+
+virtual judge
 
 visual studio
 
@@ -266,9 +342,13 @@ watt toolkit
 
 web scrobbler
 
+web sudoku
+
 weblio
 
 webpack
+
+wgt
 
 wolfram
 
@@ -276,11 +356,19 @@ wolfram mathworld
 
 wordle
 
+world time api
+
 x-mol学术平台
 
 xmind
 
+y8.com
+
 zotero
+
+うたてん
+
+东方我乐多丛志
 
 中华语文知识库
 
@@ -292,9 +380,15 @@ zotero
 
 书格
 
+今年の漢字
+
 光明数字报
 
 千图网
+
+古音小镜
+
+名前辞典
 
 向日葵
 
@@ -302,7 +396,13 @@ zotero
 
 国家标准全文公开
 
+国立公文書館
+
 图寻
+
+在线节拍器
+
+在线钢琴模拟器
 
 坚果云
 
@@ -313,6 +413,8 @@ zotero
 学信网
 
 学堂在线
+
+广韵形声考
 
 康熙字典網上版
 
@@ -328,6 +430,16 @@ zotero
 
 文泉学堂
 
+日本語俗語辞書
+
+日本語品詞分解ツール
+
+東方LostWord
+
+歌ネット
+
+歌詞検索
+
 求是
 
 汉兜
@@ -336,11 +448,15 @@ zotero
 
 深言达意
 
+漢字ペディア
+
 火绒
 
 爱校对
 
 爱给网
+
+琉璃神社
 
 百度指数
 

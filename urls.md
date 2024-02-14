@@ -5,17 +5,9 @@
 http://115.182.62.169:8000/
 <!-- uoj -->
 
-https://www.16personalities.com/
-
 https://18comic.vip/
 
-https://18comic-cool.art/
-
 https://18hmanga.click/
-
-## 3
-
-https://35photo.pro/
 
 ## a
 
@@ -32,44 +24,17 @@ https://www.allhistory.com/
 
 https://altema.jp/lostword/
 
-https://www.amiami.com/cn/
-
 https://annas-archive.org/
 https://zh.annas-archive.org/
 
-https://www.apache.org/
-https://iotdb.apache.org/zh/
-https://jmeter.apache.org/
-https://jmeter.apache.org/usermanual/properties_reference.html
-https://maven.apache.org/index.html
-
-https://www.digital.archives.go.jp/
-<!-- 国立公文書館 -->
-
 http://asmirvine.com/
 
-https://www.autopiano.cn/
-<!-- 自由钢琴 -->
-
-https://axutongxue.com/
-<!-- 阿虚同学 -->
-
 ## b
-
-https://www.behindthename.com/
 
 https://bgm.tv/
 <!-- bangumi番组计划 -->
 
-https://www.biao-zhun.cn/
-<!-- 标准下载网 -->
-
-https://www.biaozhun.org/
-<!-- 标准网 -->
-
-https://bigjpg.com/zh
-
-https://plat.bitzapp.uk/
+https://secure.bitzapp.uk/
 
 http://fgwang.blogspot.com/
 <!-- WFG -->
@@ -163,22 +128,10 @@ https://e-hentai.org/
 
 https://eitherchoice.com/
 
-https://emojicombos.com/fumo
-
 https://enazo.cn/
 <!-- 绘谜 -->
 
-https://www.encyclopedia.com/
-
-https://encyclopediaofbuddhism.org/wiki/Main_Page
-
-https://www.epsnet.com.cn/index.html#/Index
-<!-- epsdata -->
-
 https://www.evacg.org/
-
-https://excalidraw.com/
-<!-- 手写白板 -->
 
 ## f
 
@@ -215,16 +168,7 @@ https://www.freestandardsdownload.com/
 
 ## g
 
-https://gal123.com/
-https://www.gal123.com/
-
-https://gamerch.com/touhou-lw/
-
 https://gelbooru.com/index.php
-
-https://gensoukyo.moe/
-
-https://www.geoguessr.com/
 
 https://ca.getbitznet.com/
 https://client.getbitznet.com/
@@ -232,10 +176,8 @@ https://dash.getbitznet.com/
 
 https://www.gift-gift.jp/nui/toho.html
 
-https://gist.github.com/
 https://dreamanddead.github.io/CSAPP-3e-Solutions/
 https://ebookfoundation.github.io/free-programming-books/
-https://jobbole.github.io/awesome-python-cn/
 https://kahaani.github.io/gatian/
 <!-- 潮语拼音教程 -->
 https://new-t.github.io/
@@ -244,19 +186,11 @@ https://ssast-readme.github.io/
 https://uzkk.github.io/favorite/
 <!-- 本命角色测试 -->
 
-https://globle.org/
-
-https://zh.glosbe.com/
-<!-- 字典 -->
-
 https://glyphwiki.org/wiki/GlyphWiki:%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8
 
 https://go.dev/
 
 https://godbolt.org/
-
-https://gogen-yurai.jp/
-<!-- 語源由来 -->
 
 https://dictionary.goo.ne.jp/
 <!-- goo辞書 -->
@@ -274,14 +208,8 @@ https://gyate.net/
 
 ## h
 
-https://www.hacg.lv/
-https://www.hacg.me/
-<!-- 琉璃神社 -->
-
-https://hack.chat/
 https://hack.chat/?kt1j8rpc
 https://hack.chat/?lounge
-https://beta.hack.chat/
 
 https://hakurei.red/
 <!-- 博丽听涛分社 -->
@@ -339,16 +267,6 @@ https://javgg.net/
 
 https://www.javlibrary.com/cn/
 
-https://www.jijidown.com/
-
-https://jitsu.top/
-https://blog.jitsu.top/
-https://img.jitsu.top/#/instruction/
-https://moe.jitsu.top/r18
-
-https://www.joao-roiz.jp/
-https://www.joao-roiz.jp/JPDICT/2
-
 https://jsfuck.com/
 
 https://www.json.org/json-zh.html
@@ -358,53 +276,18 @@ https://hanjaro.juntong.or.kr/
 
 ## k
 
-https://kaminogi.jp/
-<!-- 神乃木制作所 -->
-
-https://www.kanjipedia.jp/
-
-https://www.kanken.or.jp/
-https://www.kanken.or.jp/kotoshinokanji/
-<!-- 今年の漢字 -->
-
-http://www.kaom.net/
-<!-- 古音小镜 -->
-http://www.kaom.net/sgy_bzd.php
-<!-- 广韵形声考 -->
-
-https://kayin.moe/iwbtg/
-<!-- i wanna be the guy -->
-
 https://kemono.su/
 <!-- fanbox -->
 
 https://konachan.com/
 <!-- 图 -->
 
-https://tool.konisimple.net/
-https://tool.konisimple.net/text/hinshi_keitaiso
-<!-- 日本語品詞分解 日本语品词分解 -->
-
 https://krdict.korean.go.kr/chn/mainAction
-https://krdict.korean.go.kr/kor/mainAction
 
 https://www.kotenbunpou.com/
 <!-- 古典文法 -->
 
-https://kotobank.jp/
-
-https://www.kpedia.jp/
-<!-- 韓国語辞書 -->
-
-https://ksbookshelf.com/
-https://ksbookshelf.com/nozomu-oohara/
-<!-- 日本語を読むための漢字辞典 -->
-
 ## l
-
-https://www.lanzou.com/
-
-https://www.lastpass.com/
 
 https://www.latexlive.com/
 
@@ -417,45 +300,23 @@ https://web.libera.chat/
 https://littleskin.cn/
 <!-- Minecraft 皮肤站 -->
 
-https://lyricjp.com/
-
-https://www.lyrics.com/
-
 ## m
 
 https://magiconch.com/
 <!-- 神奇海螺 -->
 https://lab.magiconch.com/
-https://lab.magiconch.com/anime-grid/
-https://lab.magiconch.com/homo/
-
-https://maikaze.com/
-<!-- 舞风 舞風 -->
-
-https://yuki-factory.main.jp/
-<!-- 狐の工作室 -->
-
-https://manwa.me/
-<!-- 漫蛙 -->
 
 https://www.marxists.org/
 https://www.marxists.org/chinese/index.html
 https://www.marxists.org/chinese/pdf/marxism-library.htm
 
-https://www.masadora.net/
-<!-- 魔法集市 -->
-
-https://www.mazegenerator.net/
+https://mastodon.social/
 
 https://www.mcbbs.net/
 
 https://mega.nz/
 
-https://www.merriam-webster.com/
-
 https://metalhead.club/
-
-https://www.micro-semiconductor.com/
 
 https://learn.microsoft.com/zh-cn/cpp/?view=msvc-170
 https://learn.microsoft.com/zh-cn/cpp/assembler/masm/ml-and-ml64-command-line-reference?view=msvc-170
@@ -490,24 +351,13 @@ https://www.mogher.com/
 https://www.mogher.com/baike
 <!-- 潮典 -->
 
-https://www.mojidict.com/
-<!-- moji辞书 -->
-
 http://www.muni-buddha.com.tw/music/
 http://www.muni-buddha.com.tw/music/doc034-wiki.html
 <!-- 大悲咒 -->
 
-https://www.musicca.com/zh
-https://www.musicca.com/zh/metronome
-<!-- 节拍器 -->
-
 ## n
 
-https://namedic.jp/
-<!-- 名前辞典 -->
-
 https://dict.naver.com/
-https://mail.naver.com/
 
 https://ncss.cn/
 https://cy.ncss.cn/
@@ -517,35 +367,21 @@ https://www.ncu.edu.tw/tw/index.html
 http://www.ss.ncu.edu.tw/~calin/dictionary.html
 <!-- 林崇安教授文集 -->
 
-http://ncyacg.com/
-<!-- 喵次元 -->
-
 https://cet-bm.neea.edu.cn/
 <!-- 全国大学英语四、六级考试报名网 -->
-https://cjcx.neea.edu.cn/
-
-https://neets.tokyo/
-<!-- 東京アクティブNEETs 交響アクティブNEETs -->
 
 https://net9.org/
 https://docs.net9.org/
 <!-- 计算机系学生科协技能引导文档 -->
 
-https://www.neverendingchartrendering.org/
-
 https://nhentai.net/
 
 https://emuseum.nich.go.jp/top?langId=zh
-
-http://nicotalk.com/ktykroom.html
-http://nicotalk.com/nicotalk.html
 
 https://www.nicovideo.jp/
 https://dic.nicovideo.jp/
 https://dic.nicovideo.jp/a/東方乳議論
 https://seiga.nicovideo.jp/shunga
-
-https://www.nijiyome.jp/
 
 https://cssrac.nju.edu.cn/cpzx/zwshkxywsy/index.html
 <!-- 南京大学 中文社会科学引文索引CSSCI来源期刊目录 -->
@@ -591,10 +427,7 @@ http://data.people.com.cn/
 
 https://www.pexels.com/zh-cn/
 
-https://phesoca.com/
 https://phesoca.com/kanbun-html/
-<!-- 汉文HTML 汉文训读排版 -->
-https://phesoca.com/tshet/
 
 https://www.picacomic.com/
 
@@ -651,14 +484,10 @@ https://www.quora.com/
 
 https://www.reddit.com/
 
-https://www.redgifs.com/
-
 https://blog.reimu.net/
 <!-- 灵梦御所 -->
 
 https://rule34.xxx/
-
-https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html
 
 ## s
 
@@ -678,6 +507,8 @@ https://www.sanskritdictionary.com/
 
 https://seesaawiki.jp/toho-motoneta_2nd/
 <!-- 東方元ネタwiki -->
+
+https://sese.love/
 
 https://epaper.shehuiwang.cn/site/index.jsp
 <!-- 中国社会报数字报 -->
@@ -751,60 +582,17 @@ https://thdog.moe/
 https://cn.thdog.moe/
 <!-- 东方狗下载站 -->
 
-https://www.thefreedictionary.com/
-
 https://theporndude.com/
 
 https://www.thesaurus.com/
 
-https://theuselessweb.com/
-
 https://thu.services/
 https://thu.wiki/
 
-https://thu-history.net/wiki/%E9%A6%96%E9%A1%B5
-
-https://www.thussat.com/
-
-https://thwiki.cc/%E9%A6%96%E9%A1%B5
-https://cd.thwiki.cc/
-<!-- 同人音乐专辑查询 -->
-http://thwiki.info/
-
-https://www.ti.com/
-https://www.ti.com.cn/
-<!-- 德州仪器 -->
-
-https://time.gov/
-
-https://www.timeanddate.com/
-
-https://tls.moe/
-<!-- 铜锣烧 -->
-https://biu.tls.moe/#/
-<!-- pixivbiu -->
-
 https://toho-vote.info/
 
-https://tophonetics.com/
-https://tophonetics.com/zh/
-
-https://www.touhou.cc/bbs/forum.php
-https://touhou.group/
-
-https://touhougarakuta.com/
-<!-- 东方我乐多 -->
-
-https://touhoulostword.com/
-
-https://zh.touhouwiki.net/wiki/%E6%9D%B1%E6%96%B9%E7%B6%AD%E5%9F%BA
-
-https://truthtablemaker.com/
-
 https://tsinghua.app/
-https://tsinghua.app/courses
 https://cloud.tsinghua.edu.cn/
-https://discover.lib.tsinghua.edu.cn/
 https://dsa.cs.tsinghua.edu.cn/oj/
 https://ecollection.lib.tsinghua.edu.cn/databasenav/entrance/databaseNav
 <!-- 数据库 -->
@@ -812,18 +600,13 @@ https://ecollection.lib.tsinghua.edu.cn/journalnav/home
 <!-- 电子期刊 -->
 https://git.tsinghua.edu.cn/
 http://info.tsinghua.edu.cn/
-https://its.tsinghua.edu.cn/index.jsp
-https://learn.tsinghua.edu.cn/f/wlxt/index/course/student/index
+https://its.tsinghua.edu.cn/
 https://lib.tsinghua.edu.cn/
 https://lib.tsinghua.edu.cn/wj/GBT7714-2015.pdf
 <!-- GB/T 7714-2015 -->
 https://mails.tsinghua.edu.cn/
-https://mirrors.tuna.tsinghua.edu.cn/
-https://overleaf.tsinghua.edu.cn/project
 https://planet.tsinghua.edu.cn/
 https://reserves.lib.tsinghua.edu.cn/
-https://seat.lib.tsinghua.edu.cn/home/web/
-https://stu.cs.tsinghua.edu.cn/info/
 https://student.tsinghua.edu.cn/
 https://thos.tsinghua.edu.cn/
 <!-- 在线服务系统 -->
@@ -839,28 +622,6 @@ https://tuna.moe/
 https://tuna.moe/help/ntp/
 <!-- 清华tuna授时 时间同步 -->
 
-## u
-
-https://ubcsanskrit.ca/
-https://ubcsanskrit.ca/lesson1/devan%C4%81gar%C4%AB.html
-<!-- Devanāgarī Phonology Chart -->
-
-https://manpages.ubuntu.com/
-
-https://www.udacity.com/
-
-https://uigradients.com/
-
-https://www.urbandictionary.com/
-
-https://www.cs.usfca.edu/~galles/visualization/
-https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
-https://www.cs.usfca.edu/~galles/visualization/BST.html
-
-https://www.uta-net.com/
-
-https://utaten.com/
-
 ## v
 
 https://www.v2ex.com/
@@ -868,59 +629,23 @@ https://www.v2ex.com/
 https://www.vcmiao.com/
 <!-- VC喵 -->
 
-https://vjudge.net/
-
-https://vocalremover.org/zh/
-https://vocalremover.org/zh/key-bpm-finder
-
 ## w
-
-https://walkccc.me/CLRS/
 
 https://wallhaven.cc/
 
-https://www.wanfangdata.com.cn/index.html
-https://fz.wanfangdata.com.cn/index.do
-<!-- 地方志 -->
-
 https://warma.moe/
-
-https://websudoku.com/
 
 https://www.wenshushu.cn/
 <!-- 文叔叔 传文件 -->
 
-https://www.wgt.com/home/
-
 https://en.wikisource.org/wiki/Main_Page
 https://zh.wikisource.org/wiki/Wikisource:%E9%A6%96%E9%A1%B5
 
-https://wikiwiki.jp/toho_lw/
-
 https://www.wiktionary.org/
-
-https://wordlegame.org/
-
-https://wordpress.com/zh-cn/
-
-https://worldtimeapi.org/
-
-https://wy-lang.org/
-https://ide.wy-lang.org/
-<!-- 文言 -->
 
 ## x
 
 https://xerocos.com/
-
-https://xgirl.one/
-
-https://xhcy.us/
-<!-- 芯幻 -->
-
-https://www.xiwnn.com/
-https://www.xiwnn.com/piano/
-<!-- 在线钢琴模拟器 -->
 
 https://xn--888-ok4b9e.xn--jh1al63br2c.com/
 <!-- VC喵 -->
@@ -932,8 +657,6 @@ https://xn--z7xq16a8pb.com/
 <!-- 猫薄荷 -->
 
 ## y
-
-https://zh.y8.com/
 
 https://yande.re/post
 <!-- 图 -->
@@ -947,11 +670,3 @@ https://cr.yp.to/
 https://cr.yp.to/ftp.html
 
 https://pro.yuketang.cn/v2/web/index
-
-https://www.yuuhei-satellite.jp/
-<!-- 幽闭星光 幽閉サテライト -->
-
-## z
-
-http://zokugo-dict.com/
-<!-- 日本語俗語辞書 -->

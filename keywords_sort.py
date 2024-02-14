@@ -6,7 +6,7 @@ def keywords_sort(filepath: str):
     with open(filepath, 'r', encoding='utf-8') as f:
         for line in f.readlines():
             line = line.strip()
-            if line and not line.startswith('#'):
+            if line and not line.startswith('#') and line not in keywords:
                 keywords.append(line)
 
     keywords.sort()
