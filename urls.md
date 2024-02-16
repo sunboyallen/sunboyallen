@@ -434,15 +434,11 @@ https://sm.ms/
 
 https://solitaired.com/
 
-https://open.spotify.com/
-
 https://www.sr2jr.com/
 https://www.sr2jr.com/textbook-solutions
 
 https://mathshistory.st-andrews.ac.uk/
 <!-- MacTutor Index -->
-
-https://stackoverflow.com/
 
 http://infolab.stanford.edu/~ullman/ialc.html
 http://infolab.stanford.edu/~ullman/ialcsols/sols.html
@@ -453,33 +449,15 @@ https://store.steampowered.com/
 https://kigosai.sub.jp/
 <!-- 季語と歳時記 -->
 
-https://sudoku.com/zh
-
-https://www.superbed.cn/
-<!-- 聚合图床 -->
-
-https://supjav.com/
-https://supjav.com/zh/
-
 https://syaro.io/
 https://liferestart.syaro.io/
 https://liferestart.syaro.io/public/index.html
 
 ## t
 
-https://tannhauser.moe/
-
-https://tarothall.com/
-<!-- 塔罗馆 -->
-
 https://web.telegram.org/k/
 
-https://www.tensorflow.org/?hl=zh-cn
 https://playground.tensorflow.org/
-
-https://thdog.moe/
-https://cn.thdog.moe/
-<!-- 东方狗下载站 -->
 
 https://theporndude.com/
 
@@ -515,36 +493,15 @@ https://zhjwxk.cic.tsinghua.edu.cn/xklogin.do
 http://mail.tsinghua.org.cn/
 http://mailservice.tsinghua.org.cn/f/home
 
-https://www.tumblr.com/
-
-https://tuna.moe/
 https://tuna.moe/help/ntp/
 <!-- 清华tuna授时 时间同步 -->
 
 ## v
 
-https://www.v2ex.com/
-
 https://www.vcmiao.com/
 <!-- VC喵 -->
 
-## w
-
-https://wallhaven.cc/
-
-https://warma.moe/
-
-https://www.wenshushu.cn/
-<!-- 文叔叔 传文件 -->
-
-https://en.wikisource.org/wiki/Main_Page
-https://zh.wikisource.org/wiki/Wikisource:%E9%A6%96%E9%A1%B5
-
-https://www.wiktionary.org/
-
 ## x
-
-https://xerocos.com/
 
 https://xn--888-ok4b9e.xn--jh1al63br2c.com/
 <!-- VC喵 -->
