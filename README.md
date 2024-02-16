@@ -23,6 +23,82 @@
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Allen_Sunboy&layout=compact&theme=cobalt&locale=cn)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%201%20min-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 1.2 MB Used in GitHub's Storage 
+ > 
+> 🏆 198 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 10 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                173 commits         █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
+🌆 Daytime                350 commits         █████████░░░░░░░░░░░░░░░░   37.55 % 
+🌃 Evening                320 commits         █████████░░░░░░░░░░░░░░░░   34.33 % 
+🌙 Night                  89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+Tuesday                  174 commits         █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+Wednesday                165 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+Thursday                 111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Friday                   115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Saturday                 108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Sunday                   192 commits         █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 4 hrs 5 mins        ████████████████████████░   94.57 % 
+Python                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+
+🔥 Editors: 
+VS Code                  4 hrs 19 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Allen-Sunboy             4 hrs 19 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  4 hrs 19 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in C++** 
+
+```text
+C++                      8 repos             ████████░░░░░░░░░░░░░░░░░   32.00 % 
+Python                   6 repos             ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Assembly                 2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Allen-Sunboy/Allen-Sunboy/main/assets/bar_graph.png)
+
+
+ Last Updated on 16/02/2024 03:53:25 UTC
 <!--END_SECTION:waka-->
 
 [![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Allen_Sunboy)](https://www.last.fm/zh/user/Allen_Sunboy)
