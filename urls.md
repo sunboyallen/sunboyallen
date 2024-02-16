@@ -213,19 +213,11 @@ https://littleskin.cn/
 
 ## m
 
-https://magiconch.com/
-<!-- 神奇海螺 -->
-https://lab.magiconch.com/
-
 https://www.marxists.org/
 https://www.marxists.org/chinese/index.html
 https://www.marxists.org/chinese/pdf/marxism-library.htm
 
-https://mastodon.social/
-
 https://www.mcbbs.net/
-
-https://mega.nz/
 
 https://metalhead.club/
 
@@ -250,22 +242,6 @@ https://miko.org/~uraki/kuon/furu/text/waka/manyou/mana.htm
 https://miko.org/~uraki/kuon/furu/text/waka/wakan/wakan00.htm
 <!-- 和漢朗詠集 -->
 
-https://minesweeper.online/cn/
-
-https://tool.mingdawoo.com/
-<!-- 近邻词汇检索 -->
-
-https://missav.com/cn
-
-https://www.mogher.com/
-<!-- 潮州母语 -->
-https://www.mogher.com/baike
-<!-- 潮典 -->
-
-http://www.muni-buddha.com.tw/music/
-http://www.muni-buddha.com.tw/music/doc034-wiki.html
-<!-- 大悲咒 -->
-
 ## n
 
 https://dict.naver.com/
@@ -287,28 +263,17 @@ https://docs.net9.org/
 
 https://nhentai.net/
 
-https://www.nicovideo.jp/
 https://dic.nicovideo.jp/a/東方乳議論
-https://seiga.nicovideo.jp/shunga
-
-https://cssrac.nju.edu.cn/cpzx/zwshkxywsy/index.html
-<!-- 南京大学 中文社会科学引文索引CSSCI来源期刊目录 -->
 
 https://www.nmbxd1.com/Forum
 <!-- X岛揭示板 -->
 
 https://note.ms/allen
 
-## o
-
-https://mystias-menu.onrender.com/
-
 ## p
 
 https://www.pingti.app/
 <!-- 最佳平替 -->
-
-https://pipiusagi.com/
 
 https://bbs.pku.edu.cn/v2/home.php
 
@@ -384,15 +349,6 @@ https://xn--z7xq16a8pb.com/
 
 ## y
 
-https://yande.re/post
-<!-- 图 -->
-
-https://yandex.com/
-
-https://www.yankong.org/
-<!-- 研控 -->
-
-https://cr.yp.to/
 https://cr.yp.to/ftp.html
 
 https://pro.yuketang.cn/v2/web/index

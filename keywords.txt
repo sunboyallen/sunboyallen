@@ -25,8 +25,10 @@ clrs solutions
 cmake
 codeforces
 coin flip
+cr.yp.to
 crossword solver
 csdiy
+cssci
 data structure visualization
 desmos
 devanāgarī
@@ -99,6 +101,7 @@ leetcode
 lernu.net
 line rider
 mactutor index
+mastodon
 material for mkdocs
 matplotlib
 maven
@@ -107,6 +110,7 @@ mc百科
 mdn web docs
 medle
 meenfox
+mega
 merriam-webster
 microsoft learn
 midishow
@@ -114,7 +118,9 @@ mikutap
 mindmeister
 minecraft wiki
 minecraft幻想乡
+minesweeper online
 mingw-w64
+missav
 mkdocs
 mobaxterm
 moji辞书
@@ -123,6 +129,7 @@ mozilla
 musescore
 musicca
 musicstax
+mystia's menu
 netron
 nga玩家社区
 nicotalk
@@ -141,6 +148,7 @@ pandoc
 pastebin
 pexels
 pinterest
+pipi usagi
 pixiv
 plos
 plurk
@@ -229,8 +237,13 @@ x-mol学术平台
 xerocos
 xmind
 y8.com
+yande.re
+yandex
 zotero
 うたてん
+ニコニコ
+ニコニコ大百科
+ニコニコ春画
 东方我乐多丛志
 中华语文知识库
 中国哲学书电子化计划
@@ -288,6 +301,8 @@ zotero
 清华大学tuna协会
 漢字ペディア
 漢文html # 汉文训读
+潮典
+潮州母语
 火绒
 灰机wiki
 灵梦御所
@@ -297,6 +312,8 @@ zotero
 百度指数
 看云
 石墨文档
+研控
+神奇海螺试验场
 秀米
 稿定设计
 约定式提交
@@ -305,6 +322,7 @@ zotero
 识典古籍
 语雀
 辞典オンライン
+近邻词汇检索
 金谷武洋公式ブログ
 问卷网
 韵典网
