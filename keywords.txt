@@ -136,12 +136,20 @@ overleaf
 oxford learner's dictionaries
 pandoc
 pastebin
+pixiv
+plos
+plurk
+poem analysis
+poets.org
 potato godzilla
 prettier
 processon
+programming fonts
+ptable
 punycode converter
 qbittorrent
 qt
+quora
 regexr
 reta vortaro
 rime

@@ -337,45 +337,20 @@ https://www.pinterest.com/
 
 https://pipiusagi.com/
 
-https://www.pixiv.net/
 https://dic.pixiv.net/
 https://dic.pixiv.net/a/%E6%9D%B1%E6%96%B9%E3%81%8A%E3%81%A3%E3%81%B1%E3%81%84%E3%82%BF%E3%82%B0%E4%B8%80%E8%A6%A7
 <!-- 東方おっぱいタグ一覧 -->
 
 https://bbs.pku.edu.cn/v2/home.php
-http://ccl.pku.edu.cn:8080/ccl_corpus/index.jsp
-<!-- CCL语料库检索系统 -->
-http://hxqk.lib.pku.edu.cn/
-<!-- 北京大学中文核心期刊要目总览 -->
-https://www.isss.pku.edu.cn/cfps/
 
 https://pkudh.org/project/yongledadian/
 <!-- 《永乐大典》高清影像数据库系统 -->
-
-https://plos.org/
-
-https://www.plurk.com/portal/
-
-https://poemanalysis.com/
-
-https://poets.org/
-
-http://poj.org/
-<!-- PKU JudgeOnline -->
-
-https://www.programmingfonts.org/
-<!-- 字体 -->
-
-https://ptable.com/#
 
 ## q
 
 https://docs.qq.com/desktop/
 https://wj.qq.com/
 <!-- 腾讯问卷 -->
-
-http://www.qstheory.cn/qs/mulu.htm
-<!-- 求是 -->
 
 https://www.quora.com/
 
