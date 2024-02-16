@@ -299,144 +299,39 @@ https://www.nmbxd1.com/Forum
 
 https://note.ms/allen
 
-https://bbs.nyasama.com/
-
 ## o
 
 https://mystias-menu.onrender.com/
 
-https://www.open-std.org/
-
-https://openai.com/
-https://chat.openai.com/chat
-
-https://www.openathens.net/
-
-https://opendata-web.site/
-https://opendata-web.site/tool/parse/
-<!-- 日本語形態素解析 日本语形态素解析 -->
-
-https://otomad.wiki/%E9%A6%96%E9%A1%B5
-<!-- 中文音MAD维基 -->
-
 ## p
-
-http://data.people.com.cn/
-<!-- 人民数据 -->
-
-https://www.pexels.com/zh-cn/
-
-https://phesoca.com/kanbun-html/
-
-https://www.picacomic.com/
 
 https://www.pingti.app/
 <!-- 最佳平替 -->
 
-https://www.pinterest.com/
-
 https://pipiusagi.com/
 
-https://dic.pixiv.net/
-https://dic.pixiv.net/a/%E6%9D%B1%E6%96%B9%E3%81%8A%E3%81%A3%E3%81%B1%E3%81%84%E3%82%BF%E3%82%B0%E4%B8%80%E8%A6%A7
-<!-- 東方おっぱいタグ一覧 -->
-
 https://bbs.pku.edu.cn/v2/home.php
-
-https://pkudh.org/project/yongledadian/
-<!-- 《永乐大典》高清影像数据库系统 -->
-
-## q
-
-https://docs.qq.com/desktop/
-https://wj.qq.com/
-<!-- 腾讯问卷 -->
-
-https://www.quora.com/
-
-## r
-
-https://www.reddit.com/
-
-https://blog.reimu.net/
-<!-- 灵梦御所 -->
-
-https://rule34.xxx/
 
 ## s
 
 https://sakura-paris.org/dict/
 <!-- 広辞苑無料検索 -->
 
-https://sakuradrive.com/
-
 https://openstd.samr.gov.cn/bzgk/gb/
 <!-- 国家标准全文公开 -->
 
-https://www.sankakucomplex.com/
-https://beta.sankakucomplex.com/zh-CN
-https://chan.sankakucomplex.com/
-
-https://www.sanskritdictionary.com/
-
-https://seesaawiki.jp/toho-motoneta_2nd/
-<!-- 東方元ネタwiki -->
-
 https://sese.love/
-
-https://epaper.shehuiwang.cn/site/index.jsp
-<!-- 中国社会报数字报 -->
-
-https://www.shidianguji.com/
-<!-- 识典古籍 -->
-https://yongle.shidianguji.com/introduction
-<!-- 永乐大典 -->
-
-https://shindanmaker.com/
-
-https://www.shooterspool.net/promo/zh_cn/shooterspool-online-billiards-simulation.html
-
-https://shugohairanai.com/
-<!-- 金谷武洋公式ブログ -->
 
 https://singlelogin.re/
 <!-- Z-Library -->
 
-https://xiaoxue.iis.sinica.edu.tw/
-
 https://sm.ms/
 <!-- 图床 -->
 
-https://solitaired.com/
-
-https://www.sr2jr.com/
-https://www.sr2jr.com/textbook-solutions
-
-https://mathshistory.st-andrews.ac.uk/
-<!-- MacTutor Index -->
-
-http://infolab.stanford.edu/~ullman/ialc.html
-http://infolab.stanford.edu/~ullman/ialcsols/sols.html
-<!-- Introduction to Automata Theory, Languages, and Computation 形式语言与自动机 -->
-
-https://store.steampowered.com/
-
-https://kigosai.sub.jp/
-<!-- 季語と歳時記 -->
-
-https://syaro.io/
 https://liferestart.syaro.io/
 https://liferestart.syaro.io/public/index.html
 
 ## t
-
-https://web.telegram.org/k/
-
-https://playground.tensorflow.org/
-
-https://theporndude.com/
-
-https://www.thesaurus.com/
 
 https://thu.services/
 https://thu.wiki/
