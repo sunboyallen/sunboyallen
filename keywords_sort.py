@@ -6,16 +6,15 @@ def keywords_sort(filepath: str):
     with open(filepath, 'r', encoding='utf-8') as f:
         for line in f.readlines():
             line = line.strip()
-            if line and not line.startswith('#') and line not in keywords:
-                keywords.append(line)
+            keywords.append(line)
 
     keywords.sort()
+    print(len(keywords))
 
     with open(filepath, 'w', encoding='utf-8') as f:
-        f.write('# Keywords\n')
         for keyword in keywords:
-            f.write('\n' + keyword + '\n')
+            f.write(keyword + '\n')
 
 
 if __name__ == '__main__':
-    keywords_sort('keywords.md')
+    keywords_sort('keywords.txt')
