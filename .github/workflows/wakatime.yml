@@ -17,4 +17,4 @@ jobs:
           SHOW_LINES_OF_CODE: True
           SHOW_UPDATED_DATE: True
           SHOW_LOC_CHART: False
-          LOCALE: "zh"
+          LOCALE: "zh-cn"
