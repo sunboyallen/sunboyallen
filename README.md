@@ -18,10 +18,6 @@
 
 ![My Skills](https://skillicons.dev/icons?i=anaconda,bash,c,cmake,cpp,css,discord,django,docker,git,github,gitlab,gmail,html,instagram,js,latex,linkedin,linux,md,nodejs,opencv,postman,powershell,py,stackoverflow,twitter,visualstudio,vscode,vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allen-Sunboy&layout=compact&theme=cobalt&locale=cn)
-
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Allen_Sunboy&layout=compact&theme=cobalt&locale=cn)
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
