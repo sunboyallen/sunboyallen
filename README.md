@@ -19,6 +19,80 @@
 ![My Skills](https://skillicons.dev/icons?i=anaconda,bash,c,cmake,cpp,css,discord,django,docker,git,github,gitlab,gmail,html,instagram,js,latex,linkedin,linux,md,nodejs,opencv,postman,powershell,py,stackoverflow,twitter,visualstudio,vscode,vue)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2056%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 1.2 MB Used in GitHub's Storage 
+ > 
+> 🏆 204 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 10 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                174 commits         █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+🌆 Daytime                354 commits         █████████░░░░░░░░░░░░░░░░   37.74 % 
+🌃 Evening                321 commits         █████████░░░░░░░░░░░░░░░░   34.22 % 
+🌙 Night                  89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Tuesday                  174 commits         █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+Wednesday                165 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+Thursday                 111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Friday                   121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Saturday                 108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Sunday                   192 commits         █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 4 hrs 5 mins        ████████████████████████░   94.57 % 
+Python                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+
+🔥 Editors: 
+VS Code                  4 hrs 19 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Allen-Sunboy             4 hrs 19 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  4 hrs 19 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in C++** 
+
+```text
+C++                      8 repos             ████████░░░░░░░░░░░░░░░░░   32.00 % 
+Python                   6 repos             ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Assembly                 2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+```
+
+
+
+
+ Last Updated on 16/02/2024 11:06:26 UTC
 <!--END_SECTION:waka-->
 
 [![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Allen_Sunboy)](https://www.last.fm/zh/user/Allen_Sunboy)
