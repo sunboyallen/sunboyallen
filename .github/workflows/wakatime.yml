@@ -10,7 +10,6 @@ on:
 
 jobs:
   update-readme:
-    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
@@ -20,4 +19,4 @@ jobs:
           SHOW_LINES_OF_CODE: True
           SHOW_UPDATED_DATE: True
           SHOW_LOC_CHART: False
-          LOCALE: "zh-cn"
+          LOCALE: "zh"
