@@ -19,6 +19,80 @@
 ![My Skills](https://skillicons.dev/icons?i=anaconda,bash,c,cmake,cpp,css,discord,django,docker,git,github,gitlab,gmail,html,instagram,js,latex,linkedin,linux,md,nodejs,opencv,postman,powershell,py,stackoverflow,twitter,visualstudio,vscode,vue)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2051%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-3-blue)
+
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-1.3%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
+
+**🐱 我的 GitHub 数据** 
+
+> 📦  使用了 1.2 MB GitHub 存储空间 
+ > 
+> 🏆 222 个贡献，在 2024 年
+ > 
+> 🚫 不开放招聘
+ > 
+> 📜 12 个公共仓库 
+ > 
+> 🔑 10 个私人仓库 
+ > 
+**我是早起的 🐤** 
+
+```text
+🌞 早晨                     174 commits         █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+🌆 白天                     354 commits         █████████░░░░░░░░░░░░░░░░   37.34 % 
+🌃 傍晚                     331 commits         █████████░░░░░░░░░░░░░░░░   34.92 % 
+🌙 晚上                     89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+```
+📅 **我最有效率是在 星期日** 
+
+```text
+星期一                      67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+星期二                      174 commits         █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+星期三                      165 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+星期四                      111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+星期五                      131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+星期六                      108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+星期日                      192 commits         █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+```
+
+
+📊 **本周消耗时间** 
+
+```text
+🕑︎ 时区: Asia/Shanghai
+
+💬 编程语言: 
+Markdown                 4 hrs 5 mins        ████████████████████████░   94.57 % 
+Python                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+
+🔥 编辑器: 
+VS Code                  4 hrs 19 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 项目: 
+Allen-Sunboy             4 hrs 19 mins       █████████████████████████   100.00 % 
+
+💻 操作系统: 
+Windows                  4 hrs 19 mins       █████████████████████████   100.00 % 
+```
+
+**我最常使用 C++** 
+
+```text
+C++                      8 repos             ████████░░░░░░░░░░░░░░░░░   32.00 % 
+Python                   6 repos             ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Assembly                 2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+```
+
+
+
+
+ Last Updated on 16/02/2024 13:46:45 UTC
 <!--END_SECTION:waka-->
 
 [![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Allen_Sunboy)](https://www.last.fm/zh/user/Allen_Sunboy)
