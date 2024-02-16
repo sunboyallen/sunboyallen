@@ -39,7 +39,7 @@ def urls_sort(filepath: str):
             line = lines[i].strip()
             if line.startswith('http'):
                 url = {'url': line}
-                if i < len(lines) and lines[i + 1].strip().startswith('<!'):
+                if i < len(lines) - 1 and lines[i + 1].strip().startswith('<!'):
                     url['comment'] = lines[i + 1].strip()
                 urls.append(url)
 
