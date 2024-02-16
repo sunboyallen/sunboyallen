@@ -65,9 +65,6 @@ https://www.catalogueoflife.org/
 
 https://beta.character.ai/
 
-https://www.chinaesperantoligo.com.cn/
-<!-- 中华全国世界语协会 -->
-
 https://www.chinosk6.cn/
 
 https://chrunlee.cn/tool/wechatdat
@@ -103,14 +100,6 @@ http://www.ic.daito.ac.jp/~oukodou/kuzukago/kundoku,1.html
 
 https://www.dictionary.com/
 
-https://www.doi.org/
-https://dx.doi.org/
-
-https://donmai.moe/
-
-https://www.doorzo.net/
-<!-- 任意门 -->
-
 https://dream.ai/
 <!-- dream by wombo -->
 
@@ -129,48 +118,15 @@ https://eitherchoice.com/
 https://enazo.cn/
 <!-- 绘谜 -->
 
-https://www.evacg.org/
-
 ## f
 
-https://f-g-s.net/
-<!-- Foxtail-Grass Studio -->
-
-https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki
-https://pkuhistory.fandom.com/zh/wiki/%E5%8C%97%E5%A4%A7%E9%87%8E%E5%8F%B2_Wiki
-
-http://banbanshi.blog27.fc2.com/
-http://banbanshi.web.fc2.com/
-<!-- ばんばんしー -->
-http://manpukujinja.blog135.fc2.com/
-<!-- 满福神社 満福神社 -->
-
-https://fdict.cn/#/
-<!-- 梵佛词典 -->
-
 https://feeder.co/
-
-https://feedly.com/
-
-https://flagpedia.net/
-<!-- Flags of the World -->
-
-https://flcy.us/
-<!-- 风铃次元 -->
 
 https://www.flyordie.com/zh_cn/
 https://www.flyordie.com/zh_cn/billiard/
 https://www.flyordie.com/zh_cn/snooker/
 
-https://www.freestandardsdownload.com/
-
 ## g
-
-https://gelbooru.com/index.php
-
-https://ca.getbitznet.com/
-https://client.getbitznet.com/
-https://dash.getbitznet.com/
 
 https://www.gift-gift.jp/nui/toho.html
 
@@ -197,48 +153,14 @@ https://cn.govopendata.com/renminribao/
 <!-- 人民日报 -->
 https://cn.govopendata.com/xinwenlianbo/
 
-https://cn.gravatar.com/
-
 https://greasyfork.org/zh-CN
-
-https://gyate.net/
-<!-- 响子脸 -->
 
 ## h
 
 https://hack.chat/?kt1j8rpc
 https://hack.chat/?lounge
 
-https://hakurei.red/
-<!-- 博丽听涛分社 -->
-
-https://handraw.top/
-<!-- 手写白板 -->
-
-https://hangmanwordgame.com/?online#/
-
-https://www.hanyi.com.cn/productdetail.php?id=2638
-<!-- 汉仪陈体甲骨文 -->
-
-https://forum.hentai.sh/
-<!-- 唧唧jijidown社区 -->
-
-https://wtf.hiigara.net/
-<!-- 鬼东西 -->
-
-http://www.homeinmists.com/
-http://www.homeinmists.com/shuowen/
-
-https://www.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5
-<!-- 灰机wiki -->
-
-https://humanbenchmark.com/
-
 ## i
-
-https://www.idiotbots.com/
-
-https://www.ilovepdf.com/zh-cn
 
 https://imgse.com/
 <!-- 路过图床 -->
@@ -247,15 +169,6 @@ https://www.internationalphoneticassociation.org/
 https://www.internationalphoneticassociation.org/IPAcharts/inter_chart_2018/IPA_2018.html
 https://www.internationalphoneticassociation.org/content/full-ipa-chart
 https://www.internationalphoneticassociation.org/content/ipa-chart
-
-https://iogames.space/
-
-https://itch.io/
-https://cherry-treehouse.itch.io/
-https://cherry-treehouse.itch.io/iwbtgr
-<!-- i wanna be the guy -->
-https://kayin.itch.io/
-https://kayin.itch.io/iwbtg
 
 ## j
 
@@ -374,10 +287,7 @@ https://docs.net9.org/
 
 https://nhentai.net/
 
-https://emuseum.nich.go.jp/top?langId=zh
-
 https://www.nicovideo.jp/
-https://dic.nicovideo.jp/
 https://dic.nicovideo.jp/a/東方乳議論
 https://seiga.nicovideo.jp/shunga
 
@@ -392,15 +302,6 @@ https://note.ms/allen
 https://bbs.nyasama.com/
 
 ## o
-
-https://iconpark.oceanengine.com/home
-<!-- 字节跳动图标库 ByteDance -->
-
-https://www.online-latin-dictionary.com/
-
-https://www.onlinegdb.com/
-
-https://onlinejudge.org/
 
 https://mystias-menu.onrender.com/
 

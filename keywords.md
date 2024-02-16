@@ -40,6 +40,8 @@ bpm finder
 
 britannica
 
+bytedance iconpark 字节跳动图标库
+
 canva可画
 
 chunk base
@@ -68,6 +70,8 @@ discord
 
 django
 
+donmai
+
 doxygen
 
 duolingo
@@ -86,6 +90,8 @@ etymonline
 
 excalidraw
 
+e国宝
+
 fandom
 
 ffmpeg
@@ -94,15 +100,23 @@ figma
 
 firefox
 
+flagpedia
+
 font awesome
+
+foxtail-grass studio
 
 freecheck
 
 freefonts
 
+gdb online debugger
+
 geek uninstaller
 
 geeksforgeeks
+
+gelbooru
 
 geogebra
 
@@ -118,13 +132,21 @@ gitmind
 
 glosbe
 
+gravatar
+
+gyate booru
+
 hack chat
 
 handraw
 
+hangman
+
 hexo
 
 hexo next
+
+human benchmark
 
 i wanna be the guy
 
@@ -135,6 +157,8 @@ ideone
 ieee sa
 
 ieee xplore
+
+ilovepdf
 
 imdb
 
@@ -198,6 +222,8 @@ mikutap
 
 mindmeister
 
+minecraft wiki
+
 minecraft幻想乡
 
 mingw-w64
@@ -233,6 +259,8 @@ numpy
 oeis
 
 oi wiki
+
+online latin dictionary
 
 openyyy
 
@@ -444,6 +472,8 @@ zotero
 
 求是
 
+汉仪陈体甲骨文
+
 汉兜
 
 测速网
@@ -453,6 +483,8 @@ zotero
 漢字ペディア
 
 火绒
+
+灰机wiki
 
 爱校对
 

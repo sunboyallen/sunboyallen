@@ -22,4 +22,7 @@
 
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Allen_Sunboy&layout=compact&theme=cobalt&locale=cn)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Allen_Sunboy)](https://www.last.fm/zh/user/Allen_Sunboy)
