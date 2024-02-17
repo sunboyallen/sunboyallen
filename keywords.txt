@@ -150,8 +150,10 @@ musescore
 musicca
 musicstax
 mystia's menu
+naver dictionary
 netron
 nga玩家社区
+nhentai
 nicotalk
 node.js
 number empire
@@ -193,6 +195,7 @@ runkit
 saiblo
 sankaku complex
 sanskrit dictionary
+sast skill docs
 sci-hub
 shields.io
 simple icons
@@ -276,6 +279,7 @@ zotero
 中国政府网
 中国社会报数字报
 中文音mad维基
+久遠の絆ファンサイト
 书格
 人民数据
 今年の漢字
@@ -286,6 +290,7 @@ zotero
 名前辞典
 向日葵
 吾道幻灯片
+和漢朗詠集
 哔咔漫画
 喵玉殿论坛
 国家标准全文公开
@@ -320,8 +325,9 @@ zotero
 日本語品詞分解ツール
 日本语形态素解析
 本命角色测试
-東方LostWord
+東方lostword
 東方おっぱいタグ一覧
+東方乳議論
 樱盒
 歌ネット
 歌詞検索

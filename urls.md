@@ -136,8 +136,6 @@ https://learn.microsoft.com/zh-cn/typography/font-list/consolas
 
 https://tat.midishow.com/
 
-https://miko.org/~uraki/kuon/
-<!-- 久遠の絆 -->
 https://miko.org/~uraki/kuon/furu/text/kojiki/kojiki.htm
 <!-- 新訂古事記 -->
 https://miko.org/~uraki/kuon/furu/text/waka/manyou/mana.htm
@@ -147,26 +145,12 @@ https://miko.org/~uraki/kuon/furu/text/waka/wakan/wakan00.htm
 
 ## n
 
-https://dict.naver.com/
-
-https://ncss.cn/
-https://cy.ncss.cn/
-<!-- 全国大学生创业服务网 -->
-
 https://www.ncu.edu.tw/tw/index.html
 http://www.ss.ncu.edu.tw/~calin/dictionary.html
 <!-- 林崇安教授文集 -->
 
 https://cet-bm.neea.edu.cn/
 <!-- 全国大学英语四、六级考试报名网 -->
-
-https://net9.org/
-https://docs.net9.org/
-<!-- 计算机系学生科协技能引导文档 -->
-
-https://nhentai.net/
-
-https://dic.nicovideo.jp/a/東方乳議論
 
 https://www.nmbxd1.com/Forum
 <!-- X岛揭示板 -->
