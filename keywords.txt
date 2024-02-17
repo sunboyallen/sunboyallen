@@ -7,11 +7,13 @@ abbreviations.com
 about.me
 academic word list
 acm digital library
+akinator
 amiami
 aminer
 anaconda
 apa style
 bakaxl
+bangumi番组计划
 bcc语料库
 behind the name
 bigjpg
@@ -20,6 +22,8 @@ bpm finder
 britannica
 bytedance iconpark 字节跳动图标库
 canva可画
+catalogue of life
+character.ai
 chunk base
 clrs solutions
 cmake
@@ -27,11 +31,13 @@ codeforces
 coin flip
 cr.yp.to
 crossword solver
+csapp 3e solutions
 csdiy
 cssci
 data structure visualization
 desmos
 devanāgarī
+dictionary.com
 diffchecker
 discord
 disqus
@@ -39,9 +45,11 @@ django
 donmai
 doxygen
 duolingo
+either choice
 element
 emojiall
 emojipedia
+enazo # 绘谜
 encyclopedia of buddhism
 epsdata
 etymonline
@@ -54,8 +62,10 @@ firefox
 flagpedia
 font awesome
 foxtail-grass studio
+free-programming-books
 freecheck
 freefonts
+full ipa chart
 gdb online debugger
 geek uninstaller
 geeksforgeeks
@@ -67,7 +77,10 @@ gitbook
 github readme stats
 gitmind
 glosbe
+glyphwiki
+goo辞書
 gravatar
+greasy fork
 gyate booru
 hack chat
 handraw
@@ -83,14 +96,19 @@ ieee xplore
 ilovepdf
 imdb
 intellij idea
+international phonetic association
 introduction to automata theory, languages, and computation
 iotdb
+ipa i-charts
 iso
+javgg
+javlibrary
 jdk
 jflap
 jisho.org
 jmeter
 joysound
+jsfuck
 k'sbookshelf
 kotobank
 kpedia
@@ -99,7 +117,9 @@ lastpass
 learn sanskrit online
 leetcode
 lernu.net
+libera chat # irc
 line rider
+littleskin # minecraft皮肤站
 mactutor index
 mastodon
 material for mkdocs
@@ -195,6 +215,7 @@ texlive
 thbwiki
 the free dictionary
 thesaurus
+thu wiki
 time.is
 timeanddate
 tiobe index
@@ -225,12 +246,14 @@ web scrobbler
 web sudoku
 weblio
 webpack
+wfg 部件檢索
 wgt
 wikipedia
 wikisource
 wiktionary
 wolfram
 wolfram mathworld
+wombo
 wordle
 world time api
 x-mol学术平台
@@ -241,9 +264,11 @@ yande.re
 yandex
 zotero
 うたてん
+アルテマ
 ニコニコ
 ニコニコ大百科
 ニコニコ春画
+ハダカjapan # 裸写真
 东方我乐多丛志
 中华语文知识库
 中国哲学书电子化计划
@@ -255,6 +280,7 @@ zotero
 人民数据
 今年の漢字
 光明数字报
+内閣告示 内閣訓令
 千图网
 古音小镜
 名前辞典
@@ -264,29 +290,36 @@ zotero
 喵玉殿论坛
 国家标准全文公开
 国立公文書館
+国立国语院韩国语-汉语学习词典
 图寻
 在线节拍器
 在线钢琴模拟器
 坚果云
 塔罗馆
+大辞林 特別ページ
 字海网
 字统网
 季語と歳時記
 学信网
 学堂在线
 小学堂
+常用漢字表
 广韵形声考
+広辞苑無料検索
 康熙字典網上版
 引得市
+志愿北京
 慕课网
 我搜云网盘
 掌桥科研
 摹客
+数字化说文解字
 文叔叔
 文泉学堂
 日本語俗語辞書
 日本語品詞分解ツール
 日本语形态素解析
+本命角色测试
 東方LostWord
 東方おっぱいタグ一覧
 樱盒
@@ -305,6 +338,7 @@ zotero
 潮州母语
 火绒
 灰机wiki
+灵梦广场
 灵梦御所
 爱校对
 爱给网
@@ -314,6 +348,7 @@ zotero
 石墨文档
 研控
 神奇海螺试验场
+禁漫天堂
 秀米
 稿定设计
 约定式提交

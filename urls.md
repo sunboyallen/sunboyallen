@@ -1,28 +1,9 @@
 # URLs
 
-## 1
-
-http://115.182.62.169:8000/
-<!-- uoj -->
-
-https://18comic.vip/
-
-https://18hmanga.click/
-
 ## a
-
-https://a-hadaka.jp/
-<!-- ハダカ裸写真 -->
-
-https://acg.is/
-<!-- 灵梦广场 -->
-
-https://cn.akinator.com/
 
 https://www.allhistory.com/
 <!-- 全历史 -->
-
-https://altema.jp/lostword/
 
 https://annas-archive.org/
 https://zh.annas-archive.org/
@@ -31,41 +12,16 @@ http://asmirvine.com/
 
 ## b
 
-https://bgm.tv/
-<!-- bangumi番组计划 -->
-
 https://secure.bitzapp.uk/
 
-http://fgwang.blogspot.com/
-<!-- WFG -->
-http://fgwang.blogspot.com/2015/12/blog-post_30.html
-<!-- 部件检索 -->
-
-http://szsw.bnu.edu.cn/
-<!-- 数字化《说文解字》 -->
-
 https://bulink.xyz/
-
-https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/
-<!-- 内閣告示・内閣訓令 -->
-https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/
-<!-- 常用漢字表 -->
 
 https://www.burstlinker.com/
 <!-- bulink -->
 
-https://www.bv2008.cn/
-<!-- 志愿北京 -->
-
 https://byr.pt/
 
 ## c
-
-https://www.catalogueoflife.org/
-
-https://beta.character.ai/
-
-https://www.chinosk6.cn/
 
 https://chrunlee.cn/tool/wechatdat
 
@@ -98,25 +54,9 @@ https://crosst.chat/
 http://www.ic.daito.ac.jp/~oukodou/kuzukago/kundoku,1.html
 <!-- 汉文训读 -->
 
-https://www.dictionary.com/
-
-https://dream.ai/
-<!-- dream by wombo -->
-
-http://daijirin.dual-d.net/
-<!-- 大辞林 -->
-http://daijirin.dual-d.net/extra/giseigo_gitaigo.html
-http://daijirin.dual-d.net/extra/index.html
-http://daijirin.dual-d.net/extra/kanjion.html
-
 ## e
 
 https://e-hentai.org/
-
-https://eitherchoice.com/
-
-https://enazo.cn/
-<!-- 绘谜 -->
 
 ## f
 
@@ -130,30 +70,15 @@ https://www.flyordie.com/zh_cn/snooker/
 
 https://www.gift-gift.jp/nui/toho.html
 
-https://dreamanddead.github.io/CSAPP-3e-Solutions/
-https://ebookfoundation.github.io/free-programming-books/
 https://kahaani.github.io/gatian/
 <!-- 潮语拼音教程 -->
 https://new-t.github.io/
 <!-- 树洞 -->
 https://ssast-readme.github.io/
-https://uzkk.github.io/favorite/
-<!-- 本命角色测试 -->
-
-https://glyphwiki.org/wiki/GlyphWiki:%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8
 
 https://go.dev/
 
 https://godbolt.org/
-
-https://dictionary.goo.ne.jp/
-<!-- goo辞書 -->
-
-https://cn.govopendata.com/renminribao/
-<!-- 人民日报 -->
-https://cn.govopendata.com/xinwenlianbo/
-
-https://greasyfork.org/zh-CN
 
 ## h
 
@@ -165,20 +90,9 @@ https://hack.chat/?lounge
 https://imgse.com/
 <!-- 路过图床 -->
 
-https://www.internationalphoneticassociation.org/
-https://www.internationalphoneticassociation.org/IPAcharts/inter_chart_2018/IPA_2018.html
-https://www.internationalphoneticassociation.org/content/full-ipa-chart
-https://www.internationalphoneticassociation.org/content/ipa-chart
-
 ## j
 
 https://jable.tv/
-
-https://javgg.net/
-
-https://www.javlibrary.com/cn/
-
-https://jsfuck.com/
 
 https://www.json.org/json-zh.html
 
@@ -193,23 +107,12 @@ https://kemono.su/
 https://konachan.com/
 <!-- 图 -->
 
-https://krdict.korean.go.kr/chn/mainAction
-
 https://www.kotenbunpou.com/
 <!-- 古典文法 -->
 
 ## l
 
 https://www.latexlive.com/
-
-https://www.learnsanskrit.cc/
-
-https://libera.chat/
-https://web.libera.chat/
-<!-- irc -->
-
-https://littleskin.cn/
-<!-- Minecraft 皮肤站 -->
 
 ## m
 
@@ -279,12 +182,6 @@ https://bbs.pku.edu.cn/v2/home.php
 
 ## s
 
-https://sakura-paris.org/dict/
-<!-- 広辞苑無料検索 -->
-
-https://openstd.samr.gov.cn/bzgk/gb/
-<!-- 国家标准全文公开 -->
-
 https://sese.love/
 
 https://singlelogin.re/
@@ -297,11 +194,6 @@ https://liferestart.syaro.io/
 https://liferestart.syaro.io/public/index.html
 
 ## t
-
-https://thu.services/
-https://thu.wiki/
-
-https://toho-vote.info/
 
 https://tsinghua.app/
 https://cloud.tsinghua.edu.cn/
