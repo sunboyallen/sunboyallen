@@ -4,9 +4,9 @@
 
 [![Static Badge](https://img.shields.io/badge/GitHub-Allen--Sunboy-181717?logo=github)](https://github.com/Allen-Sunboy)
 [![Static Badge](https://img.shields.io/badge/hexo-blog-0E83CD?logo=hexo)](https://allen-sunboy.github.io/)
-[![Static Badge](https://img.shields.io/badge/X-Allen__Sunboy-000000?logo=x)](https://twitter.com/Allen_Sunboy)
-[![Static Badge](https://img.shields.io/badge/知乎-玄晖Allen-0084FF?logo=zhihu)](https://www.zhihu.com/people/allen_sunboy)
-[![Static Badge](https://img.shields.io/badge/网易云音乐-玄晖Allen-D43C33?logo=neteasecloudmusic)](https://music.163.com/#/user/home?id=629998623)
+[![Static Badge](https://img.shields.io/badge/X-flyingreimu-000000?logo=x)](https://twitter.com/flyingreimu)
+[![Static Badge](https://img.shields.io/badge/知乎-玄晖allen-0084FF?logo=zhihu)](https://www.zhihu.com/people/allen_sunboy)
+[![Static Badge](https://img.shields.io/badge/网易云音乐-flyingreimu-D43C33?logo=neteasecloudmusic)](https://music.163.com/#/user/home?id=629998623)
 [![Static Badge](https://img.shields.io/badge/last.fm-Allen__Sunboy-D51007?logo=last.fm)](https://www.last.fm/zh/user/Allen_Sunboy)
 [![Static Badge](https://img.shields.io/badge/spotify-玄晖Allen-1DB954?logo=spotify)](https://open.spotify.com/user/31eorzqkjfjc6uukblze7fidnhqa)
 [![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D24507963&query=%24.data.totalSubs&logo=bilibili&label=Bilibili%20fans&color=00A1D6)](https://space.bilibili.com/24507963)
