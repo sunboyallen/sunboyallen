@@ -1,8 +1,8 @@
-# 玄晖Allen
+# sunboyallen
 
 丶冖凸冖丿
 
-[![Static Badge](https://img.shields.io/badge/GitHub-Allen--Sunboy-181717?logo=github)](https://github.com/Allen-Sunboy)
+[![Static Badge](https://img.shields.io/badge/GitHub-sunboyallen-181717?logo=github)](https://github.com/sunboyallen)
 [![Static Badge](https://img.shields.io/badge/hexo-blog-0E83CD?logo=hexo)](https://allen-sunboy.github.io/)
 [![Static Badge](https://img.shields.io/badge/X-flyingreimu-000000?logo=x)](https://twitter.com/flyingreimu)
 [![Static Badge](https://img.shields.io/badge/知乎-玄晖allen-0084FF?logo=zhihu)](https://www.zhihu.com/people/allen_sunboy)
