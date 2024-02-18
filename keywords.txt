@@ -11,7 +11,9 @@ akinator
 amiami
 aminer
 anaconda
+anna's archive
 apa style
+assembly language for x86 processors
 bakaxl
 bangumi番组计划
 bcc语料库
@@ -262,6 +264,7 @@ world time api
 x-mol学术平台
 xerocos
 xmind
+x岛揭示板
 y8.com
 yande.re
 yandex
@@ -271,7 +274,8 @@ zotero
 ニコニコ
 ニコニコ大百科
 ニコニコ春画
-ハダカjapan # 裸写真
+ハダカjapan # 裸 写真
+万葉集
 东方我乐多丛志
 中华语文知识库
 中国哲学书电子化计划
@@ -286,6 +290,8 @@ zotero
 光明数字报
 内閣告示 内閣訓令
 千图网
+古事記
+古典文法
 古音小镜
 名前辞典
 向日葵
@@ -328,6 +334,7 @@ zotero
 東方lostword
 東方おっぱいタグ一覧
 東方乳議論
+林崇安教授文集
 樱盒
 歌ネット
 歌詞検索
@@ -368,3 +375,5 @@ zotero
 问卷网
 韵典网
 马同学图解数学
+黄虎洞
+한자로 # 汉字路

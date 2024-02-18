@@ -5,11 +5,6 @@
 https://www.allhistory.com/
 <!-- 全历史 -->
 
-https://annas-archive.org/
-https://zh.annas-archive.org/
-
-http://asmirvine.com/
-
 ## b
 
 https://secure.bitzapp.uk/
@@ -22,8 +17,6 @@ https://www.burstlinker.com/
 https://byr.pt/
 
 ## c
-
-https://chrunlee.cn/tool/wechatdat
 
 https://cili.st/
 <!-- 无极磁力官方网址发布平台 -->
@@ -49,11 +42,6 @@ https://www.creprice.cn/
 https://crosst.chat/
 <!-- 十字街 -->
 
-## d
-
-http://www.ic.daito.ac.jp/~oukodou/kuzukago/kundoku,1.html
-<!-- 汉文训读 -->
-
 ## e
 
 https://e-hentai.org/
@@ -74,7 +62,6 @@ https://kahaani.github.io/gatian/
 <!-- 潮语拼音教程 -->
 https://new-t.github.io/
 <!-- 树洞 -->
-https://ssast-readme.github.io/
 
 https://go.dev/
 
@@ -94,11 +81,6 @@ https://imgse.com/
 
 https://jable.tv/
 
-https://www.json.org/json-zh.html
-
-https://hanjaro.juntong.or.kr/
-<!-- 汉字路 -->
-
 ## k
 
 https://kemono.su/
@@ -106,9 +88,6 @@ https://kemono.su/
 
 https://konachan.com/
 <!-- 图 -->
-
-https://www.kotenbunpou.com/
-<!-- 古典文法 -->
 
 ## l
 
@@ -120,8 +99,6 @@ https://www.marxists.org/
 https://www.marxists.org/chinese/index.html
 https://www.marxists.org/chinese/pdf/marxism-library.htm
 
-https://www.mcbbs.net/
-
 https://metalhead.club/
 
 https://learn.microsoft.com/zh-cn/cpp/?view=msvc-170
@@ -132,28 +109,13 @@ https://learn.microsoft.com/zh-cn/cpp/cpp/?view=msvc-170
 https://learn.microsoft.com/zh-cn/cpp/cpp/lambda-expressions-in-cpp?view=msvc-170
 https://learn.microsoft.com/zh-cn/powershell/
 https://learn.microsoft.com/zh-cn/typography/font-list/
-https://learn.microsoft.com/zh-cn/typography/font-list/consolas
 
 https://tat.midishow.com/
 
-https://miko.org/~uraki/kuon/furu/text/kojiki/kojiki.htm
-<!-- 新訂古事記 -->
-https://miko.org/~uraki/kuon/furu/text/waka/manyou/mana.htm
-<!-- 万葉集 -->
-https://miko.org/~uraki/kuon/furu/text/waka/wakan/wakan00.htm
-<!-- 和漢朗詠集 -->
-
 ## n
-
-https://www.ncu.edu.tw/tw/index.html
-http://www.ss.ncu.edu.tw/~calin/dictionary.html
-<!-- 林崇安教授文集 -->
 
 https://cet-bm.neea.edu.cn/
 <!-- 全国大学英语四、六级考试报名网 -->
-
-https://www.nmbxd1.com/Forum
-<!-- X岛揭示板 -->
 
 https://note.ms/allen
 
@@ -188,24 +150,24 @@ https://ecollection.lib.tsinghua.edu.cn/journalnav/home
 <!-- 电子期刊 -->
 https://git.tsinghua.edu.cn/
 http://info.tsinghua.edu.cn/
+<!-- 信息门户 -->
 https://its.tsinghua.edu.cn/
-https://lib.tsinghua.edu.cn/
+<!-- 信息化用户服务 -->
 https://lib.tsinghua.edu.cn/wj/GBT7714-2015.pdf
 <!-- GB/T 7714-2015 -->
 https://mails.tsinghua.edu.cn/
 https://planet.tsinghua.edu.cn/
-https://reserves.lib.tsinghua.edu.cn/
-https://student.tsinghua.edu.cn/
 https://thos.tsinghua.edu.cn/
 <!-- 在线服务系统 -->
 https://usereg.tsinghua.edu.cn/
 https://wenjuan.tsinghua.edu.cn/
 https://zhjwxk.cic.tsinghua.edu.cn/xklogin.do
 http://mail.tsinghua.org.cn/
+<!-- 校友邮箱 -->
 http://mailservice.tsinghua.org.cn/f/home
 
 https://tuna.moe/help/ntp/
-<!-- 清华tuna授时 时间同步 -->
+<!-- tuna ntp 网络授时 -->
 
 ## v
 
@@ -213,9 +175,6 @@ https://www.vcmiao.com/
 <!-- VC喵 -->
 
 ## x
-
-https://xn--888-ok4b9e.xn--jh1al63br2c.com/
-<!-- VC喵 -->
 
 https://xn--p8s937b.net/
 <!-- 汉字.net -->
