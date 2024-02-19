@@ -8,7 +8,6 @@
 [![Static Badge](https://img.shields.io/badge/知乎-玄晖allen-0084FF?logo=zhihu)](https://www.zhihu.com/people/allen_sunboy)
 [![Static Badge](https://img.shields.io/badge/网易云音乐-flyingreimu-D43C33?logo=neteasecloudmusic)](https://music.163.com/#/user/home?id=629998623)
 [![Static Badge](https://img.shields.io/badge/last.fm-flyingreimu-D51007?logo=last.fm)](https://www.last.fm/zh/user/flyingreimu)
-[![Static Badge](https://img.shields.io/badge/spotify-玄晖Allen-1DB954?logo=spotify)](https://open.spotify.com/user/31eorzqkjfjc6uukblze7fidnhqa)
 [![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D24507963&query=%24.data.totalSubs&logo=bilibili&label=Bilibili%20fans&color=00A1D6)](https://space.bilibili.com/24507963)
 
 头像角色：[博丽灵梦](https://thwiki.cc/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6)
