@@ -47,6 +47,7 @@ django
 donmai
 doxygen
 duolingo
+e-hentai
 either choice
 element
 emojiall
@@ -58,6 +59,7 @@ etymonline
 excalidraw
 e国宝
 fandom
+feeder.co
 ffmpeg
 figma
 firefox
@@ -134,6 +136,7 @@ medle
 meenfox
 mega
 merriam-webster
+microsoft 365
 microsoft learn
 midishow
 mikutap

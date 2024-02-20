@@ -4,10 +4,7 @@
 
 [![Static Badge](https://img.shields.io/badge/GitHub-sunboyallen-181717?logo=github)](https://github.com/sunboyallen)
 [![Static Badge](https://img.shields.io/badge/hexo-blog-0E83CD?logo=hexo)](https://sunboyallen.github.io/)
-[![Static Badge](https://img.shields.io/badge/X-flyingreimu-000000?logo=x)](https://twitter.com/flyingreimu)
 [![Static Badge](https://img.shields.io/badge/知乎-玄晖allen-0084FF?logo=zhihu)](https://www.zhihu.com/people/allen_sunboy)
-[![Static Badge](https://img.shields.io/badge/网易云音乐-flyingreimu-D43C33?logo=neteasecloudmusic)](https://music.163.com/#/user/home?id=629998623)
-[![Static Badge](https://img.shields.io/badge/last.fm-flyingreimu-D51007?logo=last.fm)](https://www.last.fm/zh/user/flyingreimu)
 [![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D24507963&query=%24.data.totalSubs&logo=bilibili&label=Bilibili%20fans&color=00A1D6)](https://space.bilibili.com/24507963)
 
 头像角色：[博丽灵梦](https://thwiki.cc/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6)
@@ -102,5 +99,3 @@ Assembly                 2 repos             ██░░░░░░░░░�
 
  Last Updated on 18/02/2024 16:19:13 UTC
 <!--END_SECTION:waka-->
-
-[![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=flyingreimu)](https://www.last.fm/zh/user/flyingreimu)

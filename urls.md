@@ -9,11 +9,6 @@ https://www.allhistory.com/
 
 https://secure.bitzapp.uk/
 
-https://bulink.xyz/
-
-https://www.burstlinker.com/
-<!-- bulink -->
-
 https://byr.pt/
 
 ## c
@@ -41,18 +36,6 @@ https://www.creprice.cn/
 
 https://crosst.chat/
 <!-- 十字街 -->
-
-## e
-
-https://e-hentai.org/
-
-## f
-
-https://feeder.co/
-
-https://www.flyordie.com/zh_cn/
-https://www.flyordie.com/zh_cn/billiard/
-https://www.flyordie.com/zh_cn/snooker/
 
 ## g
 
@@ -99,8 +82,6 @@ https://www.marxists.org/
 https://www.marxists.org/chinese/index.html
 https://www.marxists.org/chinese/pdf/marxism-library.htm
 
-https://metalhead.club/
-
 https://learn.microsoft.com/zh-cn/cpp/?view=msvc-170
 https://learn.microsoft.com/zh-cn/cpp/assembler/masm/ml-and-ml64-command-line-reference?view=msvc-170
 https://learn.microsoft.com/zh-cn/cpp/build/reference/linker-options?view=msvc-170
@@ -109,8 +90,6 @@ https://learn.microsoft.com/zh-cn/cpp/cpp/?view=msvc-170
 https://learn.microsoft.com/zh-cn/cpp/cpp/lambda-expressions-in-cpp?view=msvc-170
 https://learn.microsoft.com/zh-cn/powershell/
 https://learn.microsoft.com/zh-cn/typography/font-list/
-
-https://tat.midishow.com/
 
 ## n
 
@@ -121,14 +100,9 @@ https://note.ms/allen
 
 ## p
 
-https://www.pingti.app/
-<!-- 最佳平替 -->
-
 https://bbs.pku.edu.cn/v2/home.php
 
 ## s
-
-https://sese.love/
 
 https://singlelogin.re/
 <!-- Z-Library -->
@@ -175,9 +149,6 @@ https://www.vcmiao.com/
 <!-- VC喵 -->
 
 ## x
-
-https://xn--p8s937b.net/
-<!-- 汉字.net -->
 
 https://xn--z7xq16a8pb.com/
 <!-- 猫薄荷 -->
