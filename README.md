@@ -8,7 +8,7 @@
 [![Static Badge](https://img.shields.io/badge/WakaTime-sunboyallen-000000?logo=wakatime)](https://wakatime.com/@sunboyallen)
 [![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D24507963&query=%24.data.totalSubs&logo=bilibili&label=Bilibili%20fans&color=00A1D6)](https://space.bilibili.com/24507963)
 
-异时空同位体（？）：[flyingreimu](https://github.com/flyingreimu)，在空中飞行程度的能力
+异时空同位体（bushi）：[flyingreimu](https://github.com/flyingreimu)，在空中飞行程度的能力
 
 [![Static Badge](https://img.shields.io/badge/GitHub-flyingreimu-181717?logo=github)](https://github.com/flyingreimu)
 
