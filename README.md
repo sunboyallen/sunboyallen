@@ -2,9 +2,9 @@
 
 丶冖凸冖丿
 
-[![Static Badge](https://img.shields.io/badge/GitHub-sunboyallen-181717?logo=github)](https://github.com/sunboyallen)
+[![Static Badge](https://img.shields.io/badge/Academia-sunboyallen-41454A?logo=academia)](https://independent.academia.edu/sunboyallen)
 [![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D24507963&query=%24.data.totalSubs&logo=bilibili&label=Bilibili%20fans&color=00A1D6)](https://space.bilibili.com/24507963)
-[![Static Badge](https://img.shields.io/badge/Hexo-blog-0E83CD?logo=hexo)](https://sunboyallen.github.io/)
+[![Static Badge](https://img.shields.io/badge/Hexo-sunboyallen.github.io-0E83CD?logo=hexo)](https://sunboyallen.github.io/)
 ![Static Badge](https://img.shields.io/badge/Libera.chat-sunboyallen-FF55DD?logo=libera.chat)
 [![Static Badge](https://img.shields.io/badge/LinkedIn-sunboyallen-0A66C2?logo=linkedin)](https://www.linkedin.com/in/sunboyallen/)
 [![Static Badge](https://img.shields.io/badge/WakaTime-sunboyallen-000000?logo=wakatime)](https://wakatime.com/@sunboyallen)
@@ -18,7 +18,7 @@
 小号：[jihaitangguo](https://github.com/jihaitangguo)，[姬海棠果](https://thwiki.cc/%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C)的拼音
 
 [![Static Badge](https://img.shields.io/badge/GitHub-jihaitangguo-181717?logo=github)](https://github.com/jihaitangguo)
-[![Static Badge](https://img.shields.io/badge/Hexo-blog-0E83CD?logo=hexo)](https://jihaitangguo.github.io/)
+[![Static Badge](https://img.shields.io/badge/Hexo-jihaitangguo.github.io-0E83CD?logo=hexo)](https://jihaitangguo.github.io/)
 
 ![My Skills](https://skillicons.dev/icons?i=anaconda,bash,c,cmake,cpp,css,discord,django,docker,git,github,gitlab,gmail,html,instagram,js,latex,linkedin,linux,md,nodejs,opencv,postman,powershell,py,stackoverflow,twitter,visualstudio,vscode,vue)
 
