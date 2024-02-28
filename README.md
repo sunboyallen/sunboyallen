@@ -6,6 +6,7 @@
 [![Static Badge](https://img.shields.io/badge/Hexo-sunboyallen.github.io-0E83CD?logo=hexo)](https://sunboyallen.github.io/)
 ![Static Badge](https://img.shields.io/badge/Libera.chat-sunboyallen-FF55DD?logo=libera.chat)
 [![Static Badge](https://img.shields.io/badge/LinkedIn-sunboyallen-0A66C2?logo=linkedin)](https://www.linkedin.com/in/sunboyallen/)
+[![Static Badge](https://img.shields.io/badge/Microsoft_Outlook-sunboyallen@outlook.com-0078D4?logo=microsoftoutlook)](mailto:sunboyallen@outlook.com)
 [![Static Badge](https://img.shields.io/badge/WakaTime-sunboyallen-000000?logo=wakatime)](https://wakatime.com/@sunboyallen)
 ![Static Badge](https://img.shields.io/badge/Xbox-sunboyallen-107C10?logo=xbox)
 [![Static Badge](https://img.shields.io/badge/知乎-玄晖allen-0084FF?logo=zhihu)](https://www.zhihu.com/people/allen_sunboy)
