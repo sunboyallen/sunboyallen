@@ -1,10 +1,5 @@
 # URLs
 
-## a
-
-https://www.allhistory.com/
-<!-- 全历史 -->
-
 ## b
 
 https://secure.bitzapp.uk/
@@ -26,11 +21,6 @@ https://chn.oversea.cnki.net/
 https://gongjushu.cnki.net/rbook/
 <!-- cnki工具书总库 -->
 
-https://cosplaytele.com/
-
-https://cosplayworld.net/
-https://cosplayworld.net/category/nude-cosplay/
-
 https://www.creprice.cn/
 <!-- 禧泰数据 中国房价行情 -->
 
@@ -41,8 +31,6 @@ https://crosst.chat/
 
 https://www.gift-gift.jp/nui/toho.html
 
-https://kahaani.github.io/gatian/
-<!-- 潮语拼音教程 -->
 https://new-t.github.io/
 <!-- 树洞 -->
 
@@ -72,15 +60,7 @@ https://kemono.su/
 https://konachan.com/
 <!-- 图 -->
 
-## l
-
-https://www.latexlive.com/
-
 ## m
-
-https://www.marxists.org/
-https://www.marxists.org/chinese/index.html
-https://www.marxists.org/chinese/pdf/marxism-library.htm
 
 https://learn.microsoft.com/zh-cn/cpp/?view=msvc-170
 https://learn.microsoft.com/zh-cn/cpp/assembler/masm/ml-and-ml64-command-line-reference?view=msvc-170
@@ -111,11 +91,12 @@ https://sm.ms/
 <!-- 图床 -->
 
 https://liferestart.syaro.io/
-https://liferestart.syaro.io/public/index.html
+https://liferestart.syaro.io/public/
 
 ## t
 
 https://tsinghua.app/
+<!-- 星期四 Thursday -->
 https://cloud.tsinghua.edu.cn/
 https://dsa.cs.tsinghua.edu.cn/oj/
 https://ecollection.lib.tsinghua.edu.cn/databasenav/entrance/databaseNav
@@ -126,7 +107,7 @@ https://git.tsinghua.edu.cn/
 http://info.tsinghua.edu.cn/
 <!-- 信息门户 -->
 https://its.tsinghua.edu.cn/
-<!-- 信息化用户服务 -->
+<!-- 信息化 -->
 https://lib.tsinghua.edu.cn/wj/GBT7714-2015.pdf
 <!-- GB/T 7714-2015 -->
 https://mails.tsinghua.edu.cn/
@@ -138,7 +119,6 @@ https://wenjuan.tsinghua.edu.cn/
 https://zhjwxk.cic.tsinghua.edu.cn/xklogin.do
 http://mail.tsinghua.org.cn/
 <!-- 校友邮箱 -->
-http://mailservice.tsinghua.org.cn/f/home
 
 https://tuna.moe/help/ntp/
 <!-- tuna ntp 网络授时 -->
@@ -158,3 +138,4 @@ https://xn--z7xq16a8pb.com/
 https://cr.yp.to/ftp.html
 
 https://pro.yuketang.cn/v2/web/index
+<!-- 荷塘雨课堂 -->

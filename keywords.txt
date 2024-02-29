@@ -32,6 +32,7 @@ clrs solutions
 cmake
 codeforces
 coin flip
+cosplaytele
 cr.yp.to
 crossword solver
 csapp 3e solutions
@@ -70,6 +71,7 @@ foxtail-grass studio
 free-programming-books
 freecheck
 freefonts
+freeones
 full ipa chart
 gdb online debugger
 geek uninstaller
@@ -119,6 +121,7 @@ kotobank
 kpedia
 last.fm
 lastpass
+latexlive
 learn sanskrit online
 leetcode
 lernu.net
@@ -174,6 +177,7 @@ overleaf
 oxford learner's dictionaries
 pandoc
 pastebin
+perfectnaked
 pexels
 pinterest
 pipi usagi
@@ -206,6 +210,7 @@ sast skill docs
 sci-hub
 shields.io
 simple icons
+smutty
 snapseed
 solitaire
 soundcloud
@@ -354,6 +359,7 @@ zotero
 漢文html # 汉文训读
 潮典
 潮州母语
+潮语拼音教程
 火绒
 灰机wiki
 灵梦广场
@@ -379,6 +385,7 @@ zotero
 金谷武洋公式ブログ
 问卷网
 韵典网
+马克思主义文库
 马同学图解数学
 黄虎洞
 한자로 # 汉字路
