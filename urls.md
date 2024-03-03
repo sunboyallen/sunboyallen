@@ -34,23 +34,10 @@ https://www.gift-gift.jp/nui/toho.html
 https://new-t.github.io/
 <!-- 树洞 -->
 
-https://go.dev/
-
-https://godbolt.org/
-
 ## h
 
 https://hack.chat/?kt1j8rpc
-https://hack.chat/?lounge
-
-## i
-
-https://imgse.com/
-<!-- 路过图床 -->
-
-## j
-
-https://jable.tv/
+<!-- 沃玛warma -->
 
 ## k
 
@@ -63,12 +50,6 @@ https://konachan.com/
 ## m
 
 https://learn.microsoft.com/zh-cn/cpp/?view=msvc-170
-https://learn.microsoft.com/zh-cn/cpp/assembler/masm/ml-and-ml64-command-line-reference?view=msvc-170
-https://learn.microsoft.com/zh-cn/cpp/build/reference/linker-options?view=msvc-170
-https://learn.microsoft.com/zh-cn/cpp/c-language/?view=msvc-170
-https://learn.microsoft.com/zh-cn/cpp/cpp/?view=msvc-170
-https://learn.microsoft.com/zh-cn/cpp/cpp/lambda-expressions-in-cpp?view=msvc-170
-https://learn.microsoft.com/zh-cn/powershell/
 https://learn.microsoft.com/zh-cn/typography/font-list/
 
 ## n

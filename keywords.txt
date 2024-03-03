@@ -32,6 +32,7 @@ clrs solutions
 cmake
 codeforces
 coin flip
+compiler explorer # godbolt
 cosplaytele
 cr.yp.to
 crossword solver
@@ -151,10 +152,12 @@ minesweeper online
 mingw-w64
 missav
 mkdocs
+ml and ml64 command-line reference
 mobaxterm
 moji辞书
 monkeytype
 mozilla
+msvc linker options
 musescore
 musicca
 musicstax
@@ -380,6 +383,7 @@ zotero
 莉莉云
 识典古籍
 语雀
+路过图床
 辞典オンライン
 近邻词汇检索
 金谷武洋公式ブログ
