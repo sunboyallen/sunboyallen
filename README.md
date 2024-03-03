@@ -7,6 +7,7 @@
 ![Static Badge](https://img.shields.io/badge/Libera.chat-sunboyallen-FF55DD?logo=libera.chat)
 [![Static Badge](https://img.shields.io/badge/LinkedIn-sunboyallen-0A66C2?logo=linkedin)](https://www.linkedin.com/in/sunboyallen/)
 [![Static Badge](https://img.shields.io/badge/Microsoft_Outlook-sunboyallen@outlook.com-0078D4?logo=microsoftoutlook)](mailto:sunboyallen@outlook.com)
+[![Static Badge](https://img.shields.io/badge/ORCID-Nan_Yang-A6CE39?logo=orcid)](https://orcid.org/0000-0002-2652-6217)
 [![Static Badge](https://img.shields.io/badge/ResearchGate-Nan_Yang-00CCBB?logo=researchgate)](https://www.researchgate.net/profile/Nan-Yang-101)
 [![Static Badge](https://img.shields.io/badge/WakaTime-sunboyallen-000000?logo=wakatime)](https://wakatime.com/@sunboyallen)
 ![Static Badge](https://img.shields.io/badge/Xbox-sunboyallen-107C10?logo=xbox)
