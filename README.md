@@ -25,42 +25,42 @@
 ![My Skills](https://skillicons.dev/icons?i=anaconda,bash,c,cmake,cpp,css,discord,django,docker,git,github,gitlab,gmail,html,instagram,js,latex,linkedin,linux,md,nodejs,opencv,postman,powershell,py,stackoverflow,twitter,visualstudio,vscode,vue)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-2-blue)
+![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-1-blue)
 
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-2.2%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-3.0%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
 
 **🐱 我的 GitHub 数据** 
 
 > 📦  使用了 1.2 MB GitHub 存储空间 
  > 
-> 🏆 46 个贡献，在 2024 年
+> 🏆 50 个贡献，在 2024 年
  > 
 > 🚫 不开放招聘
  > 
-> 📜 12 个公共仓库 
+> 📜 3 个公共仓库 
  > 
-> 🔑 10 个私人仓库 
+> 🔑 20 个私人仓库 
  > 
 **我是夜猫子 🦉** 
 
 ```text
-🌞 早晨                     8 commits           █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-🌆 白天                     11 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-🌃 傍晚                     25 commits          ██████████████░░░░░░░░░░░   56.82 % 
+🌞 早晨                     8 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+🌆 白天                     12 commits          ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
+🌃 傍晚                     27 commits          ██████████████░░░░░░░░░░░   57.45 % 
 🌙 晚上                     0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **我最有效率是在 星期日** 
 
 ```text
-星期一                      4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-星期二                      5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-星期三                      12 commits          ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-星期四                      3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-星期五                      0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-星期六                      2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-星期日                      18 commits          ██████████░░░░░░░░░░░░░░░   40.91 % 
+星期一                      4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+星期二                      5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+星期三                      12 commits          ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
+星期四                      5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+星期五                      1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+星期六                      2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+星期日                      18 commits          ██████████░░░░░░░░░░░░░░░   38.30 % 
 ```
 
 
@@ -70,38 +70,38 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 5 hrs 6 mins        ███████████████░░░░░░░░░░   59.68 % 
-Python                   1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Text                     55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-SQL                      48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Markdown                 1 hr 53 mins        █████████░░░░░░░░░░░░░░░░   35.43 % 
+Python                   1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
+SQL                      53 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Java                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Groovy                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
 
 🔥 编辑器: 
-VS Code                  8 hrs 33 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 19 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-flyingreimu              4 hrs 36 mins       █████████████░░░░░░░░░░░░   53.83 % 
-sunboyallen              1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-python_operator          1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Database                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-jihaitangguo             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+sunboyallen              1 hr 53 mins        █████████░░░░░░░░░░░░░░░░   35.52 % 
+python_operator          1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+Database                 54 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+flyingreimu              41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+PrintNameID              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 
 💻 操作系统: 
-Windows                  8 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C++** 
 
 ```text
-C++                      8 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Python                   6 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Assembly                 2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+C++                      8 repos             ████████░░░░░░░░░░░░░░░░░   32.00 % 
+Python                   6 repos             ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 
 
 
- Last Updated on 28/02/2024 16:20:17 UTC
+ Last Updated on 02/03/2024 16:18:54 UTC
 <!--END_SECTION:waka-->
