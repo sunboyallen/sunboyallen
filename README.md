@@ -12,6 +12,7 @@
 [![Static Badge](https://img.shields.io/badge/WakaTime-sunboyallen-000000?logo=wakatime)](https://wakatime.com/@sunboyallen)
 ![Static Badge](https://img.shields.io/badge/Xbox-sunboyallen-107C10?logo=xbox)
 [![Static Badge](https://img.shields.io/badge/知乎-玄晖allen-0084FF?logo=zhihu)](https://www.zhihu.com/people/allen_sunboy)
+[![Static Badge](https://img.shields.io/badge/Zotero-sunboyallen-CC2936?logo=zotero)](https://www.zotero.org/sunboyallen)
 
 异时空同位体（bushi）：[flyingreimu](https://github.com/flyingreimu)，在空中飞行程度的能力
 
