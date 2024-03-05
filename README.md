@@ -3,7 +3,7 @@
 丶冖凸冖丿
 
 [![Static Badge](https://img.shields.io/badge/Academia-sunboyallen-41454A?logo=academia)](https://independent.academia.edu/sunboyallen)
-[![Static Badge](https://img.shields.io/badge/Hexo-sunboyallen.github.io-0E83CD?logo=hexo)](https://sunboyallen.github.io/)
+[![Static Badge](https://img.shields.io/badge/GitHub_Pages-sunboyallen.github.io-222222?logo=githubpages)](https://sunboyallen.github.io/)
 ![Static Badge](https://img.shields.io/badge/Libera.chat-sunboyallen-FF55DD?logo=libera.chat)
 [![Static Badge](https://img.shields.io/badge/LinkedIn-sunboyallen-0A66C2?logo=linkedin)](https://www.linkedin.com/in/sunboyallen/)
 [![Static Badge](https://img.shields.io/badge/Microsoft_Outlook-sunboyallen@outlook.com-0078D4?logo=microsoftoutlook)](mailto:sunboyallen@outlook.com)
@@ -11,7 +11,6 @@
 [![Static Badge](https://img.shields.io/badge/ResearchGate-Nan_Yang-00CCBB?logo=researchgate)](https://www.researchgate.net/profile/Nan-Yang-101)
 [![Static Badge](https://img.shields.io/badge/WakaTime-sunboyallen-000000?logo=wakatime)](https://wakatime.com/@sunboyallen)
 ![Static Badge](https://img.shields.io/badge/Xbox-sunboyallen-107C10?logo=xbox)
-[![Static Badge](https://img.shields.io/badge/知乎-玄晖allen-0084FF?logo=zhihu)](https://www.zhihu.com/people/allen_sunboy)
 [![Static Badge](https://img.shields.io/badge/Zotero-sunboyallen-CC2936?logo=zotero)](https://www.zotero.org/sunboyallen)
 
 异时空同位体（bushi）：[flyingreimu](https://github.com/flyingreimu)，在空中飞行程度的能力
@@ -21,7 +20,7 @@
 小号：[jihaitangguo](https://github.com/jihaitangguo)，[姬海棠果](https://thwiki.cc/%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C)的拼音
 
 [![Static Badge](https://img.shields.io/badge/GitHub-jihaitangguo-181717?logo=github)](https://github.com/jihaitangguo)
-[![Static Badge](https://img.shields.io/badge/Hexo-jihaitangguo.github.io-0E83CD?logo=hexo)](https://jihaitangguo.github.io/)
+[![Static Badge](https://img.shields.io/badge/GitHub_Pages-jihaitangguo.github.io-222222?logo=githubpages)](https://jihaitangguo.github.io/)
 
 ![My Skills](https://skillicons.dev/icons?i=anaconda,bash,c,cmake,cpp,css,discord,django,docker,git,github,gitlab,gmail,html,instagram,js,latex,linkedin,linux,md,nodejs,opencv,postman,powershell,py,stackoverflow,twitter,visualstudio,vscode,vue)
 
