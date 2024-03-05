@@ -4,7 +4,7 @@
 
 [![Static Badge](https://img.shields.io/badge/Academia-sunboyallen-41454A?logo=academia)](https://independent.academia.edu/sunboyallen)
 [![Static Badge](https://img.shields.io/badge/GitHub_Pages-sunboyallen.github.io-222222?logo=githubpages)](https://sunboyallen.github.io/)
-![Static Badge](https://img.shields.io/badge/Libera.chat-sunboyallen-FF55DD?logo=libera.chat)
+![Static Badge](https://img.shields.io/badge/Libera.Chat-sunboyallen-FF55DD?logo=libera.chat)
 [![Static Badge](https://img.shields.io/badge/LinkedIn-sunboyallen-0A66C2?logo=linkedin)](https://www.linkedin.com/in/sunboyallen/)
 [![Static Badge](https://img.shields.io/badge/Microsoft_Outlook-sunboyallen@outlook.com-0078D4?logo=microsoftoutlook)](mailto:sunboyallen@outlook.com)
 [![Static Badge](https://img.shields.io/badge/ORCID-Nan_Yang-A6CE39?logo=orcid)](https://orcid.org/0000-0002-2652-6217)
