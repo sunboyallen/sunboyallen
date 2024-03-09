@@ -109,8 +109,6 @@ introduction to automata theory, languages, and computation
 iotdb
 ipa i-charts
 iso
-javgg
-javlibrary
 jdk
 jflap
 jisho.org
@@ -364,9 +362,6 @@ zotero
 潮州母语
 潮语拼音教程
 火绒
-灰机wiki
-灵梦广场
-灵梦御所
 爱校对
 爱给网
 琉璃神社
@@ -383,7 +378,6 @@ zotero
 莉莉云
 识典古籍
 语雀
-路过图床
 辞典オンライン
 近邻词汇检索
 金谷武洋公式ブログ
