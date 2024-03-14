@@ -25,17 +25,17 @@
 ![My Skills](https://skillicons.dev/icons?i=anaconda,bash,c,cmake,cpp,css,discord,django,docker,git,github,gitlab,gmail,html,instagram,js,latex,linkedin,linux,md,nodejs,opencv,postman,powershell,py,stackoverflow,twitter,visualstudio,vscode,vue)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2024%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-3-blue)
+![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-2-blue)
 
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-1.2%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-1.7%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
 
 **🐱 我的 GitHub 数据** 
 
 > 📦  使用了 1.4 MB GitHub 存储空间 
  > 
-> 🏆 119 个贡献，在 2024 年
+> 🏆 127 个贡献，在 2024 年
  > 
 > 🚫 不开放招聘
  > 
@@ -43,24 +43,24 @@
  > 
 > 🔑 20 个私人仓库 
  > 
-**我是早起的 🐤** 
+**我是夜猫子 🦉** 
 
 ```text
-🌞 早晨                     23 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-🌆 白天                     42 commits          ████████░░░░░░░░░░░░░░░░░   32.31 % 
-🌃 傍晚                     54 commits          ██████████░░░░░░░░░░░░░░░   41.54 % 
-🌙 晚上                     11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+🌞 早晨                     24 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+🌆 白天                     44 commits          ████████░░░░░░░░░░░░░░░░░   31.88 % 
+🌃 傍晚                     57 commits          ██████████░░░░░░░░░░░░░░░   41.30 % 
+🌙 晚上                     13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
 ```
 📅 **我最有效率是在 星期日** 
 
 ```text
-星期一                      20 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-星期二                      26 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-星期三                      21 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-星期四                      19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-星期五                      1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-星期六                      13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-星期日                      30 commits          ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+星期一                      20 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+星期二                      26 commits          █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+星期三                      21 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+星期四                      27 commits          █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+星期五                      1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+星期六                      13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+星期日                      30 commits          █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
 ```
 
 
@@ -70,38 +70,38 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   8 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   32.84 % 
-Vue.js                   6 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
-Markdown                 3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-C++                      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-JavaScript               50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Python                   8 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   32.23 % 
+Vue.js                   6 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
+Markdown                 3 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+C++                      1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+JSON                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 
 🔥 编辑器: 
-VS Code                  25 hrs 25 mins      █████████████████████████   100.00 % 
+VS Code                  27 hrs 9 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-web_compression          12 hrs 2 mins       ████████████░░░░░░░░░░░░░   47.37 % 
-python_operator          3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-sunboyallen              1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-benchmark                1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-BLOG                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+web_compression          13 hrs 14 mins      ████████████░░░░░░░░░░░░░   48.75 % 
+python_operator          3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+BLOG                     2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+benchmark                1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+OOP                      1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
 
 💻 操作系统: 
-Windows                  25 hrs 25 mins      █████████████████████████   100.00 % 
+Windows                  27 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C++** 
 
 ```text
 C++                      8 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
-Python                   6 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-C                        3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Python                   7 repos             ███████░░░░░░░░░░░░░░░░░░   26.92 % 
 JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 
 
 
- Last Updated on 13/03/2024 16:19:38 UTC
+ Last Updated on 14/03/2024 16:20:43 UTC
 <!--END_SECTION:waka-->
