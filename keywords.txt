@@ -1,36 +1,22 @@
-139邮箱
 16personalities
-189邮箱
-35photo
 7-zip
-abbreviations.com
-about.me
 academic word list
 acm digital library
-akinator
 amiami
-aminer
 anaconda
 anna's archive
 apa style
-asian to lick
 assembly language for x86 processors
-bakaxl
-bangumi番组计划
 bcc语料库
 behind the name
-bigjpg
 bootstrap
 bpm finder
 britannica
 bytedance iconpark 字节跳动图标库
 canva可画
-catalogue of life
-character.ai
 chunk base
 clrs solutions
 cmake
-codeforces
 coin flip
 compiler explorer # godbolt
 cosplaytele
@@ -62,7 +48,6 @@ etymonline
 excalidraw
 e国宝
 fandom
-feeder.co
 ffmpeg
 figma
 firefox
@@ -84,12 +69,9 @@ git
 gitbook
 github readme stats
 gitmind
-glosbe
 glyphwiki
-goo辞書
 gravatar
 greasy fork
-gyate booru
 hack chat
 handraw
 hangman
@@ -111,7 +93,6 @@ ipa i-charts
 iso
 jdk
 jflap
-jisho.org
 jmeter
 joysound
 jsfuck
@@ -119,7 +100,6 @@ k'sbookshelf
 kotobank
 kpedia
 last.fm
-lastpass
 latexlive
 learn sanskrit online
 leetcode
@@ -133,11 +113,9 @@ material for mkdocs
 matplotlib
 maven
 maze generator
-mc百科
 mdn web docs
 medle
 meenfox
-mega
 merriam-webster
 microsoft 365
 microsoft learn
@@ -148,12 +126,10 @@ minecraft wiki
 minecraft幻想乡
 minesweeper online
 mingw-w64
-missav
 mkdocs
 ml and ml64 command-line reference
 mobaxterm
 moji辞书
-monkeytype
 mozilla
 msvc linker options
 musescore
@@ -162,7 +138,6 @@ musicstax
 mystia's menu
 naver dictionary
 netron
-nga玩家社区
 nhentai
 nicotalk
 node.js
@@ -177,16 +152,12 @@ orcid
 overleaf
 oxford learner's dictionaries
 pandoc
-pastebin
 perfectnaked
 pexels
 pinterest
-pipi usagi
 pixiv
 plos
 plurk
-poem analysis
-poets.org
 porn dude
 potato godzilla
 prettier
@@ -203,7 +174,6 @@ reta vortaro
 rime
 roblox
 rule 34
-runkit
 saiblo
 sankaku complex
 sanskrit dictionary
@@ -219,8 +189,6 @@ speedpdf
 spotify
 spssau
 sr2jr # textbook solutions
-stack exchange
-stack overflow
 standard c++
 statista
 studocu
@@ -244,7 +212,6 @@ ubuntu manpage
 uigradients
 unicode
 unicode character code charts
-v2ex
 video2edit
 virtual judge
 visual studio
@@ -264,16 +231,11 @@ weblio
 webpack
 wfg 部件檢索
 wgt
-wikipedia
-wikisource
-wiktionary
 wolfram
 wolfram mathworld
-wombo
 wordle
 world time api
 x-mol学术平台
-xerocos
 xmind
 x岛揭示板
 y8.com
@@ -288,12 +250,9 @@ zotero
 ハダカjapan # 裸 写真
 万葉集
 东方我乐多丛志
-中华语文知识库
 中国哲学书电子化计划
 中国大学mooc
-中国政府网
 中国社会报数字报
-中文音mad维基
 久遠の絆ファンサイト
 书格
 人民数据
@@ -309,7 +268,6 @@ zotero
 吾道幻灯片
 和漢朗詠集
 哔咔漫画
-喵玉殿论坛
 国家标准全文公开
 国立公文書館
 国立国语院韩国语-汉语学习词典
@@ -317,7 +275,6 @@ zotero
 在线节拍器
 在线钢琴模拟器
 坚果云
-塔罗馆
 大辞林 特別ページ
 字海网
 字统网
@@ -331,13 +288,11 @@ zotero
 康熙字典網上版
 引得市
 志愿北京
-慕课网
 我搜云网盘
 掌桥科研
 摹客
 数字化说文解字
 文叔叔
-文泉学堂
 日本語俗語辞書
 日本語品詞分解ツール
 日本语形态素解析
@@ -346,7 +301,6 @@ zotero
 東方おっぱいタグ一覧
 東方乳議論
 林崇安教授文集
-樱盒
 歌ネット
 歌詞検索
 永乐大典高清影像数据库系统
@@ -364,11 +318,7 @@ zotero
 火绒
 爱校对
 爱给网
-琉璃神社
 百度指数
-看云
-石墨文档
-研控
 神奇海螺试验场
 禁漫天堂
 秀米
@@ -384,6 +334,5 @@ zotero
 问卷网
 韵典网
 马克思主义文库
-马同学图解数学
 黄虎洞
 한자로 # 汉字路

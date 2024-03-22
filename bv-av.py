@@ -20,3 +20,8 @@ def enc(x):
     for i in range(6):
         r[s[i]] = table[x // 58 ** i % 58]
     return ''.join(r)
+
+
+if __name__ == '__main__':
+    print(dec('BV17x411w7KC'))
+    print(enc(170001))

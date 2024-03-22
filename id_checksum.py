@@ -19,4 +19,4 @@ if __name__ == '__main__':
         checksum = id_checksum(id_card_17)
         print(checksum)
     except ValueError:
-        print('error')
+        print('Invalid input')
