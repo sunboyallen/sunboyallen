@@ -1,0 +1,293 @@
+7-zip
+academic word list
+acm digital library
+amiami
+anaconda
+anna's archive
+apa style
+assembly language for x86 processors
+bcc语料库
+behind the name
+bootstrap
+bpm finder
+britannica
+bytedance iconpark 字节跳动图标库
+canva可画
+chunk base
+clrs solutions
+cmake
+cnki工具书总库
+coin flip
+compiler explorer # godbolt
+cr.yp.to
+crossword solver
+csapp 3e solutions
+csdiy
+cssci
+data structure visualization
+desmos
+devanāgarī
+diffchecker
+discord
+disqus
+django
+donmai
+doxygen
+duolingo
+either choice
+element
+emojiall
+emojipedia
+enazo # 绘谜
+encyclopedia of buddhism
+etymonline
+excalidraw
+e国宝
+fandom
+ffmpeg
+figma
+firefox
+flagpedia
+font awesome
+foxtail-grass studio
+free-programming-books
+freecheck
+freefonts
+full ipa chart
+gdb online debugger
+geek uninstaller
+geeksforgeeks
+geogebra
+git
+gitbook
+github readme stats
+gitmind
+glyphwiki
+gravatar
+greasy fork
+hack chat
+handraw
+hangman
+hexo
+hexo next
+i wanna be the guy
+iconfont 阿里巴巴矢量图标库
+ieee sa
+ieee xplore
+ilovepdf
+imdb
+intellij idea
+international phonetic association
+introduction to automata theory, languages, and computation
+iotdb
+ipa i-charts
+iso
+jdk
+jetbrains
+jflap
+jmeter
+joysound
+jsfuck
+k'sbookshelf
+kemono
+konachan
+kotobank
+kpedia
+last.fm
+latexlive
+learn sanskrit online
+leetcode
+lernu.net
+libera chat # irc
+line rider
+littleskin # minecraft皮肤站
+mactutor index
+mastodon
+material for mkdocs
+matplotlib
+maven
+maze generator
+mdn web docs
+medle
+merriam-webster
+microsoft 365
+microsoft font list
+microsoft learn
+midishow
+mikutap
+mindmeister
+minesweeper online
+mingw-w64
+mkdocs
+ml and ml64 command-line reference
+mobaxterm
+mozilla
+msvc linker options
+musescore
+musicstax
+mystia's menu
+naver dictionary
+netron
+nicotalk
+node.js
+numpy
+oeis
+oi wiki
+online latin dictionary
+open standards
+openyyy
+orcid
+overleaf
+oxford learner's dictionaries
+pandoc
+perfectnaked
+pexels
+pinterest
+pixiv
+plurk
+prettier
+processon
+programming fonts
+ptable
+punycode converter
+qbittorrent
+qt
+quora
+reddit
+regexr
+reta vortaro
+rime
+roblox
+rule 34
+saiblo
+samplelib
+sankaku complex
+sanskrit dictionary
+sast skill docs
+sci-hub
+shields.io
+simple icons
+snapseed
+soundcloud
+spotify
+sr2jr # textbook solutions
+standard c++
+studocu
+tannhauser.moe
+tensorflow
+texlive
+thbwiki
+time.is
+timeanddate
+tiobe index
+topsters
+truth table generator
+tumblr
+ubc sanskrit learning tools
+ubuntu
+ubuntu manpage
+uigradients
+unicode
+unicode character code charts
+video2edit
+visual studio
+visual studio code
+vlc media player
+vmware workstation pro
+vocal remover
+vue
+w3schools
+wakatime
+wallhaven.cc
+warmatap
+watt toolkit
+web scrobbler
+weblio
+webpack
+wfg 部件檢索
+wgt
+wolfram
+wolfram mathworld
+wordle
+world time api
+xmind
+zotero
+うたてん
+ニコニコ
+万葉集
+东方我乐多丛志
+中国哲学书电子化计划
+中国大学mooc
+久遠の絆ファンサイト
+书格
+今年の漢字
+信息与文献 参考文献著录规则 # GB/T 7714-2015
+内閣告示 内閣訓令
+十字街
+古事記
+古典文法
+古音小镜
+名前辞典
+向日葵
+吾道幻灯片
+和漢朗詠集
+国家标准全文公开
+国立公文書館
+国立国语院韩国语-汉语学习词典
+图寻
+在线节拍器
+在线钢琴模拟器
+坚果云
+大辞林 特別ページ
+字海网
+字统网
+季語と歳時記
+学信网
+学堂在线
+小学堂
+常用漢字表
+广韵形声考
+広辞苑無料検索
+康熙字典網上版
+引得市
+志愿北京
+我搜云网盘
+掌桥科研
+摹客
+数字化说文解字
+文叔叔
+日本語俗語辞書
+本命角色测试
+東方lostword
+東方project ぬいぐるみ
+林崇安教授文集
+歌ネット
+歌詞検索
+永乐大典高清影像数据库系统
+求是
+汉仪陈体甲骨文
+汉兜
+深言达意
+清华大学tuna协会
+漢字ペディア
+漢文html # 汉文训读
+潮典
+潮州母语
+潮语拼音教程
+火绒
+爱给网
+百度指数
+神奇海螺试验场
+秀米
+稿定设计
+约定式提交
+聚合图床
+莉莉云
+识典古籍
+辞典オンライン
+近邻词汇检索
+金谷武洋公式ブログ
+韵典网
+马克思主义文库
+黄虎洞
+한자로 # 汉字路
