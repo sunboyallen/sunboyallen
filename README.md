@@ -1,7 +1,5 @@
 # sunboyallen
 
-丶冖凸冖丿
-
 [![Static Badge](https://img.shields.io/badge/GitHub_Pages-sunboyallen.github.io-222222?logo=githubpages)](https://sunboyallen.github.io/)
 [![Static Badge](https://img.shields.io/badge/Microsoft_Outlook-sunboyallen@outlook.com-0078D4?logo=microsoftoutlook)](mailto:sunboyallen@outlook.com)
 [![Static Badge](https://img.shields.io/badge/WakaTime-sunboyallen-000000?logo=wakatime)](https://wakatime.com/@sunboyallen)
