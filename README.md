@@ -9,7 +9,7 @@
 [![Static Badge](https://img.shields.io/badge/GitHub-jihaitangguo-181717?logo=github)](https://github.com/jihaitangguo)
 [![Static Badge](https://img.shields.io/badge/GitHub_Pages-jihaitangguo.github.io-222222?logo=githubpages)](https://jihaitangguo.github.io/)
 
-![My Skills](https://skillicons.dev/icons?i=anaconda,bash,c,cmake,cpp,css,discord,django,docker,git,github,gitlab,gmail,html,instagram,js,latex,linkedin,linux,md,nodejs,opencv,postman,powershell,py,stackoverflow,twitter,visualstudio,vscode,vue)
+![My Skills](https://skillicons.dev/icons?i=anaconda,bash,c,cmake,cpp,css,discord,django,docker,git,github,gitlab,gmail,html,js,latex,linux,md,nodejs,opencv,postman,powershell,py,visualstudio,vscode,vue)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-180%20hrs%2022%20mins-blue)
