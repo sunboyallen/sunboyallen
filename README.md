@@ -11,6 +11,16 @@
 
 ![My Skills](https://skillicons.dev/icons?i=anaconda,bash,c,cmake,cpp,css,discord,django,docker,git,github,gitlab,gmail,html,js,latex,linux,md,nodejs,opencv,postman,powershell,py,visualstudio,vscode,vue)
 
+
+<link href="kanbun.css" rel="stylesheet" />
+<script src="kanbun.js"></script>
+<div style="display: flex; justify-content: center; align-items: center;">
+<div class="kanbun okurigana-sinking" id="sample">
+氣霽レテハ風梳ル[二]新柳ノ髮ヲ[一]，氷消エテハ浪洗フ[二]舊苔ノ鬚ヲ[一]。
+</div>
+</div>
+<script>convertKanbunDiv(document.getElementById("sample"));</script>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-224%20hrs%2048%20mins-blue)
 
