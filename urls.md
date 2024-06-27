@@ -16,18 +16,10 @@ https://thu.closed.social/
 https://new-t.github.io/
 <!-- 树洞 -->
 
-## h
-
-https://hack.chat/?kt1j8rpc
-<!-- 沃玛warma -->
-
 ## s
 
-https://singlelogin.re/
+https://zh.singlelogin.re/
 <!-- Z-Library -->
-
-https://liferestart.syaro.io/
-https://liferestart.syaro.io/public/
 
 ## t
 
@@ -36,8 +28,6 @@ https://tsinghua.app/
 https://dsa.cs.tsinghua.edu.cn/oj/
 https://ecollection.lib.tsinghua.edu.cn/journalnav/home
 <!-- 电子期刊 -->
-https://git.tsinghua.edu.cn/
-https://info2021.tsinghua.edu.cn/
 https://planet.tsinghua.edu.cn/
 https://wenjuan.tsinghua.edu.cn/
 http://mail.tsinghua.org.cn/
@@ -46,7 +36,3 @@ http://mail.tsinghua.org.cn/
 https://tuna.moe/help/ntp/
 <!-- tuna ntp 网络授时 -->
 
-## v
-
-https://www.vcmiao.com/
-<!-- VC喵 -->

@@ -99,6 +99,7 @@ learn sanskrit online
 leetcode
 lernu.net
 libera chat # irc
+liferestart # 人生重开模拟器
 line rider
 littleskin # minecraft皮肤站
 mactutor index
@@ -173,8 +174,11 @@ spotify
 sr2jr # textbook solutions
 standard c++
 studocu
+stylus
+tailwind css
 tannhauser.moe
 tensorflow
+test ipv6
 texlive
 thbwiki
 time.is
