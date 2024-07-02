@@ -19,6 +19,7 @@ cmake
 cnki工具书总库
 coin flip
 compiler explorer # godbolt
+coursex 课程信息共享计划
 cr.yp.to
 crossword solver
 csapp 3e solutions
@@ -186,7 +187,9 @@ timeanddate
 tiobe index
 topsters
 truth table generator
+tsinghua online judge
 tumblr
+tuna ntp 网络授时
 ubc sanskrit learning tools
 ubuntu
 ubuntu manpage
@@ -216,7 +219,6 @@ wordle
 world time api
 xmind
 zotero
-うたてん
 ニコニコ
 万葉集
 东方我乐多丛志
@@ -228,6 +230,7 @@ zotero
 信息与文献 参考文献著录规则 # GB/T 7714-2015
 内閣告示 内閣訓令
 十字街
+华清大学课程攻略共享计划
 古事記
 古典文法
 古音小镜
@@ -265,6 +268,7 @@ zotero
 東方lostword
 東方project ぬいぐるみ
 林崇安教授文集
+校友邮箱 清华校友总会
 歌ネット
 歌詞検索
 永乐大典高清影像数据库系统
@@ -273,6 +277,7 @@ zotero
 汉兜
 深言达意
 清华大学tuna协会
+清华大学调查问卷系统
 漢字ペディア
 漢文html # 汉文训读
 潮典
@@ -291,6 +296,7 @@ zotero
 辞典オンライン
 近邻词汇检索
 金谷武洋公式ブログ
+闭社 清华站
 韵典网
 马克思主义文库
 黄虎洞
