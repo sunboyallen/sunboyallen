@@ -218,6 +218,7 @@ wolfram mathworld
 wordle
 world time api
 xmind
+z-library singlelogin.re
 zotero
 ニコニコ
 万葉集
@@ -229,6 +230,7 @@ zotero
 今年の漢字
 信息与文献 参考文献著录规则 # GB/T 7714-2015
 内閣告示 内閣訓令
+北邮人论坛 byr.pt
 十字街
 华清大学课程攻略共享计划
 古事記

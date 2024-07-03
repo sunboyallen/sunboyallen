@@ -65,6 +65,3 @@ def urls_sort(filepath: str):
             if 'comment' in urls[i]:
                 f.write(urls[i]['comment'] + '\n')
 
-
-if __name__ == '__main__':
-    urls_sort('urls.md')
