@@ -45,7 +45,7 @@ def urls_sort(filepath: str):
 
     urls.sort(key=custom_sort_key)
 
-    with open(filepath, 'w', encoding='utf-8') as f:
+    with open(filepath, 'w', encoding='utf-8', newline='\n') as f:
         f.write('# URLs\n')
         for i in range(len(urls)):
             current_tld_info = tld_extract(urls[i]['url'])
