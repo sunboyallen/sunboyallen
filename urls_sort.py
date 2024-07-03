@@ -64,4 +64,3 @@ def urls_sort(filepath: str):
             f.write(urls[i]['url'] + '\n')
             if 'comment' in urls[i]:
                 f.write(urls[i]['comment'] + '\n')
-
