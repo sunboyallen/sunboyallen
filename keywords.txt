@@ -196,6 +196,7 @@ ubuntu manpage
 uigradients
 unicode
 unicode character code charts
+uptodown # apk下载
 video2edit
 visual studio
 visual studio code
