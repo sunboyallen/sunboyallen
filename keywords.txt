@@ -12,7 +12,6 @@ bootstrap
 bpm finder
 britannica
 bytedance iconpark 字节跳动图标库
-canva可画
 chunk base
 clrs solutions
 cmake
@@ -30,59 +29,43 @@ desmos
 devanāgarī
 diffchecker
 discord
-disqus
 django
 donmai
 doxygen
-duolingo
 either choice
-element
-emojiall
-emojipedia
 enazo # 绘谜
 encyclopedia of buddhism
 etymonline
-excalidraw
+excalidraw # 手写白板
 e国宝
-fandom
 ffmpeg
-figma
 firefox
 flagpedia
 font awesome
 foxtail-grass studio
 free-programming-books
-freecheck
 freefonts
 full ipa chart
 gdb online debugger
 geek uninstaller
-geeksforgeeks
 geogebra
 git
-gitbook
 github readme stats
-gitmind
 glyphwiki
-gravatar
 greasy fork
 hack chat
-handraw
+handraw # 手写白板
 hangman
 hexo
 hexo next
 i wanna be the guy
 iconfont 阿里巴巴矢量图标库
-ieee sa
-ieee xplore
-ilovepdf
 imdb
-intellij idea
+intellij idea # jetbrains
 international phonetic association
 introduction to automata theory, languages, and computation
 iotdb
 ipa i-charts
-iso
 jdk
 jetbrains
 jflap
@@ -101,10 +84,8 @@ leetcode
 lernu.net
 libera chat # irc
 liferestart # 人生重开模拟器
-line rider
-littleskin # minecraft皮肤站
+littleskin # minecraft 皮肤站
 mactutor index
-mastodon
 material for mkdocs
 matplotlib
 maven
@@ -117,7 +98,6 @@ microsoft font list
 microsoft learn
 midishow
 mikutap
-mindmeister
 minesweeper online
 mingw-w64
 mkdocs
@@ -125,7 +105,6 @@ ml and ml64 command-line reference
 mobaxterm
 mozilla
 msvc linker options
-musescore
 musicstax
 mystia's menu
 naver dictionary
@@ -138,43 +117,26 @@ oi wiki
 online latin dictionary
 open standards
 openyyy
-orcid
 overleaf
 oxford learner's dictionaries
 pandoc
-perfectnaked
-pexels
-pinterest
 pixiv
-plurk
 prettier
-processon
 programming fonts
 ptable
 punycode converter
 qbittorrent
 qt
-quora
-reddit
 regexr
 reta vortaro
 rime
-roblox
-rule 34
-saiblo
-samplelib
-sankaku complex
 sanskrit dictionary
-sast skill docs
+saucenao
 sci-hub
 shields.io
 simple icons
 snapseed
-soundcloud
-spotify
 sr2jr # textbook solutions
-standard c++
-studocu
 stylus
 tailwind css
 tannhauser.moe
@@ -196,15 +158,12 @@ ubuntu manpage
 uigradients
 unicode
 unicode character code charts
-uptodown # apk下载
-video2edit
+uptodown # apk 下载
 visual studio
 visual studio code
 vlc media player
-vmware workstation pro
 vocal remover
 vue
-w3schools
 wakatime
 wallhaven.cc
 warmatap
@@ -218,14 +177,12 @@ wolfram
 wolfram mathworld
 wordle
 world time api
-xmind
 z-library singlelogin.re
 zotero
 ニコニコ
 万葉集
 东方我乐多丛志
 中国哲学书电子化计划
-中国大学mooc
 久遠の絆ファンサイト
 书格
 今年の漢字
@@ -239,12 +196,10 @@ zotero
 古音小镜
 名前辞典
 向日葵
-吾道幻灯片
 和漢朗詠集
 国家标准全文公开
 国立公文書館
 国立国语院韩国语-汉语学习词典
-图寻
 在线节拍器
 在线钢琴模拟器
 坚果云
@@ -262,7 +217,6 @@ zotero
 引得市
 志愿北京
 我搜云网盘
-掌桥科研
 摹客
 数字化说文解字
 文叔叔
@@ -291,7 +245,6 @@ zotero
 百度指数
 神奇海螺试验场
 秀米
-稿定设计
 约定式提交
 聚合图床
 莉莉云
