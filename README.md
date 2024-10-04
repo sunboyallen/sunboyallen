@@ -7,7 +7,7 @@
 ![My Skills](https://skillicons.dev/icons?i=anaconda,bash,c,cmake,cpp,css,discord,django,docker,git,github,gitlab,gmail,html,js,latex,linux,md,nodejs,opencv,postman,powershell,py,visualstudio,vscode,vue)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-504%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-505%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-4-blue)
 
@@ -26,5 +26,5 @@
 > 🔑 30 个私人仓库 
  > 
 
- Last Updated on 03/10/2024 16:26:44 UTC
+ Last Updated on 04/10/2024 16:27:15 UTC
 <!--END_SECTION:waka-->
