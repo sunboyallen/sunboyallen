@@ -4,7 +4,7 @@
 [![Static Badge](https://img.shields.io/badge/Microsoft_Outlook-sunboyallen@outlook.com-0078D4?logo=microsoftoutlook)](mailto:sunboyallen@outlook.com)
 [![Static Badge](https://img.shields.io/badge/WakaTime-sunboyallen-000000?logo=wakatime)](https://wakatime.com/@sunboyallen)
 
-![My Skills](https://skillicons.dev/icons?i=anaconda,bash,c,cmake,cpp,css,discord,django,docker,git,github,gitlab,gmail,html,js,latex,linux,md,nodejs,opencv,postman,powershell,py,visualstudio,vscode,vue)
+![My Skills](https://skillicons.dev/icons?i=anaconda,bash,c,cs,cpp,clion,cmake,css,discord,django,docker,git,github,githubactions,gradle,html,idea,java,js,latex,linux,md,maven,nodejs,opencv,postman,powershell,py,qt,regex,ubuntu,visualstudio,vscode,vue,windows)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-485%20hrs%2031%20mins-blue)
